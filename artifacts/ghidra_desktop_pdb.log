@@ -1,0 +1,219 @@
+2026-10-23 18:07:16 INFO  (LoggingInitialization) Using log config file: jar:file:/C:/Users/[user]/Downloads/anna-re/tools/ghidra_12.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2026-10-23 18:07:16 INFO  (LoggingInitialization) Using log file: C:\Users\[user]\Downloads\mstts-re\artifacts\ghidra_desktop_pdb.log  
+2026-10-23 18:07:16 DEBUG (GhidraObjectInputFilter) Including serial input filter: FileSystem/data/client.rmi.serial.filter  
+2026-10-23 18:07:16 INFO  (Preferences) Loading user preferences: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\preferences  
+2026-10-23 18:07:16 INFO  (ClassSearcher) Searching for classes...  
+2026-10-23 18:07:17 INFO  (ClassSearcher) Class search complete (1416 ms)  
+2026-10-23 18:07:18 INFO  (DefaultSSLContextInitializer) Initializing SSL Context  
+2026-10-23 18:07:18 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2026-10-23 18:07:18 INFO  (SecureRandomFactory) Random Number Generator initialization complete: SHA1PRNG  
+2026-10-23 18:07:18 INFO  (DefaultTrustManagerFactory) Loaded 49 trusted CA certificates from the OS trust store.  
+2026-10-23 18:07:18 INFO  (DefaultTrustManagerFactory) Loaded 118 trusted CA certificates from the Java default trust store.  
+2026-10-23 18:07:18 INFO  (AnalyzeHeadless) Headless startup complete (3897 ms)  
+2026-10-23 18:07:18 INFO  (ClassSearcher) Class searcher loaded 60 extension points (19 false positives)  
+2026-10-23 18:07:19 INFO  (HeadlessAnalyzer) HEADLESS Script Paths:
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\Atmel\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\PDB\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\VersionTracking\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\Base\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\WildcardAssembler\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\PyGhidra\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\MicrosoftCodeAnalyzer\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Debug\Debugger\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\FileFormats\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\JVM\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\Decompiler\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\BSim\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\BytePatterns\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\Swift\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\GnuDemangler\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\DecompilerDependent\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\FunctionID\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\SystemEmulation\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\PIC\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\8051\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\DATA\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Debug\Debugger-rmi-trace\ghidra_scripts  
+2026-10-23 18:07:19 INFO  (HeadlessAnalyzer) HEADLESS: execution starts  
+2026-10-23 18:07:19 INFO  (HeadlessAnalyzer) Opening existing project: C:\Users\[user]\Downloads\mstts-re\ghidra_proj_pdb\MSTTS  
+2026-10-23 18:07:19 INFO  (HeadlessProject) Opening project: C:\Users\[user]\Downloads\mstts-re\ghidra_proj_pdb\MSTTS  
+2026-10-23 18:07:19 INFO  (HeadlessAnalyzer) REPORT: Processing input files:   
+2026-10-23 18:07:19 INFO  (HeadlessAnalyzer)      project: C:\Users\[user]\Downloads\mstts-re\ghidra_proj_pdb\MSTTS  
+2026-10-23 18:07:19 INFO  (HeadlessAnalyzer) IMPORTING: file:///C:/Users/[user]/Downloads/mstts-re/artifacts/bin/MSTTSEngine.dll  
+2026-10-23 18:07:24 DEBUG (SleighLanguage) Took 583ms (249ms inside lock) to initialize language C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\x86\data\languages\x86-64.slaspec -> C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\x86\data\languages\x86-64.sla  
+2026-10-23 18:07:24 INFO  (ProgramLoader) Using Loader: Portable Executable (PE)  
+2026-10-23 18:07:24 INFO  (ProgramLoader) Using Language/Compiler: x86:LE:64:default:windows  
+2026-10-23 18:07:24 INFO  (ProgramLoader) Using Library Search Path: [., C:\WINDOWS\SysWOW64, C:\Users\[user]\Downloads\samre\tools\jdk-25.0.4.1+1\bin, C:\WINDOWS\Sun\Java\bin, C:\WINDOWS\system32, C:\WINDOWS, C:\WINDOWS\System32\Wbem, C:\WINDOWS\System32\WindowsPowerShell\v1.0\, C:\WINDOWS\System32\OpenSSH\, C:\Program Files\dotnet\, C:\Program Files\nodejs\, C:\ProgramData\chocolatey\bin, C:\ProgramData\chocolatey\lib\mpvio.install\tools, C:\Users\[user]\AppData\Local\Python\pythoncore-3.14-64\Scripts, C:\Program Files\GitHub CLI\, C:\Users\[user]\.cargo\bin, C:\Users\[user]\.local\bin, C:\Users\[user]\AppData\Local\Microsoft\WindowsApps, C:\Users\[user]\AppData\Local\Programs\Microsoft VS Code\bin, C:\Users\[user]\AppData\Local\Python\bin, C:\Users\[user]\AppData\Local\Programs\Git\cmd, C:\Users\[user]\AppData\Roaming\npm, C:\Users\[user]\AppData\Local\Programs\cursor\resources\app\bin, C:\Users\[user]\AppData\Local\omp, C:\Users\[user]\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim, C:\Users\[user]\AppData\Local\Programs\Git\bin, C:\Users\[user]\AppData\Local\Programs\Git\usr\bin]  
+2026-10-23 18:07:25 DEBUG (WEVTResourceDataType) Error processing Provider Element.  
+2026-10-23 18:07:30 INFO  (TLSDirectory) TLS callbacks at 180080708  
+2026-10-23 18:07:33 INFO  (TLSDirectory) TLS callbacks at 1800e58a8  
+2026-10-23 18:07:33 DEBUG (WEVTResourceDataType) Error processing Provider Element.  
+2026-10-23 18:07:35 INFO  (TLSDirectory) TLS callbacks at 1800ae9d8  
+2026-10-23 18:07:35 WARN  (ExportDataDirectory) Invalid or missing function at 1800c27b8  
+2026-10-23 18:07:37 INFO  (TLSDirectory) TLS callbacks at 180636c98  
+2026-10-23 18:07:37 WARN  (ExportDataDirectory) Invalid or missing function at 18071d6ec  
+2026-10-23 18:07:43 WARN  (ExportDataDirectory) Invalid or missing function at 1800cf87c  
+2026-10-23 18:07:43 DEBUG (WEVTResourceDataType) Error processing Provider Element.  
+2026-10-23 18:07:44 INFO  (ProgramLoader) Additional info:
+Loading file:///C:/Users/[user]/Downloads/mstts-re/artifacts/bin/MSTTSEngine.dll?MD5=9aee524c75668b5c5038dab7d270422c...
+[MSTTSEngine.dll]: failed to create WEVTResource at 1800fb258: Failed to resolve data length for WEVTResource
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-EVENTING-CLASSICPROVIDER-L1-1-0.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-EVENTING-PROVIDER-L1-1-0.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 26 paths for library KERNEL32.DLL...
+Skipping library which is the wrong architecture: file:///C:/Windows/SysWOW64/kernel32.dll
+Loading file:///C:/Windows/System32/kernel32.dll?MD5=f5c1a53820926a317adde8a0eccf31ca...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\kernel32.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library MSVCRT.DLL...
+Skipping library which is the wrong architecture: file:///C:/Windows/SysWOW64/msvcrt.dll
+Loading file:///C:/Windows/System32/msvcrt.dll?MD5=f39700523b1680edb2f14b10898372cf...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\msvcrt.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library NTDLL.DLL...
+Skipping library which is the wrong architecture: file:///C:/Windows/SysWOW64/ntdll.dll
+Loading file:///C:/Windows/System32/ntdll.dll?MD5=840afc91be91ae7bece5c273337d4a16...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\ntdll.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library OLE32.DLL...
+Skipping library which is the wrong architecture: file:///C:/Windows/SysWOW64/ole32.dll
+Loading file:///C:/Windows/System32/ole32.dll?MD5=d253151969e40bd5cae04588c660e769...
+[ole32.dll]: failed to create WEVTResource at 180184740: Failed to resolve data length for WEVTResource
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\ole32.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library OLEAUT32.DLL...
+Skipping library which is the wrong architecture: file:///C:/Windows/SysWOW64/oleaut32.dll
+Loading file:///C:/Windows/System32/oleaut32.dll?MD5=3a6f9f326c12b4cf7e152d8f4591eee9...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\oleaut32.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library SHELL32.DLL...
+Skipping library which is the wrong architecture: file:///C:/Windows/SysWOW64/shell32.dll
+Loading file:///C:/Windows/System32/shell32.dll?MD5=6c28df714ca47eb01e32a7c4fbb8574f...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\shell32.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library USER32.DLL...
+Skipping library which is the wrong architecture: file:///C:/Windows/SysWOW64/user32.dll
+Loading file:///C:/Windows/System32/user32.dll?MD5=57c789795a3089648fe8e67f19661977...
+[user32.dll]: failed to create WEVTResource at 1800efa70: Failed to resolve data length for WEVTResource
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\user32.exports
+Library not saved to project.
+------------------------------------------------
+
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\msvcrt.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\oleaut32.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\ole32.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\user32.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\kernel32.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\shell32.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\ntdll.exports
+Linking the External Programs of 'MSTTSEngine.dll' to imported libraries...
+  [MSVCRT.DLL] -> not found in project
+  [OLEAUT32.DLL] -> not found in project
+  [OLE32.DLL] -> not found in project
+  [USER32.DLL] -> not found in project
+  [KERNEL32.DLL] -> not found in project
+  [API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL] -> not found in project
+  [SHELL32.DLL] -> not found in project
+  [API-MS-WIN-EVENTING-PROVIDER-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-EVENTING-CLASSICPROVIDER-L1-1-0.DLL] -> not found in project
+  [NTDLL.DLL] -> not found in project
+------------------------------------------------
+
+  
+2026-10-23 18:07:44 INFO  (HeadlessAnalyzer) IMPORTING: Loaded 0 additional files  
+2026-10-23 18:07:44 INFO  (HeadlessAnalyzer) ANALYZING all memory and code: file:///C:/Users/[user]/Downloads/mstts-re/artifacts/bin/MSTTSEngine.dll  
+2026-10-23 18:07:44 WARN  (NoReturnFunctionAnalyzer) Ignoring leading '_' chars on no-return name '___raise_securityfailure' specified in file: C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\Base\data\PEFunctionsThatDoNotReturn  
+2026-10-23 18:07:44 WARN  (NoReturnFunctionAnalyzer) Ignoring leading '_' chars on no-return name '___report_rangecheckfailure' specified in file: C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\Base\data\PEFunctionsThatDoNotReturn  
+2026-10-23 18:07:44 INFO  (DWARFAnalyzer) Unable to find DWARF information, skipping DWARF analysis  
+2026-10-23 18:07:44 DEBUG (SymbolServerService) SymbolServerService: querying Program's Import Location - C:\Users\[user]\Downloads\mstts-re\artifacts\bin for MSTTSEngine.pdb, 59e66b98-0730-cde6-cba8-360b7791261e, 1, 0, ???  
+2026-10-23 18:07:44 DEBUG (SymbolServerService) SymbolServerService: got 1 results from Program's Import Location - C:\Users\[user]\Downloads\mstts-re\artifacts\bin  
+2026-10-23 18:07:44 DEBUG (SymbolServerService) SymbolServerService: found 1 matches  
+2026-10-23 18:07:44 DEBUG (SymbolServerService) SymbolServerService: getting symbol file: C:\Users\[user]\Downloads\mstts-re\artifacts\bin\MSTTSEngine.pdb  
+2026-10-23 18:07:44 DEBUG (SymbolServerService) SymbolServerService: local file now: C:\Users\[user]\Downloads\mstts-re\artifacts\bin\MSTTSEngine.pdb  
+2026-10-23 18:07:44 INFO  (PdbUniversalAnalyzer) PDB analyzer parsing file: C:\Users\[user]\Downloads\mstts-re\artifacts\bin\MSTTSEngine.pdb  
+2026-10-23 18:07:45 INFO  (DefaultPdbApplicator) resolveCount: 0  
+2026-10-23 18:07:45 INFO  (DefaultPdbApplicator) conflictCount: 0  
+2026-10-23 18:07:45 INFO  (DefaultPdbApplicator) PDB Types and Main Symbols Processing Terminated Normally  
+2026-10-23 18:07:45 INFO  (PdbUniversalAnalyzer) PDB Universal: scheduling PDB Function Internals Analysis  
+2026-10-23 18:07:45 INFO  (PackedDatabaseCache) Packed database cache: C:\Users\[user]\AppData\Local\ghidra\packed-db-cache  
+2026-10-23 18:07:45 DEBUG (PackedDatabaseCache) Using cached packed database: C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\Base\data\typeinfo\win32\windows_vs12_64.gdt  
+2026-10-23 18:08:00 INFO  (DecompilerSwitchAnalyzer) hit non-returning function, restarting decompiler switch analyzer later  
+2026-10-23 18:08:22 INFO  (TypeDescriptorModel) Unprocessed TypeDescriptor: float  
+2026-10-23 18:08:22 INFO  (TypeDescriptorModel) Unprocessed TypeDescriptor: float  
+2026-10-23 18:08:22 INFO  (TypeDescriptorModel) Unprocessed TypeDescriptor: int  
+2026-10-23 18:08:22 INFO  (TypeDescriptorModel) Unprocessed TypeDescriptor: int  
+2026-10-23 18:08:45 INFO  (ApplyDataArchiveAnalyzer) Applied data type archive: windows_vs12_64  
+2026-10-23 18:08:45 INFO  (ApplyDataArchiveAnalyzer) Applied data type archive: windows_vs12_64  
+2026-10-23 18:08:49 INFO  (ApplyDataArchiveAnalyzer) Applied data type archive: windows_vs12_64  
+2026-10-23 18:09:06 INFO  (DefaultPdbApplicator) PDB Function Internals Processing Terminated Normally  
+2026-10-23 18:09:06 INFO  (DefaultPdbApplicator) PDB Applicator Reporting  
+2026-10-23 18:09:06 INFO  (DefaultPdbApplicator) PDB Applicator Reporting Terminated Normally  
+2026-10-23 18:09:14 INFO  (AutoAnalysisManager) -----------------------------------------------------
+    ASCII Strings                              1.006 secs
+    Apply Data Archives                        0.451 secs
+    Call Convention ID                         0.135 secs
+    Call-Fixup Installer                       0.133 secs
+    Create Address Tables                      0.378 secs
+    Create Address Tables - One Time           0.409 secs
+    Create Function                            0.151 secs
+    DWARF                                      0.005 secs
+    Data Reference                             0.363 secs
+    Decompiler Parameter ID                    4.156 secs
+    Decompiler Switch Analysis                 3.399 secs
+    Decompiler Switch Analysis - One Time      9.698 secs
+    Demangler Microsoft                        4.032 secs
+    Disassemble Entry Points                   9.410 secs
+    Disassemble Entry Points - One Time        0.005 secs
+    Embedded Media                             0.042 secs
+    External Entry References                  0.001 secs
+    Function ID                                2.538 secs
+    Function Start Search                      0.105 secs
+    Non-Returning Functions - Discovered       1.089 secs
+    Non-Returning Functions - Known            0.025 secs
+    PDB Universal                              0.813 secs
+    PDB Universal Function Internals           0.062 secs
+    PDB Universal Reporting                    0.000 secs
+    Reference                                  0.518 secs
+    Scalar Operand References                  2.323 secs
+    Shared Return Calls                        0.576 secs
+    Source Language Support                    0.004 secs
+    Stack                                      9.998 secs
+    Subroutine References                      0.285 secs
+    Subroutine References - One Time           0.039 secs
+    Variadic Function Signature Override       6.872 secs
+    Windows x86 PE Exception Handling          1.997 secs
+    Windows x86 PE RTTI Analyzer              18.239 secs
+    Windows x86 Thread Environment Block (TEB) Analyzer     0.021 secs
+    WindowsResourceReference                   1.346 secs
+    x86 Constant Reference Analyzer            8.824 secs
+-----------------------------------------------------
+     Total Time   89 secs
+-----------------------------------------------------
+  
+2026-10-23 18:09:14 INFO  (HeadlessAnalyzer) REPORT: Analysis succeeded for file: file:///C:/Users/[user]/Downloads/mstts-re/artifacts/bin/MSTTSEngine.dll  
+2026-10-23 18:09:14 INFO  (LocalFileSystem) /MSTTSEngine.dll: file created ([user])  
+2026-10-23 18:09:14 INFO  (HeadlessAnalyzer) REPORT: Save succeeded for: /MSTTSEngine.dll (MSTTS:/MSTTSEngine.dll)  
+2026-10-23 18:09:14 INFO  (HeadlessAnalyzer) REPORT: Import succeeded  

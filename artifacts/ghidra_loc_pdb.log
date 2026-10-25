@@ -1,0 +1,332 @@
+2026-10-23 17:57:15 INFO  (LoggingInitialization) Using log config file: jar:file:/C:/Users/[user]/Downloads/anna-re/tools/ghidra_12.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2026-10-23 17:57:15 INFO  (LoggingInitialization) Using log file: C:\Users\[user]\Downloads\mstts-re\artifacts\ghidra_loc_pdb.log  
+2026-10-23 17:57:15 DEBUG (GhidraObjectInputFilter) Including serial input filter: FileSystem/data/client.rmi.serial.filter  
+2026-10-23 17:57:15 INFO  (Preferences) Loading user preferences: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\preferences  
+2026-10-23 17:57:15 INFO  (ClassSearcher) Searching for classes...  
+2026-10-23 17:57:18 INFO  (ClassSearcher) Class search complete (2373 ms)  
+2026-10-23 17:57:18 INFO  (DefaultSSLContextInitializer) Initializing SSL Context  
+2026-10-23 17:57:18 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2026-10-23 17:57:18 INFO  (SecureRandomFactory) Random Number Generator initialization complete: SHA1PRNG  
+2026-10-23 17:57:19 INFO  (DefaultTrustManagerFactory) Loaded 49 trusted CA certificates from the OS trust store.  
+2026-10-23 17:57:19 INFO  (DefaultTrustManagerFactory) Loaded 118 trusted CA certificates from the Java default trust store.  
+2026-10-23 17:57:20 INFO  (AnalyzeHeadless) Headless startup complete (9526 ms)  
+2026-10-23 17:57:20 INFO  (ClassSearcher) Class searcher loaded 60 extension points (19 false positives)  
+2026-10-23 17:57:21 INFO  (HeadlessAnalyzer) HEADLESS Script Paths:
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\Atmel\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\PDB\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\VersionTracking\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\Base\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\WildcardAssembler\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\PyGhidra\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\MicrosoftCodeAnalyzer\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Debug\Debugger\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\FileFormats\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\JVM\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\Decompiler\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\BSim\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\BytePatterns\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\Swift\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\GnuDemangler\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\DecompilerDependent\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\FunctionID\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\SystemEmulation\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\PIC\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\8051\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\DATA\ghidra_scripts
+    C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Debug\Debugger-rmi-trace\ghidra_scripts  
+2026-10-23 17:57:21 INFO  (HeadlessAnalyzer) HEADLESS: execution starts  
+2026-10-23 17:57:21 INFO  (HeadlessAnalyzer) Opening existing project: C:\Users\[user]\Downloads\mstts-re\ghidra_proj_pdb\MSTTS  
+2026-10-23 17:57:21 INFO  (HeadlessProject) Opening project: C:\Users\[user]\Downloads\mstts-re\ghidra_proj_pdb\MSTTS  
+2026-10-23 17:57:21 INFO  (HeadlessAnalyzer) REPORT: Processing input files:   
+2026-10-23 17:57:21 INFO  (HeadlessAnalyzer)      project: C:\Users\[user]\Downloads\mstts-re\ghidra_proj_pdb\MSTTS  
+2026-10-23 17:57:21 INFO  (HeadlessAnalyzer) IMPORTING: file:///C:/Users/[user]/Downloads/mstts-re/artifacts/bin/MSTTSLoc_OneCore.dll  
+2026-10-23 17:57:33 DEBUG (SleighLanguage) Took 3439ms (547ms inside lock) to initialize language C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\x86\data\languages\x86-64.slaspec -> C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Processors\x86\data\languages\x86-64.sla  
+2026-10-23 17:57:33 INFO  (ProgramLoader) Using Loader: Portable Executable (PE)  
+2026-10-23 17:57:33 INFO  (ProgramLoader) Using Language/Compiler: x86:LE:64:default:windows  
+2026-10-23 17:57:33 INFO  (ProgramLoader) Using Library Search Path: [., C:\WINDOWS\SysWOW64, C:\Users\[user]\Downloads\samre\tools\jdk-25.0.4.1+1\bin, C:\WINDOWS\Sun\Java\bin, C:\WINDOWS\system32, C:\WINDOWS, C:\WINDOWS\System32\Wbem, C:\WINDOWS\System32\WindowsPowerShell\v1.0\, C:\WINDOWS\System32\OpenSSH\, C:\Program Files\dotnet\, C:\Program Files\nodejs\, C:\ProgramData\chocolatey\bin, C:\ProgramData\chocolatey\lib\mpvio.install\tools, C:\Users\[user]\AppData\Local\Python\pythoncore-3.14-64\Scripts, C:\Program Files\GitHub CLI\, C:\Users\[user]\.cargo\bin, C:\Users\[user]\.local\bin, C:\Users\[user]\AppData\Local\Microsoft\WindowsApps, C:\Users\[user]\AppData\Local\Programs\Microsoft VS Code\bin, C:\Users\[user]\AppData\Local\Python\bin, C:\Users\[user]\AppData\Local\Programs\Git\cmd, C:\Users\[user]\AppData\Roaming\npm, C:\Users\[user]\AppData\Local\Programs\cursor\resources\app\bin, C:\Users\[user]\AppData\Local\omp, C:\Users\[user]\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim, C:\Users\[user]\AppData\Local\Programs\Git\bin, C:\Users\[user]\AppData\Local\Programs\Git\usr\bin]  
+2026-10-23 17:57:53 INFO  (TLSDirectory) TLS callbacks at 1800838d8  
+2026-10-23 17:58:09 INFO  (TLSDirectory) TLS callbacks at 1800ae9d8  
+2026-10-23 17:58:09 WARN  (ExportDataDirectory) Invalid or missing function at 1800c27b8  
+2026-10-23 17:58:10 INFO  (ProgramLoader) Additional info:
+Loading file:///C:/Users/[user]/Downloads/mstts-re/artifacts/bin/MSTTSLoc_OneCore.dll?MD5=35a016788dcbbdc0f88f8b3afa64d48d...
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-COM-L1-1-0.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-DEBUG-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-debug-l1-1-0.dll?MD5=226a5983ae2cbbf0c1bda85d65948abc...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-debug-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-ERRORHANDLING-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-errorhandling-l1-1-0.dll?MD5=c2f8c03ecce9941492bfbe4b82f7d2d5...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-errorhandling-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-FILE-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-file-l1-1-0.dll?MD5=9f45a47ebfd9d0629f4935764243dd5a...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-file-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-HANDLE-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-handle-l1-1-0.dll?MD5=416aa8314222db6cbb3760856be13d46...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-handle-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-HEAP-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-heap-l1-1-0.dll?MD5=344a09b4be069f86356a89482c156647...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-heap-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-INTERLOCKED-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-interlocked-l1-1-0.dll?MD5=86023497fa48ca2c7705d3f90b76ebc5...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-interlocked-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-LIBRARYLOADER-L1-2-0.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-LIBRARYLOADER-L1-2-1.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-LOCALIZATION-L1-2-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-localization-l1-2-0.dll?MD5=5241df2e95e31e73ccfd6357ad309df0...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-localization-l1-2-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-MEMORY-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-memory-l1-1-0.dll?MD5=8d285430e8bda6d5c9b683579adcb180...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-memory-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-MEMORY-L1-1-1.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-PROCESSTHREADS-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-processthreads-l1-1-0.dll?MD5=c123f2c161884fbff4f00ef1e1391266...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-processthreads-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-PROCESSTHREADS-L1-1-1.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-processthreads-l1-1-1.dll?MD5=385f562bdc391ccd4f81aca3719f3236...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-processthreads-l1-1-1.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-PROFILE-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-profile-l1-1-0.dll?MD5=7a629293eeb0bca5f9bdee8ade477c54...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-profile-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-RTLSUPPORT-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-rtlsupport-l1-1-0.dll?MD5=3c5c7a3130b075b2def5c413c127173f...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-rtlsupport-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-STRING-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-string-l1-1-0.dll?MD5=28005b20fbef6e1db10912d0fdd6471c...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-string-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-STRING-L2-1-0.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-SYNCH-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-synch-l1-1-0.dll?MD5=436ea0237ed040513ec887046418faaa...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-synch-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-SYNCH-L1-2-1.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-SYSINFO-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-core-sysinfo-l1-1-0.dll?MD5=b65bf5ef316880fd8d21e1b34eb5c8a9...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-sysinfo-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CORE-THREADPOOL-L1-2-0.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CRT-PRIVATE-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-crt-private-l1-1-0.dll?MD5=c830c6447e6de3d6a611702c591831e3...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-crt-private-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CRT-RUNTIME-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-crt-runtime-l1-1-0.dll?MD5=bbaa58e9e1abdf7d8c4c69652d29d789...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-crt-runtime-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-CRT-STRING-L1-1-0.DLL...
+Loading file:///C:/Users/[user]/Downloads/samre/tools/jdk-25.0.4.1+1/bin/api-ms-win-crt-string-l1-1-0.dll?MD5=639b1fb35cb61ba633eb1791b750631f...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-crt-string-l1-1-0.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library API-MS-WIN-RTCORE-NTUSER-WINDOW-L1-1-0.DLL...
+Library not found.
+------------------------------------------------
+
+Searching 26 paths for library MSVCP_WIN.DLL...
+Skipping library which is the wrong architecture: file:///C:/Windows/SysWOW64/msvcp_win.dll
+Loading file:///C:/Windows/System32/msvcp_win.dll?MD5=6b2da9f74b1f3053f1bce65d0a08dcd3...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\msvcp_win.exports
+Library not saved to project.
+------------------------------------------------
+
+Searching 26 paths for library OLEAUT32.DLL...
+Skipping library which is the wrong architecture: file:///C:/Windows/SysWOW64/oleaut32.dll
+Loading file:///C:/Windows/System32/oleaut32.dll?MD5=3a6f9f326c12b4cf7e152d8f4591eee9...
+Using existing exports file: C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\oleaut32.exports
+Library not saved to project.
+------------------------------------------------
+
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-crt-runtime-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-crt-private-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-crt-string-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\oleaut32.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-synch-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-errorhandling-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-profile-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-processthreads-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-sysinfo-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-interlocked-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-rtlsupport-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-debug-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-processthreads-l1-1-1.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-handle-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-memory-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-file-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-localization-l1-2-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-heap-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\api-ms-win-core-string-l1-1-0.exports
+Applying C:\Users\[user]\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\symbols\win64\msvcp_win.exports
+Linking the External Programs of 'MSTTSLoc_OneCore.dll' to imported libraries...
+  [API-MS-WIN-CRT-RUNTIME-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CRT-PRIVATE-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CRT-STRING-L1-1-0.DLL] -> not found in project
+  [OLEAUT32.DLL] -> not found in project
+  [API-MS-WIN-CORE-SYNCH-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-ERRORHANDLING-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-LIBRARYLOADER-L1-2-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-COM-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-PROFILE-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-PROCESSTHREADS-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-SYSINFO-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-INTERLOCKED-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-RTLSUPPORT-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-DEBUG-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-PROCESSTHREADS-L1-1-1.DLL] -> not found in project
+  [API-MS-WIN-CORE-REGISTRY-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-HANDLE-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-MEMORY-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-FILE-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-LOCALIZATION-L1-2-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-HEAP-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-STRING-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-THREADPOOL-L1-2-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-LIBRARYLOADER-L1-2-1.DLL] -> not found in project
+  [API-MS-WIN-CORE-SYNCH-L1-2-1.DLL] -> not found in project
+  [API-MS-WIN-CORE-MEMORY-L1-1-1.DLL] -> not found in project
+  [API-MS-WIN-RTCORE-NTUSER-WINDOW-L1-1-0.DLL] -> not found in project
+  [API-MS-WIN-CORE-STRING-L2-1-0.DLL] -> not found in project
+  [MSVCP_WIN.DLL] -> not found in project
+------------------------------------------------
+
+  
+2026-10-23 17:58:10 INFO  (HeadlessAnalyzer) IMPORTING: Loaded 0 additional files  
+2026-10-23 17:58:11 INFO  (HeadlessAnalyzer) ANALYZING all memory and code: file:///C:/Users/[user]/Downloads/mstts-re/artifacts/bin/MSTTSLoc_OneCore.dll  
+2026-10-23 17:58:11 WARN  (NoReturnFunctionAnalyzer) Ignoring leading '_' chars on no-return name '___raise_securityfailure' specified in file: C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\Base\data\PEFunctionsThatDoNotReturn  
+2026-10-23 17:58:11 WARN  (NoReturnFunctionAnalyzer) Ignoring leading '_' chars on no-return name '___report_rangecheckfailure' specified in file: C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\Base\data\PEFunctionsThatDoNotReturn  
+2026-10-23 17:58:11 INFO  (DWARFAnalyzer) Unable to find DWARF information, skipping DWARF analysis  
+2026-10-23 17:58:11 DEBUG (SymbolServerService) SymbolServerService: querying Program's Import Location - C:\Users\[user]\Downloads\mstts-re\artifacts\bin for MSTTSLoc_OneCore.pdb, 2959ca59-d12e-ec75-e48d-59c3007b8e16, 1, 0, ???  
+2026-10-23 17:58:11 DEBUG (SymbolServerService) SymbolServerService: got 1 results from Program's Import Location - C:\Users\[user]\Downloads\mstts-re\artifacts\bin  
+2026-10-23 17:58:11 DEBUG (SymbolServerService) SymbolServerService: found 1 matches  
+2026-10-23 17:58:11 DEBUG (SymbolServerService) SymbolServerService: getting symbol file: C:\Users\[user]\Downloads\mstts-re\artifacts\bin\MSTTSLoc_OneCore.pdb  
+2026-10-23 17:58:11 DEBUG (SymbolServerService) SymbolServerService: local file now: C:\Users\[user]\Downloads\mstts-re\artifacts\bin\MSTTSLoc_OneCore.pdb  
+2026-10-23 17:58:11 INFO  (PdbUniversalAnalyzer) PDB analyzer parsing file: C:\Users\[user]\Downloads\mstts-re\artifacts\bin\MSTTSLoc_OneCore.pdb  
+2026-10-23 17:58:11 INFO  (DefaultPdbApplicator) resolveCount: 0  
+2026-10-23 17:58:11 INFO  (DefaultPdbApplicator) conflictCount: 0  
+2026-10-23 17:58:12 INFO  (DefaultPdbApplicator) PDB Types and Main Symbols Processing Terminated Normally  
+2026-10-23 17:58:12 INFO  (PdbUniversalAnalyzer) PDB Universal: scheduling PDB Function Internals Analysis  
+2026-10-23 17:58:12 INFO  (PackedDatabaseCache) Packed database cache: C:\Users\[user]\AppData\Local\ghidra\packed-db-cache  
+2026-10-23 17:58:12 DEBUG (PackedDatabaseCache) Using cached packed database: C:\Users\[user]\Downloads\anna-re\tools\ghidra_12.2_PUBLIC\Ghidra\Features\Base\data\typeinfo\win32\windows_vs12_64.gdt  
+2026-10-23 17:58:21 INFO  (DecompilerSwitchAnalyzer) hit non-returning function, restarting decompiler switch analyzer later  
+2026-10-23 17:59:04 INFO  (ApplyDataArchiveAnalyzer) Applied data type archive: windows_vs12_64  
+2026-10-23 17:59:25 INFO  (DefaultPdbApplicator) PDB Function Internals Processing Terminated Normally  
+2026-10-23 17:59:25 INFO  (DefaultPdbApplicator) PDB Applicator Reporting  
+2026-10-23 17:59:25 INFO  (DefaultPdbApplicator) PDB Applicator Reporting Terminated Normally  
+2026-10-23 17:59:32 INFO  (AutoAnalysisManager) -----------------------------------------------------
+    ASCII Strings                              1.035 secs
+    Apply Data Archives                        0.413 secs
+    Call Convention ID                         0.145 secs
+    Call-Fixup Installer                       0.104 secs
+    Create Address Tables                      0.331 secs
+    Create Address Tables - One Time           0.683 secs
+    Create Function                            0.155 secs
+    DWARF                                      0.002 secs
+    Data Reference                             0.476 secs
+    Decompiler Parameter ID                    4.034 secs
+    Decompiler Switch Analysis                 2.361 secs
+    Decompiler Switch Analysis - One Time      9.272 secs
+    Demangler Microsoft                        4.384 secs
+    Disassemble Entry Points                   5.254 secs
+    Disassemble Entry Points - One Time        0.006 secs
+    Embedded Media                             0.016 secs
+    External Entry References                  0.000 secs
+    Function ID                                2.753 secs
+    Function Start Search                      0.132 secs
+    Non-Returning Functions - Discovered       0.645 secs
+    Non-Returning Functions - Known            0.020 secs
+    PDB Universal                              0.749 secs
+    PDB Universal Function Internals           0.054 secs
+    PDB Universal Reporting                    0.001 secs
+    Reference                                  0.516 secs
+    Scalar Operand References                  1.905 secs
+    Shared Return Calls                        0.505 secs
+    Source Language Support                    0.005 secs
+    Stack                                      9.635 secs
+    Subroutine References                      0.198 secs
+    Subroutine References - One Time           0.014 secs
+    Variadic Function Signature Override       6.050 secs
+    Windows x86 PE Exception Handling          1.572 secs
+    Windows x86 PE RTTI Analyzer              21.662 secs
+    Windows x86 Thread Environment Block (TEB) Analyzer     0.018 secs
+    WindowsResourceReference                   0.933 secs
+    x86 Constant Reference Analyzer            5.109 secs
+-----------------------------------------------------
+     Total Time   81 secs
+-----------------------------------------------------
+  
+2026-10-23 17:59:32 INFO  (HeadlessAnalyzer) REPORT: Analysis succeeded for file: file:///C:/Users/[user]/Downloads/mstts-re/artifacts/bin/MSTTSLoc_OneCore.dll  
+2026-10-23 17:59:32 INFO  (LocalFileSystem) /MSTTSLoc_OneCore.dll: file created ([user])  
+2026-10-23 17:59:32 INFO  (HeadlessAnalyzer) REPORT: Save succeeded for: /MSTTSLoc_OneCore.dll (MSTTS:/MSTTSLoc_OneCore.dll)  
+2026-10-23 17:59:32 INFO  (HeadlessAnalyzer) REPORT: Import succeeded  

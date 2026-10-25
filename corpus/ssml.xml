@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-US">
+  <p>This is a normal sentence with <emphasis level="strong">strong emphasis</emphasis> on two words.</p>
+  <p>This sentence is spoken <prosody rate="slow">slowly</prosody> and this part is <prosody rate="fast">quickly</prosody>.</p>
+  <p>The value <say-as interpret-as="cardinal">12345</say-as> and the date <say-as interpret-as="date" format="mdy">10/23/2026</say-as>.</p>
+  <p>Please <break time="750ms"/> pause here.</p>
+  <p>Telephone <say-as interpret-as="telephone">5558675309</say-as>, currency <say-as interpret-as="currency">$42.50</say-as>, characters <say-as interpret-as="characters">ABC</say-as>.</p>
+  <p>This sentence has a <prosody pitch="+20%">higher pitch</prosody> and a <prosody pitch="-20%">lower pitch</prosody>.</p>
+</speak>

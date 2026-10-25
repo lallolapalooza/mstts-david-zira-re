@@ -1,0 +1,9 @@
+{
+  "archive_manifest": "samples/MANIFEST.json",
+  "matched": 176,
+  "total": 176,
+  "percent": 100.0,
+  "criterion": "byte-exact WAV SHA-256",
+  "reimplementation": null,
+  "note": "No reimplementation exists; this verifies the reference archive against its own manifest."
+}

@@ -1,0 +1,3394 @@
+                
+                               
+                val ThreadingModel = s 'Both'
+            'TypeLib' = s '{EB2114C0-CB02-467a-AE4D-2ED171F05E6A}'
+            InprocServer32 = s '%MODULE%'
+            ProgID = s 'TextToSpeech.DesktopEngine.3'
+            VersionIndependentProgID = s 'TextToSpeech.DesktopEngine'
+            val AppID = s '%APPID%'
+            {
+            }
+        '%APPID%' = s 'MSTTSEngine'
+        'MSTTSEngine.DLL'
+        (((((                  
+        CLSID = s '{ABBA4573-A36D-4154-AC35-EB7CB0FCA951}'
+        CurVer = s 'TextToSpeech.DesktopEngine.3'
+        ForceRemove {ABBA4573-A36D-4154-AC35-EB7CB0FCA951} = s 'Microsoft TTS Desktop Engine Class'
+        {
+        }
+    !!!!""""###$$$$%%%&&&&'''((()))***+++,,,---...///001112223344555667778899::;;;<<==>>??@@AABBCCDDEFFGGHHIIJKKLLMNNOOPQQRSSTUUVWWXYYZ[[\]^^_`aabcddefghhijklmmnopqrsttuvwxyz{|}~
+    !!!!""""###$$$$%%%&&&''''((()))***+++,,,---..///000112223344455667778899::;;;<<==>>??@@AABBCCDEEFFGGHHIJJKKLLMNNOPPQQRSSTUUVWWXYZZ[\\]^__`abbcdeffghijjklmnoppqrstuvwxyz{||}~
+    $.Latt = %d;
+    $.Network = {};
+    $.Parsed.cAlt = %d;
+    $.Parsed.rgAlt = rgAlt;
+    $.Parsed={};
+    $.cOut = %d;
+    $.rgOut = rgOut;
+    Alt_%d.cToken = %d;
+    Alt_%d.rgToken = rgToken_%d;
+    NoRemove AppID
+    NoRemove CLSID
+    TextToSpeech.DesktopEngine = s 'Microsoft TTS Desktop Engine Class'
+    TextToSpeech.DesktopEngine.3 = s 'Microsoft TTS Desktop Engine Class'
+    Token_%d_%d.Latt = %d;
+    Token_%d_%d.RuleName = "";
+    Token_%d_%d.RuleName = "%s";
+    Token_%d_%d.StrIn = "";
+    Token_%d_%d.StrIn = "%s";
+    return $;
+    rgAlt[%d] = Alt_%d;
+    rgOut[%d] = ScriptNode_%d();
+    rgToken_%d[%d] = Token_%d_%d;
+    var $ = {};
+    var $={};
+    var Alt_%d = {};
+    var Token_%d_%d = {};
+    var rgAlt = {};
+    var rgOut = {};
+    var rgToken_%d = {};
+    {
+    }
+   %2d: %4d
+  [Action =
+  [Emphasis =
+  [POS =
+  [Prosody
+  [SayAs:
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ +!n!
+ A^A\_
+ A^A]_
+ A^_]
+ A^_^
+ A^_^[]
+ A_A\^
+ A_A]A\_^[]
+ A_A^A\
+ A_A^A\_^
+ A_A^A\_^[]
+ A_A^A]
+ A_A^A]A\]
+ A_A^A]A\^
+ A_A^A]A\_
+ A_A^A]A\_^]
+ A_A^_
+ A_A^_^]
+ H;~Pw
+ HcQ0H
+ L9!tzL9a
+ Lc1M
+ Microsoft Corporation. All rights reserved.
+ http://www.microsoft.com/windows0
+ n > 
+ pszSubKeyNameWWW
+ t#fD;
+ t\fA
+!!!!!!"!!!!!!!!!"!!!!!!
+!!!!!!"#$$$$$$#$$$$$$$$$#$$$$$$
+!9"~"
+!D$ L
+!D$0H
+!ISpTTSEngineSiteExWW
+!This program cannot be run in DOS mode.
+!TkjE
+!X !X(3
+!X H!X
+!\$ L
+!\$0H
+!]_0t
+!a!1!
+!s !s(
+!t$4D;t$8
+!t$<I
+!x H!x(H!x0H
+!{ H!{0!{8!{<!{@H
+!{8H!{@H
+!|$0A
+!|$4A
+"#@$"%@&"'@(")@-".F/#1"2@3"4#8'9#:@R*_4
+"%"%"""%""""%"%""""""""""%""""""""""""""""""""""#########&#######################&#&###&####&#&#"#"#"#"#"#"#"#"#"#"#"#%&"#"#"#"#"#30000*44**"#"#"#%&"#"#%&"#"#"#"#"#"#"#"#%&"#"#%&"#"#"#"#"#"#%&"%&"#**"#**"#***%&%&"#%&"#%&%&%&"#%&%&%&"#%&"#%&%&%&%&**%&******%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&"#%&%&#%&%&%&%&%&%&%&%&&"#%&%&%&"#%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%%&%&%&#&""#"#""#"""##""""#""#"%"#&&""#%%&"#"#""#"#&"#%%&"""#"#""##'"###''''%(&")#")#%&%&%&%&%&%&%&%&#%&%&%&%&%&%&%&%&%&&")#%&"""#%&%&%&
+"0x%p"
+"Microsoft Window
+"T"#"
+#&$n$
+#ppszFilePath
+#v#E#
+$$$$$$#$
+$;Mw~
+$E9L$
+$g$7$
+$nSamplesPerSecWW,
+$pullEventInterestWWW
+%&%&%&%&%&%&%&%&%&%&%&%&"#"#"#"#**"#"#"#"#"#"#"#"#"#****************************########################&##&##################################################################**+++++++++,,-+-----,,,,,.,,..,,,.//,,,,,,......,,++++-,,,,,,,,,-*****************0*V"X*Y+Z5_6`*
+%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&&&&&&&****%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&%&******
+%.&z&
+%APPID%
+%FriendlyName%
+%MODULE%
+%MODULEGUID%
+%MODULETYPE%
+%Microsoft Windows Production PCA 2011
+%Microsoft Windows Production PCA 20110
+%SPVSA_SpellOutWW
+%X%(%
+%c@%d
+%d,%d,%d,%d,%d,%d,%d,%d,%d
+%f,%f
+%f,%f,%f
+%s%s%s.%s%s
+%s%s..\%s\MSTTSLoc%s%s
+%s%sMSTTSLoc%s%s
+%s%s\MSTTSLoc%s.dat
+%s.%s
+%s.%s%d
+%s.ACD
+%s.CCT
+%s.CSD
+%s.DCT
+%s.IDX
+%s.PST
+%s.WIH
+%s.WVE
+%s@%d
+%sLocaleHandler\MSTTSLoc%s.dat
+%s\MSTTSLoc%s.dat
+&@?*J@_*
+&RemoteCopyTo
+&S|9a
+&rgrfStatFlagW
+&x&H&
+''''""""
+'SilenceMSecs(
+'fD9#
+'g'7'
+(A^_^]
+(A_A^A\^
+(A_A^A]A\_^[]
+(A_A^A]A\_^][
+(A_A^_[
+(A_A^_^
+(D$ H
+(D$PD
+(H9i0u
+(L$ D
+(L$@H
+(L$pD
+(T$`D
+(V(&(
+(\$0A
+(\$PD
+(d$@D
+(l$0D
+(libOffsetWWW
+(null)
+(sOfD
+(t$ D
+(t$ H
+(t$0H
+(t$0L
+(t$@H
+(t$@L
+(t$PL
+(t$`3
+(t$`L
+(t$pH
+(|$ H
+(|$ I
+(|$0D
+(|$0H
+(|$0I
+(|$@H
+(|$@I
+(|$PH
+(|$PI
+(|$`D
+)D$PH
+)L$`H
+)L$pA
+)Microsoft Root Certificate Authority 20100
+)SetStringValueWW
+)T$PD
+)\$0L
+)\$@D
+)\$PD
+)d$@D
+)d$pD
+)l$0E
+)oZMM
+)t$ A
+)t$ E
+)t$ H
+)t$ r8
+)t$@H
+)t$@M
+)t$PH
+)t$PI
+)t$PL
+)t$`D
+)t$pM
+)t)D)
+)|$ H
+)|$@H
+)|$@L
+)|$`I
+*!'"*''(**'+*,C0D1C2D5*6;708'90?*IEO6U'WCYD
+*#'$C%'&C.'/I0C1J3C9J:K>*?FECFINKO6YE[6
+*#0/*0 22D H*O P9Q R9S*T U9W X2^ _=a bFcUe@fVg*h2iXj=k2o*r8s*t8u*
+*'&/%7&?%E&G*M%O*W&X*Y%Z*[%\*]%^*_%g&o%}&
+*'@(*K@L*M@N*R@U*V@W*^@`*g@u*
+*(')*3'4*9'=*@DDCE*HDI*LDM0T*V;_*a'e*oE
+*(')*9'=*@CCDE*HCI*LCM0V*W'_*a'e*oE
+*(@* 5@z3{@|*
+*)GC3_*{3~*
+**;**''''''****''**''''''''''''''''''''''*'''''''*''*''*''**H*CCCDD****DD**DD0***********''''*'*******EEEEEEEEEE;;'''************;;'*'''''''*C*''C*''''''''''''''''''''''*'''''''*''*'''''**0'CCCDDDDD*DDC*CC0**'***************'*****EEEEEEEEEE****************
+*,'0*dk
+*9';*<0='@CHDLCM0O*P'T0W*a'cDe6oEp6
+*;''*''''''''**''**''''''''''''''''''''''*'''''''*''**''''**0'CDCDDD***CC**CC0********;'****''*'''****EEEEEEEEEE3*****************;'*''''''***'''*''''***''*'*''***''***'''***''''''''*'''****CCDCC***CCC*CCC0*********'***************EEEEEEEEEGGG*************
+*=8? O*
+*B'CNw'
+*F'G*H'I*M'O*V'W*X'Y*]'_*
+*F'G*Z'`*h6qE|G
+*a*2*
+*v3z*
++|$8I
++|$TL
++}+N+
+,*cbSizeWWd
+,i,:,
+,pszMediaType
+,szPronunciationW
+-SIL-
+-SOF_TEXT,
+-SPPS_ModifierWWWT
+-U-&-
+-dj6=
+.'NormalizeWWW
+.00cfg
+.?AU?$CAtlValidateModuleConfiguration@$00VCCOMEngineModule@@@ATL@@
+.?AUIClassFactory@@
+.?AUILexiconAttributeSet@@
+.?AUIMSTTSEngine@@
+.?AUIMSTTSEngineSite@@
+.?AUIMediaBuffer@@
+.?AUIPOSTable@@
+.?AUIPOSTagger@@
+.?AUIPhoneme@@
+.?AUIProvideClassInfo@@
+.?AUIRegistrarBase@@
+.?AUISentSep@@
+.?AUISentSepInfo@@
+.?AUISentenceAnalyzer@@
+.?AUISharedPronunciation@@
+.?AUISpEnginePronunciation@@
+.?AUISpObjectWithToken@@
+.?AUISpProperties@@
+.?AUISpTTSEngine@@
+.?AUISpTTSEngineSSML@@
+.?AUITTSCompositeHandler@@
+.?AUITTSDataManager@@
+.?AUITTSDomainHandler@@
+.?AUITTSEngineSetting@@
+.?AUITTSHandler@@
+.?AUITTSLexicon@@
+.?AUITTSModuleEventSource@@
+.?AUITTSPhoneConverter@@
+.?AUITTSPronouncer@@
+.?AUITTSPronunciation@@
+.?AUITTSPronunciationList@@
+.?AUITTSSettingObserver@@
+.?AUITTSUtterance@@
+.?AUITTSWord@@
+.?AUITTSWordBreaker@@
+.?AUITTSWordList@@
+.?AUITTSWordSink@@
+.?AUITextNormMultiResult@@
+.?AUITtsStreamHandler@@
+.?AUIUnknown@@
+.?AUIWordPronunciation@@
+.?AUIWordPronunciationList@@
+.?AU_ATL_MODULE70@ATL@@
+.?AV?$CAcousticPredictorImpl@$00@@
+.?AV?$CAcousticPredictorImpl@$0A@@@
+.?AV?$CAtlDllModuleT@VCCOMEngineModule@@@ATL@@
+.?AV?$CAtlList@PEAVCParallelItem@@V?$CElementTraits@PEAVCParallelItem@@@TTS@@@TTS@@
+.?AV?$CAtlList@PEAVCProperty@@V?$CElementTraits@PEAVCProperty@@@TTS@@@TTS@@
+.?AV?$CAtlModuleT@VCCOMEngineModule@@@ATL@@
+.?AV?$CComAggObject@VCTTSEngineCom@@@ATL@@
+.?AV?$CComCoClass@VCLexiconAttributeSet@@$1?_GUID_afcd5a64_c247_4630_81b0_f4904402958d@@3U__s_GUID@@B@ATL@@
+.?AV?$CComCoClass@VCTTSEngineCom@@$1?CLSID_TTSEngineCom@@3U_GUID@@B@ATL@@
+.?AV?$CComCoClass@VCWordPronList@@$1?_GUID_4ea3755e_2b7a_44a0_b7e0_32c5328ecfb9@@3U__s_GUID@@B@ATL@@
+.?AV?$CComCoClass@VCWordPronunciation@@$1?_GUID_edb4ac93_72d0_4d53_b347_af89d4fa4a54@@3U__s_GUID@@B@ATL@@
+.?AV?$CComContainedObject@VCTTSEngineCom@@@ATL@@
+.?AV?$CComObject@VCLexiconAttributeSet@@@ATL@@
+.?AV?$CComObject@VCTTSEngineCom@@@ATL@@
+.?AV?$CComObject@VCTextNormMultiResult@@@ATL@@
+.?AV?$CComObject@VCWordPronList@@@ATL@@
+.?AV?$CComObject@VCWordPronunciation@@@ATL@@
+.?AV?$CComObjectCached@VCComClassFactory@ATL@@@ATL@@
+.?AV?$CComObjectNoLock@VCComClassFactory@ATL@@@ATL@@
+.?AV?$CComObjectRootEx@VCComMultiThreadModel@ATL@@@ATL@@
+.?AV?$CComObjectRootEx@VCComMultiThreadModelNoCS@ATL@@@ATL@@
+.?AV?$CExcitationGeneratorImpl@H@@
+.?AV?$CExcitationGeneratorImpl@M@@
+.?AV?$CFIRFilter@H@@
+.?AV?$CFIRFilter@M@@
+.?AV?$CHTSDecisionTreeImpl@VCHTSF0LeafNode@@@@
+.?AV?$CHTSDecisionTreeImpl@VCHTSLSFLeafNode@@@@
+.?AV?$CHTSDecisionTreeImpl@VCHTSMBELeafNode@@@@
+.?AV?$CHTSDecisionTreeImpl@VCHTSOffsetLeafNode@@@@
+.?AV?$CHTSDecisionTreeImpl@VCHTSPhoneDurationLeafNode@@@@
+.?AV?$CHTSDecisionTreeImpl@VCHTSStateDurationLeafNode@@@@
+.?AV?$CHTSDecisionTreeImpl@VCUnitCandidateLeafNode@@@@
+.?AV?$CLsfSynthesizerImpl@FJ@@
+.?AV?$CLsfSynthesizerImpl@MM@@
+.?AV?$CQuickStringT@G$0BAA@@@
+.?AV?$CQuickStringT@G$0EAA@@@
+.?AV?$CQuickStringT@G$0IA@@@
+.?AV?$CQuickStringT@G$0IAA@@@
+.?AV?$CQuickStringW@$0BAA@@@
+.?AV?$CQuickStringW@$0EAA@@@
+.?AV?$CQuickStringW@$0IA@@@
+.?AV?$CQuickStringW@$0IAA@@@
+.?AV?$CSPHash@PEBGH@@
+.?AV?$CSPHash@PEBGPEAVCCRFAcronymTagger@@@@
+.?AV?$CSPHash@PEBGPEAVCCRFFeatureMetaArray@@@@
+.?AV?$CSPStringHashW@H@@
+.?AV?$CSPStringHashW@PEAVCCRFAcronymTagger@@@@
+.?AV?$CSPStringHashW@PEAVCCRFFeatureMetaArray@@@@
+.?AV?$CTTSAcousticSpaceImpl@H@@
+.?AV?$CTTSAcousticSpaceImpl@M@@
+.?AV?$CTTSEngineSite@UISpTTSEngineSite@@@@
+.?AV?$CTTSEngineSite@UISpTTSEngineSiteEx@@@@
+.?AV?$CTTSPhoneParentBase@VCTTSSyllable@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSHalfPhone@@VCTTSPhone@@VCTTSSyllable@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSIntonationPhrase@@VCTTSSentence@@VCTTSUtterance@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSPhone@@VCTTSNusUnit@@VCTTSUtterance@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSPhone@@VCTTSSyllable@@VCTTSWord@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSPhone@@VCTTSUnit@@VCTTSUtterance@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSPhrase@@VCTTSIntonationPhrase@@VCTTSSentence@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSSentence@@VCTTSUtterance@@VCTTSParagraph@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSSyllable@@VCTTSWord@@VCTTSPhrase@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSUnit@@VCTTSSegment@@VCTTSUtterance@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSWord@@VCTTSPhrase@@VCTTSIntonationPhrase@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSWord@@VCTTSProsodicWord@@VCTTSPhrase@@@@
+.?AV?$CTtsExtraModuleContainer@VCAcousticProsodyTagger@@@@
+.?AV?$CTtsExtraModuleContainer@VCPronouncerBase@@@@
+.?AV?$CTtsExtraModuleContainer@VCTTSEngine@@@@
+.?AV?$CTtsExtraModuleContainer@VCTTSUnitGenerator@@@@
+.?AV?$CTtsExtraModuleContainer@VCUnitLatticeGenerator@@@@
+.?AV?$CTtsExtraModuleContainer@VCUnitSelector@@@@
+.?AV?$CTtsExtraModuleContainer@VCWaveGenerator@@@@
+.?AV?$IProvideClassInfoImpl@$1?_GUID_4ea3755e_2b7a_44a0_b7e0_32c5328ecfb9@@3U__s_GUID@@B$1?m_libid@CAtlModule@ATL@@2U_GUID@@A$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@
+.?AV?$IProvideClassInfoImpl@$1?_GUID_afcd5a64_c247_4630_81b0_f4904402958d@@3U__s_GUID@@B$1?m_libid@CAtlModule@ATL@@2U_GUID@@A$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@
+.?AV?$IProvideClassInfoImpl@$1?_GUID_edb4ac93_72d0_4d53_b347_af89d4fa4a54@@3U__s_GUID@@B$1?m_libid@CAtlModule@ATL@@2U_GUID@@A$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@
+.?AVCAcousticDataTableManager@@
+.?AVCAcousticPredictorBase@@
+.?AVCAcousticProsodyTagger@@
+.?AVCAcronymDomain@@
+.?AVCAcronymDomainHandler@@
+.?AVCAcronymHandler@@
+.?AVCAnyPromptData@@
+.?AVCAnyPromptLatticeConstructor@@
+.?AVCAnyPrompter@@
+.?AVCAtlModule@ATL@@
+.?AVCBandPassFilter@@
+.?AVCBiquadsFilterBase@@
+.?AVCBiquadsFilterSetting@@
+.?AVCBitSet@@
+.?AVCBoostModelManager@@
+.?AVCBoostStumpClassifier@@
+.?AVCBoostWeakClassifier@@
+.?AVCCOMEngineModule@@
+.?AVCCRFAcronymTagger@@
+.?AVCCRFAcronymTaggerList@@
+.?AVCCRFDecoderCore@@
+.?AVCCRFFeatureExtractor@@
+.?AVCCRFFeatureMetaArray@@
+.?AVCCRFLattice@@
+.?AVCCRFModelManager@@
+.?AVCCRFRuntimeData@@
+.?AVCCRFTagger@@
+.?AVCCharTable@@
+.?AVCComClassFactory@ATL@@
+.?AVCComObjectRootBase@ATL@@
+.?AVCCrossCorrelation@@
+.?AVCDataTableManager@@
+.?AVCDll@TTS@@
+.?AVCDomain@@
+.?AVCDomainData@@
+.?AVCDomainHandler@@
+.?AVCDrcSoundEffectSetting@@
+.?AVCDrcSoundEffectTransferFunction@@
+.?AVCDurationFilter@@
+.?AVCDurationPredictor@@
+.?AVCEqualizerFilter@@
+.?AVCExcitationGenerator@@
+.?AVCF0Predictor@@
+.?AVCForestQuestionSet@@
+.?AVCFormantSharpenSetting@@
+.?AVCFrameShifter@@
+.?AVCGainPredictor@@
+.?AVCHMMDynamicWindow@@
+.?AVCHMMDynamicWindowSet@@
+.?AVCHMMGaussMixture@@
+.?AVCHMMModel@@
+.?AVCHMMState@@
+.?AVCHMMStream@@
+.?AVCHTSAcousticModel@@
+.?AVCHTSDecisionTree@@
+.?AVCHTSModelSetManager@@
+.?AVCHTSVoiceData@@
+.?AVCHandlingMediaBuffer@@
+.?AVCHighPassFilter@@
+.?AVCLTSLexiconCART@@
+.?AVCLatticeProcessorBase@@
+.?AVCLetterDomain@@
+.?AVCLexiconAttributeSet@@
+.?AVCLexiconBase@@
+.?AVCLinguisticProsodyPredictorBase@@
+.?AVCLinguisticProsodyTagger@@
+.?AVCLowPassFilter@@
+.?AVCLsfPredictor@@
+.?AVCLsfSynthesizer@@
+.?AVCLwHuffCodec@@
+.?AVCLwHuffDecoder@@
+.?AVCMbePredictor@@
+.?AVCNEDetector@@
+.?AVCNEDetectorBase@@
+.?AVCNUSVoiceData@@
+.?AVCNUSVoiceDataBase@@
+.?AVCNameDomainHandler@@
+.?AVCNuSpsPredictor@@
+.?AVCNumberDomain@@
+.?AVCNusLatticeProcessor@@
+.?AVCNusTrajectoryRefiner@@
+.?AVCNusUnitDetectorManager@@
+.?AVCPOSTag@@
+.?AVCPOSTaggerImpl@@
+.?AVCParallelStruct@@
+.?AVCParallelStructDetector@@
+.?AVCParameterManager@@
+.?AVCPhoneme@@
+.?AVCPitchTargetCostFilter@@
+.?AVCPolyphony@@
+.?AVCPosTagger@@
+.?AVCPowerPredictor@@
+.?AVCPowerTargetCostFilter@@
+.?AVCPronouncer@@
+.?AVCPronouncerBase@@
+.?AVCPropertyBag@@
+.?AVCProsodyBoundaryTonePredictor@@
+.?AVCProsodyBreakPredictor@@
+.?AVCProsodyEmphasisPredictor@@
+.?AVCProsodyModelRunner@@
+.?AVCProsodyPitchAccentPredictor@@
+.?AVCQuickStringTBase@@
+.?AVCRangeSet@@
+.?AVCReadOnlyIndexSet@@
+.?AVCRegObject@ATL@@
+.?AVCRegistryVirtualMachine@ATL@@
+.?AVCRuleCallbackBase@@
+.?AVCSAPIEventHandler@@
+.?AVCSAPIUserAppLexicon@@
+.?AVCSentDetector@@
+.?AVCSentSepImpl@@
+.?AVCSentSepInfo@@
+.?AVCSentenceAnalyzer@@
+.?AVCSentenceBase@@
+.?AVCSentenceEnumerator@@
+.?AVCSentenceEnumeratorBase@@
+.?AVCSetBase@@
+.?AVCShareable@@
+.?AVCShareablePatternMachineData@@
+.?AVCSmsDomainHandler@@
+.?AVCSpectrumTargetCostFilter@@
+.?AVCStreamHandlersAdapter@@
+.?AVCStringPatternReplacer@@
+.?AVCSyllableSeg@@
+.?AVCTTSAcousticSpace@@
+.?AVCTTSContainerLexicon@@
+.?AVCTTSCustomLexicon@@
+.?AVCTTSDataLoader@@
+.?AVCTTSDataManager@@
+.?AVCTTSDomainMapConfig@@
+.?AVCTTSEngine@@
+.?AVCTTSEngineCom@@
+.?AVCTTSEngineConfig@@
+.?AVCTTSEngineSetting@@
+.?AVCTTSEventManager@@
+.?AVCTTSFeatureExtractionBase@@
+.?AVCTTSFeatureExtractionEngine@@
+.?AVCTTSFeatureMeta@@
+.?AVCTTSFeatureNodeBase@@
+.?AVCTTSFeatureQuestion@@
+.?AVCTTSHandlerBase@@
+.?AVCTTSIntonationPhrase@@
+.?AVCTTSInventoryBase@@
+.?AVCTTSLangDataWrapper@@
+.?AVCTTSLanguageSetting@@
+.?AVCTTSLexicon@@
+.?AVCTTSLexiconWrapper@@
+.?AVCTTSNusUnit@@
+.?AVCTTSOutput@@
+.?AVCTTSPhone@@
+.?AVCTTSPhoneConverter@@
+.?AVCTTSPhoneEventData@@
+.?AVCTTSPhrase@@
+.?AVCTTSPronunciation@@
+.?AVCTTSPronunciationList@@
+.?AVCTTSProsodicWord@@
+.?AVCTTSProsodyHandlerBase@@
+.?AVCTTSProsodySetting@@
+.?AVCTTSSegment@@
+.?AVCTTSSentence@@
+.?AVCTTSSequenceHandler@@
+.?AVCTTSSetting@@
+.?AVCTTSSharedDataLoader@@
+.?AVCTTSSyllable@@
+.?AVCTTSUnit@@
+.?AVCTTSUnitGenerator@@
+.?AVCTTSUtterance@@
+.?AVCTTSWord@@
+.?AVCTTSWordListImp@CTTSWordList@@
+.?AVCTargetCostFilter@@
+.?AVCTextNormMultiResult@@
+.?AVCTextNormalizer@@
+.?AVCTextNormalizerBase@@
+.?AVCTextProcessor@@
+.?AVCTtsStreamHandlerBase@@
+.?AVCUVPredictor@@
+.?AVCUncompressedWaveInventory@@
+.?AVCUnitCandidateLeafNode@@
+.?AVCUnitCandidateSet@@
+.?AVCUnitLatticeGenerator@@
+.?AVCUnitPreSelector@@
+.?AVCUnitSelector@@
+.?AVCVocoder@@
+.?AVCWMAVComDecoder@@
+.?AVCWMAVdec@@
+.?AVCWMAWaveInventory@@
+.?AVCWaveGenerator@@
+.?AVCWaveLoader@@
+.?AVCWaveSmoother@@
+.?AVCWhiteSpaceBreaker@@
+.?AVCWordBreakerInfo@@
+.?AVCWordBreakingInfoSink@@
+.?AVCWordPronList@@
+.?AVCWordPronouncer@@
+.?AVCWordPronunciation@@
+.?AVCWuiManager@@
+.?AVbad_alloc@std@@
+.?AVexception@@
+.?AVlength_error@std@@
+.?AVlogic_error@std@@
+.?AVout_of_range@std@@
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIZ
+.\WriteWWW
+.data
+.data$brc
+.data$r$brc
+.data$rs$brc
+.edata
+.f9~(v^L
+.gehcont
+.gfids
+.giats
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.n.?.
+.pdata
+.rdata
+.rdata$brc
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rsrc$01
+.rsrc$02
+.text
+.text$di
+.text$lp00SPGO
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.xdata
+.xdata$x
+/0v_H
+/1w)3
+/L1=4U7 82B C2DVF G*M i*o
+/SPELL
+/SPVSA_ParseUnknownTagWWW
+/X/)/
+/pszValueName
+0$4SPVA_PronounceWW
+0(8)F687*<8=*>8?*A8B*D8E*
+0+kSPVSA_PromptEngineSpeakW
+0.075f
+040904b0
+05,SPVSA_EndPromptEngineWithTag
+05YSPDKL_CurrentConfigW
+07"eLEXTYPE_PRIVATE1WWW
+08"eLEXTYPE_PRIVATE2WWW
+09"eLEXTYPE_PRIVATE3WWW
+09aSPVSA_BeginPromptEngineWithTagWW
+0:"eLEXTYPE_PRIVATE4WWW
+0;"eLEXTYPE_PRIVATE5WWW
+0<"eLEXTYPE_PRIVATE6WWW
+0="eLEXTYPE_PRIVATE7WWW
+0>"eLEXTYPE_PRIVATE8WWW
+0?"eLEXTYPE_PRIVATE9WWW
+0A^A\_^]
+0A^A]A\_^][
+0A^][
+0A^_^
+0A^_^[]
+0A_A\_^]
+0A_A^A\
+0A_A^A\^]
+0A_A^A\_]
+0A_A^A\_^
+0A_A^A]
+0A_A^A]A\]
+0A_A^A]A\_
+0A_A^A]A\_^]
+0A_A^A]_^[]
+0A_A^_
+0A_A^_^]
+0A__]
+0A__^][
+0GetPronunciationsWWW
+0ONSPVSA_PromptEngineId
+0PtSPPS_SuppressWordWWW(
+0]neLEXTYPE_RESERVED10W
+0fA96
+0ipOutputSiteWd
+0p0A0
+0ucfD9k
+1(0&0
+1/0-0
+11.0.58.18
+111019184142Z
+1A9?v,L
+1H:2JoT
+1SPVACTIONSWW
+1X1*1
+1w-!_?
+1w-!_?/n
+20250826214205Z
+20250827061521.598Z0
+20250827214205Z0w0=
+210930182225Z
+229879+5053260
+250130194250Z
+250619181144Z
+260422194250Z0
+260617181144Z0p1
+261019185142Z0
+2Stat
+2n2@2
+3)E3G435063708390= ?/G'H*j'p*}D~;
+300930183225Z0|1
+39pszValueH
+3T3&3
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+3riid
+4H9|$0u
+4Pf;Q
+4f;K s,
+4h4:4
+5pitchWWW
+5s8H+
+5{5M5
+69\$8~2L
+6_616
+7 *:8?*@:J8R1U;_*i<j=l>m7o*p1
+7fD;&u
+7fD;>t_
+7lParamWW
+7o7B7
+83GISequentialStreamWWWL
+8A^A]A\^
+8A^_^[
+8A_A^A]A\_^[]
+8A_A^A]A\_^][
+8D$@L
+8L;I u
+8Q$IStreamWL
+8X<SPVSSMLTEXTFRAGW
+8Y@t5H
+8^0SPVSSMLSAYASl
+8w/t(A+
+8w1t*
+8yEISpObjectWithTokenWW
+8~8Q8$8
+91~'3
+93upH
+9BaZ+
+9D$0~
+9D$@s
+9D$HL
+9D$P~3Hc
+9D$`t
+9D$h|
+9E8|GE
+9GDu$E3
+9UPu(fD
+9Y ucH
+9Y8~+3
+9\$4u
+9\$@t
+9\$@u L
+9_929
+9_tubH
+9i@~.3
+9sxv H
+9t$Pt
+9w0}|H
+9y8tF
+9{ptRH
+9|$Xu
+:@ux9Z
+:GetOutputFormatW
+:l:@:
+:lEmphasisWWW
+:trD9'
+;,8/*?;J0
+;3}VHcK
+;@8:t
+;D$8s
+;D$X}
+;Domain=
+;E8sa
+;L$ tX
+;L$XsB
+;L93v
+;Pxu~
+;UH}AH
+;\$Pt
+;\$P|
+;\$`r
+;_ls~
+;f;S(s O
+;x;L;
+;|$h}>A
+;}0szH
+<%s name="%s" ID="%u">
+</%s>
+</CASE>
+</Category>
+</Value>
+<A uTf
+<CASE>
+<H;u;D
+<Hf;Q
+<PfD9/t;
+<SPVA_SpeakWW
+<SPVSA_SpeakW
+<V<*<
+=ISpObjectTokenWWH
+=L9o<
+=`=3=
+>.uA3
+>333?
+>?wcA
+>NGdx
+>ResetWWW
+>SPPS_VerbWWWT
+>h><>
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>}tefA
+?2U0*
+?333333
+?;3s;H
+??0exception@@QEAA@AEBQEBD@Z
+??0exception@@QEAA@AEBQEBDH@Z
+??0exception@@QEAA@AEBV0@@Z
+??1exception@@UEAA@XZ
+??1type_info@@UEAA@XZ
+??3@YAXPEAX@Z
+??8type_info@@QEBAHAEBV0@@Z
+??_V@YAXPEAX@Z
+?Rich
+?[u9H
+?a2U0*
+?ff&?
+?fff?333?
+?n?C?
+?terminate@@YAXXZ
+?what@exception@@UEBAPEBDXZ
+?{uQH
+@.data
+@.reloc
+@.rsrc
+@8iPu
+@8t$@L
+@<D+@4D
+@A^A\_
+@A^A]]
+@A^A]_^]
+@A^_]
+@A^_^
+@A^_^][
+@A_A^A\
+@A_A^A\_^
+@A_A^A]A\_^]
+@A_A^]
+@A_A^_
+@A_A^_^]
+@H9MHt
+@SUAVH
+@SUVH
+@SUVW
+@SUVWATAUAVAW
+@SUVWATAUAVAWH
+@SUVWATAUAVH
+@SUVWATAVAWH
+@SUVWAUAVAWH
+@SUVWAV
+@SUVWAVAWH
+@SUVWAVH
+@SUVWH
+@SVWH
+@T333?
+@UATAWH
+@USVWATAUAVAWH
+@USVWATAVAWH
+@USVWAUAVAWH
+@USVWAVH
+@UVWAVH
+@VATAVAWH
+@s@H@
+@tkE3
+A I;@(t
+A(H9A
+A(I;@(t
+A+<$A;
+A+MPI
+A0H9V t
+A9>vt
+A9ELA
+A9JTu
+A9Upu
+A9q@}
+A9t$tt
+AAAAA
+API-MS-Win-Core-LocalRegistry-L1-1-0.dll
+APPID
+ATAVAWH
+ATL$__a
+ATL$__m
+ATL$__z
+AXHcp
+AXHcy(I
+AX}oQ
+A^A]A\_]
+A^A]A\_^
+A^A]]
+A^A]_
+A^_^][
+A_A\]
+A_A\_^]
+A_A^A\
+A_A^A\_]
+A_A^A\_^
+A_A^A\_^[]
+A_A^A\_^]
+A_A^A\_^][
+A_A^A]A\]
+A_A^A]A\_
+A_A^A]A\_^[]
+A_A^A]A\_^]
+A_A^A]A\_^][
+A_A^A]^[
+A_A^A]^]
+A_A^A]_]
+A_A^A]_^[]
+A_A^A]_^][
+A_A^]
+A_A^_
+A_A^_^]
+A_A^_^][
+Accent
+AccentedSyllNumAfterCurrSyll
+AccentedSyllNumBeforeCurrSyll
+Acoustic Prosody Tagger
+AcousticDomain
+AcousticProsodyTagger.EnforceHasTrajectory
+AcousticTableCacheSize
+Acronym Tagger
+AcronymDomain
+AddEventsWWW
+Addon
+Af90u
+Al333?L
+AlpszTitle
+Any Prompter
+AppID
+AreBothCurrIntermPhraseBoundaryPuncs
+AreBothCurrIntonaPhraseBoundaryPuncs
+AtSentenceBoundary
+AtWordBoundary
+Attributes
+AwALA!A
+B(I;@(u
+B,D9J
+B0I;@(u
+B4D9v0t
+B4f9G4A
+B@;AXs)
+B@A;Bhs
+BBBBB
+BE9MLt<A
+BH!l$0H
+BOOST
+BandPassFilter
+Bd9AduIH
+BiquadFilterEnable
+BiquadFilterSetting
+BiquadFilterSetting.FilterNumber
+BoundedNumOfSyllablesFromPunc
+BoundedNumOfSyllablesToPunc
+BoundedNumOfWordsFromPunc
+BoundedNumOfWordsFromVerb
+BoundedNumOfWordsToPunc
+BoundedNumOfWordsToVerb
+BoundedSyllableNumber
+BreakIndex
+BwPosInIntonationPhrase
+BwPosInPhrase
+BwPosInProsodicWord
+BwPosInSentence
+BwPosInSyllable
+BwPosInWord
+BwPosInYesNoQuestion
+BwTokenPosInSentence
+BzBOB$B
+C A93
+C L9[ 
+C(H;G(t
+C?a2U0*
+C@+C8
+CCCacheSize
+CCompAttribLex Object
+CCompAttribLex.CCompAttribLex
+CCompAttribLex.CCompAttribLex.1
+CHANd
+CHL9[H
+CLSID
+CLSIDFromString
+CLSID\
+CLexiconAttributeSet Object
+CLexiconAttributeSet.CLexiconAttribut
+CLexiconAttributeSet.CLexiconAttribut.1
+COMPOUNDPRON_%s
+CRF acronym model: 
+CSTBH
+CWordPronList Object
+CWordPronList.CWordPronList
+CWordPronList.CWordPronList.1
+CWordPronunciation Object
+CWordPronunciation.CWordPronunciation
+CWordPronunciation.CWordPronunciation.1
+CaseInsensitiveText
+Category
+Char Table
+CharLowerW
+CharNextW
+CharUpperW
+ClassType
+CloneWWW
+CloseHandle
+CoCreateInstance
+CoTaskMemAlloc
+CoTaskMemFree
+CoTaskMemRealloc
+CommitWW
+CompanyName
+CompareStringW
+CompleteSkip
+Component Categories
+Cost:
+CreateFileMappingW
+CreateFileW
+CreateInstanceWW
+CreateKeyWWW
+CreateStreamOnHGlobal
+CurVer
+C{CPC%C
+D!d$(
+D$ .PST
+D$ A;
+D$ BEPTH
+D$ D;w
+D$ E3
+D$ H+
+D$ H+A0H
+D$ H;
+D$ H;K
+D$ HcQ 
+D$ Hk
+D$ L+
+D$ Lc
+D$ fD9
+D$$A;
+D$(;t$,
+D$(?B
+D$(E3
+D$(H+
+D$(H;
+D$(I+
+D$(L+
+D$(fD
+D$(fE
+D$0A+
+D$0D+d$0
+D$0E3
+D$0H+
+D$0H;
+D$0Ic
+D$0LcI
+D$0fA
+D$0fD
+D$4E;
+D$4uAD
+D$8!\$<
+D$89Z
+D$8H+F
+D$8H;
+D$8I+I
+D$8L;e
+D$8L;~
+D$8fA;t$
+D$:fA
+D$@;D$`|
+D$@A+
+D$@A;
+D$@E3
+D$@H+
+D$@L9x@t&
+D$@t/H
+D$DE3
+D$HE3
+D$HH;
+D$HH;L$X
+D$HHcA
+D$HL;
+D$LfD
+D$P9D$HH
+D$P;D$Xs
+D$PA9
+D$PE3
+D$PF+|
+D$PH;
+D$PHk
+D$PLk
+D$PM;
+D$PfD;A t
+D$Ttd
+D$XE3
+D$XH9D$Pt
+D$XLk
+D$Xf9H
+D$`E3
+D$`H+
+D$`H;
+D$hE3
+D$hH+
+D$pE3
+D$pHc
+D$pfA
+D$pfA;
+D$pfD
+D$pfD;
+D$tfA
+D$x;K
+D$xA;G
+D$xH+
+D$|H+
+D$|f;D$t
+D$|fD;|$t
+D0E1N0_*b0s*u,y*z+}*~ 
+D8qHu
+D8uHt
+D93unM
+D97|N9
+D98u9L
+D9;t]H
+D9A<u'
+D9AXu
+D9D$(v\D
+D9D$8v0L
+D9I4t
+D9I8t@M!K
+D9J(t
+D9L$0
+D9L$`vJH
+D9L$h
+D9L$p
+D9M(H
+D9RHs
+D9Y(t"
+D9YXv
+D9\$D
+D9]`t
+D9`(t
+D9aPu
+D9b A
+D9d$ A
+D9e<t
+D9eHu
+D9glt
+D9h(t
+D9i8v
+D9i@u=H
+D9jxA
+D9k0u-I
+D9l$T
+D9l$TvwI
+D9mPt
+D9m`t
+D9mxt
+D9o(v7A
+D9p(t
+D9q<~#A
+D9r<u
+D9s<u
+D9t$0A
+D9t$0t
+D9u(t:H
+D9w@t
+D9wXt
+D9y t
+D9yhviL
+D9z t(
+D9{Pt!L
+D9|$0t
+D9|$`u
+D;D$(r
+D;D$8r
+D;D$Ps1O
+D;E(s
+D;E8s
+D;G(r
+D;H,s/G
+D;T$T
+D;T$`r
+D;d$4
+D;d$@
+D;d$@s0H
+D;d$Pw
+D;d$T
+D;ePsOA
+D;l$0
+D;l$P
+D;t$8
+D;t$<
+D;t$h
+D;t$x
+D;uPsB
+D;|$@
+D;|$pt
+DL$0D
+DL$8M
+DOMAIN_LEX_
+Delete
+DeleteCriticalSection
+DeleteKeyWWWH
+DeleteValueWH
+DisableThreadLibraryCalls
+DisplayUIWWW
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+Domain
+Domain.
+Domain.Domain
+Domain.FileName
+Domain.Number
+DrcEnable
+DrcSetting.AttackTime
+DrcSetting.CurveDB
+DrcSetting.DecayTime
+DrcSetting.FirstInDB
+DrcSetting.FirstOutDB
+DrcSetting.GainDB
+DrcSetting.SecondInDB
+DrcSetting.SecondOutDB
+DzDPD%D
+E E;u
+E(=csm
+E8;8r
+E8=csm
+E8H+}@H
+E8nJt
+E9<$A
+E9HXt:E
+E9L$8t
+E9L$Xu
+E9L$`uiH
+E9MPv0H
+E9W t
+E9Zhv
+E9adt
+E;7s{
+E;<$wA
+E;B,sHG
+E;EPr
+E@fD98t;H
+EH9FPt
+EH;Q(
+EH=csm
+EHD9Htt(
+EHD9HttoE
+EHD9|
+EHL!}HA
+ELI9D$
+EPH+}
+EPfD9(
+EX=csm
+EXH9}
+EXL!m
+E\$@L
+Eh=csm
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+Ehttp://www.microsoft.com/pkiops/certs/MicWinProPCA2011_2011-10-19.crt0
+EmphAdjW(
+EndWith
+Engine.LangDataPath
+Engine.VoiceDataPath
+EnterCriticalSection
+EnumKeys
+EnumTokensWW
+EnumValuesWW
+Equal
+EqualizerFilter
+EventData
+EventRegister
+EventUnregister
+EventWriteTransfer
+EwD9`
+EwH;F
+Ex=csm
+ExENE$E
+Expansion
+Extension
+ExtraLanguages
+ExtraMode
+F L+e
+F(fD9<Pt
+F0A9A
+F4f9B4u(
+F8,8t
+F`L;p
+Failed with HRESULT 0x%x
+Fhttp://www.microsoft.com/pkiops/crl/MicWinProPCA2011_2011-10-19.crl%200a
+FileDescription
+FileName
+FileType
+FileVersion
+FindResourceExW
+FirstIntonationPhrase
+FirstPhone
+FirstPhrase
+FirstProsodicWord
+FirstSyllable
+FirstToken
+FirstWave
+FirstWord
+ForceRemove
+FreeLibrary
+FriendlyName
+FuFKF!F
+FullContext
+FwPosInIntonationPhrase
+FwPosInPhrase
+FwPosInProsodicWord
+FwPosInSentence
+FwPosInSyllable
+FwPosInWord
+FwPosInYesNoQuestion
+FwTokenPosInSentence
+G$fD;
+G0H9E
+G4L9k8tD
+G@!GD!GHH!GP!GXH!G`H
+G@H;,
+GSPPS_NounWWWT
+GetActionsWW
+GetCount
+GetCurrentPackageFullName
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetDataW
+GetDefaultTokenIdWWW
+GetEventInterest
+GetFileSize
+GetFileType
+GetIdWWW
+GetLastError
+GetLocaleHandler
+GetModuleFileNameW
+GetModuleHandleW
+GetObjectTokenWW
+GetPrivateProfileSectionW
+GetPrivateProfileStringW
+GetProcAddress
+GetProcessHeap
+GetSkipInfoW
+GetStorageFileNameWW
+GetSystemTimeAsFileTime
+GetThreadLocale
+GetTickCount
+GetTraceEnableFlags
+GetTraceEnableLevel
+GetTraceLoggerHandle
+GetVolumeWWW
+GpGFG
+GreaterThan
+H SUVWAWH
+H UATAUAVAWH
+H UVWATAUAVAWH
+H VWAVH
+H WATAUAVAWH
+H WAVAWH
+H!3H!s
+H!;H!{
+H!A 3
+H!C L
+H!D$hH!D$pH!D$x!E
+H!D$x3
+H!K`H
+H!Y H!Y(H!Y0H!Y8!Y@H
+H!\$ H
+H!\$(
+H!\$0
+H!\$0E3
+H!\$@3
+H!\$@H
+H!\$@L
+H!\$H
+H!\$PH
+H!]p;
+H!_8H
+H!i(H
+H!l$ L
+H!l$@H
+H!o(H!o0H!o8
+H!p H!p(H
+H!t$(D
+H!t$0
+H!{ H
+H!{ H!{(
+H!{8H
+H!{8H!{@H!{H!{P
+H!{@!{HH!{PH!{XH!{`
+H!{@H!{HH!{PH!{X!{`H
+H!|$(H
+H!|$0
+H!|$0H!|$8H
+H!|$H
+H!|$`H
+H!}(H
+H!}8L
+H!~@H
+H+D$ H;C
+H+D$hI
+H+E8I
+H+Gpu
+H+GxH
+H+l$@H
+H+t$xE;'r
+H+uPH
+H9)u!H;
+H9.u9
+H91tC
+H97w(L
+H9;tDH
+H9;uBH
+H9;uEH
+H9;uFH
+H9Apt
+H9E(v
+H9E8v
+H9E8w
+H9HHH
+H9J@t29
+H9L$Hv&
+H9O(H
+H9O0H
+H9Q t
+H9QHv2
+H9Y t
+H9Y t3H
+H9Y t4H
+H9Y t5H
+H9Y t6H
+H9Y uD
+H9Y uH
+H9Y0t
+H9Yhu)H
+H9Yxv
+H9\$ H
+H9\$(
+H9\$`t
+H9] u
+H9i t
+H9i v*3
+H9i(t0
+H9l$(
+H9l$0
+H9q@t)
+H9s@}
+H9sPt$
+H9s`t$
+H9spt$
+H9t$0}
+H9uPv
+H9y tQH
+H9y uB
+H9y uD
+H9y(t9f;y"s#H
+H9y(v$H
+H9yHv'3
+H9yPt4
+H9ypv
+H9{`t29{Xv
+H9|$Hv#
+H9}pt:L
+H9~(u
+H;A(t
+H;C(t
+H;D$H
+H;GHr
+H;Ght
+H;L$(wrA
+H;L$Hr
+H;L$X|
+H;N0saH
+H;P u
+H;P(u
+H;Q(t
+H;Q(t%H
+H;Q(t8H
+H;S(t4L
+H;T$@sTH
+H;VHr
+H;VpsFH
+H;W(t
+H;X u
+H;\$(t
+H;\$@t
+H;\$Pt
+H;\$Pv
+H;^Hr
+H;^hr
+H;_xr
+H;k r
+H;s`r
+H;wPr
+H;y u
+H;{(r
+H;{ps.H
+H;|$h
+H;|$ht
+H;}PE
+H;~pr
+H<+H4A
+HA_A^A]A\_^][
+HHD9d$PA
+HKEY_CLASSES_ROOT
+HKEY_CURRENT_CONFIG
+HKEY_CURRENT_USER
+HKEY_DYN_DATA
+HKEY_LOCAL_MACHINE
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\TextNormalizers
+HKEY_PERFORMANCE_DATA
+HKEY_USERS
+Hardware
+Hc4$3
+HcA@H9i(
+HcC H
+HcC0HcL
+HcCHHk
+HcD$$H
+HcD$X
+HcE8A9
+HcEH;
+HcEHH
+HcF`H
+HcG@A;D$
+HcL$hH
+HcMHH
+HcO I
+HcQ<H
+HcS H
+HcY0H
+Hc}HH
+Hd9Jd
+HeapAlloc
+HeapDestroy
+HeapFree
+HeapReAlloc
+HeapSize
+HfD93t7A
+HiH@H
+HighPassFilter
+Huffman-256 Table for Tags:
+I(D9Q
+I0D9Q
+I9@0u/
+I;@(t
+I;B u
+I;U8s
+IEnumSpObjectTokens InterfaceW 
+IEnumSpObjectTokensWt
+INITCAP
+ISPVSA_EndPromptEngineRuleWWW
+ISpDataKey InterfaceWW
+ISpEnginePronunciation InterfaceWW
+ISpEventSink Interface
+ISpEventSinkX
+ISpObjectToken InterfaceWW
+ISpObjectTokenCategory
+ISpObjectTokenCategoryWW
+ISpObjectWithToken InterfaceWW
+ISpTTSEngine
+ISpTTSEngine Interface
+ISpTTSEngineSSML
+ISpTTSEngineSSML Interface
+ISpTTSEngineSite
+ISpTTSEngineSite Interface
+ISpTTSEngineSiteEx InterfaceWW
+IaI8I
+IcF|L
+IcQ|E3
+InRange
+IndexWWW
+Information
+InitializeCriticalSection
+InitializeCriticalSectionAndSpinCount
+InprocServer32
+Instance
+Interface
+InternalName
+IntonationPhrase
+IntonationPhraseNumber
+Invalid feature function format [%s]
+Invalid feature function parameter count [%s]
+Invalid feature function parameter type [%s]
+Invalid feature function parameter value [%s]
+Invalid feature name [%s]: Need feature property
+Invalid feature name [%s]: at least one location and one property
+Invalid feature name [%s]: find empty feature location
+Invalid parameter passed to C runtime function.
+IsAfterSilence
+IsBeforeSilence
+IsFollowedByPunc
+IsInList
+IsNumber
+IsUISupportedWWW
+It$83
+ItmPhraseNumOfItnPhrase
+J>f;O
+JXJ/J
+JhInprocW
+K&uhfA
+K0M9o
+K32GetModuleBaseNameW
+KERNEL32.dll
+KEYW|
+KPL9k@u
+KSetObjectTokenWW
+K`H+CPA
+KuKLK$K
+KxH99t
+L!d$8L
+L!g(I
+L$ A+
+L$ E3
+L$ H!\$(H
+L$ H+
+L$ H;
+L$ L+
+L$ L+J0I
+L$ SH
+L$ SW
+L$ USWH
+L$ UVWATAUAVAWH
+L$ WH
+L$ f;
+L$ fD
+L$ fE
+L$$f;
+L$(H+
+L$(H9L$ u
+L$(Hk
+L$(fA
+L$0;L$8|
+L$0E3
+L$0E;
+L$0H3
+L$0H9D$@
+L$8E3
+L$8H3
+L$8f9L$(
+L$:fB
+L$@A9v
+L$@D;
+L$@E3
+L$@H!|$@L
+L$DH9T$X
+L$HD9
+L$HH3
+L$HH9M
+L$HHc
+L$HtN3
+L$PE3
+L$PH3
+L$PLc
+L$PfD
+L$PfD;4
+L$XE3
+L$XH3
+L$XL+
+L$`;K@u
+L$`E3
+L$`H!\$HH!\$P!\$XH!\$ H!\$(H!\$0!\$8
+L$`H3
+L$`I;
+L$`fD
+L$hD9
+L$hH3
+L$pH3
+L$pLc
+L$tD9O
+L$xE;
+L$xH3
+L$xHcD$pL
+L$xfA
+L*(E3
+L+D$0A
+L9?uJH
+L9@ t
+L9B t
+L9L$@
+L9S8A
+L9b0u
+L9d$`
+L9g`upH
+L9i0t@L
+L9mXt
+L9oPu
+L9t$H
+L9t$P
+L9u8w
+L9w v,3
+L9y(t}3
+L9y@H
+L9{`uoH
+L9|$Hv
+L9|$`tcH
+L9}8v
+L9}pt
+L;d$`v
+L;g8r
+L;v(s6H
+L;w r
+L;}`A
+LEVL@
+LONG_PTRX
+LSPDecomposing.DelayMode
+LTS_%s
+LTS_%s_%i
+LangDataPath
+Language
+Language Identifier
+Language=
+Language=%x
+LanguageNumber
+LastIntonationPhrase
+LastPhone
+LastPhrase
+LastProsodicWord
+LastSyllable
+LastToken
+LastWord
+LatticeGeneration
+LatticeSelection
+Lc9H9j
+LcA<E3
+LcC<H
+LcD$0J
+LcD$p3
+LcE83
+LcO0A
+Lcd$03
+Lcd$0A
+Lct$H
+LcuHD
+LcugH
+LdwClsContext
+LeaveCriticalSection
+LegalCopyright
+Length
+LetterDomain
+Lexicon
+LexiconCache.DropTime
+LexiconCache.Enabled
+LhL?L
+LimitedContext
+Linguistic Prosody Tagger
+LoadLibraryExW
+LoadLibraryW
+LoadResource
+LoadVoice
+Loc Data
+LocalServer32
+LocaleHandler
+LockResource
+LowPassFilter
+LpszTokenIdWW
+LsfSharpen.FrequencyDependent
+LsfSharpen.HighFrequency
+LsfSharpen.Intervals
+LsfSharpen.Iterations
+LsfSharpen.LowFrequency
+LsfSharpen.MultipleInterval
+LsfSharpen.Step
+LsfSharpen.TopStep
+M H9M0w
+M9&uPH
+M94$u
+M9L$P
+M9n0t6H
+M;E8s
+M;S@K
+M;S@s+M
+M@H;M
+M@L;q
+M@s!I
+MODULEGUID
+MODULETYPE
+MSPromptMapping
+MSPromptMapping.
+MSTTSEngine.DLL
+MSTTSEngine.dll
+MSTTSEngine.pdb
+MYM1M
+MapViewOfFileEx
+Mapping
+MatchesAttributesWWW
+MeLEXTYPE_USERWWW
+Microsoft America Operations1'0%
+Microsoft Corporation
+Microsoft Corporation1
+Microsoft Corporation1%0#
+Microsoft Corporation1&0$
+Microsoft Corporation1.0,
+Microsoft Corporation1200
+Microsoft SAPI/SpeechFX TTS Engine ClassWW
+Microsoft TTS Engine
+Microsoft TTS Engine (Desktop)
+Microsoft TTS Engine 10.0 Type Library(
+Microsoft Time-Stamp PCA 2010
+Microsoft Time-Stamp PCA 20100
+Microsoft Time-Stamp Service
+Microsoft Time-Stamp Service0
+Microsoft Windows0
+Microsoft-Windows-Speech-TTS
+Microsoft-Windows-TTS/Diagnostic
+MiddleAdjWWW
+Module
+Module_Raw
+Morph Lexicon
+MultiBandExcitation.Enabled
+MultiBandExcitation.Offset
+MultiByteToWideChar
+N!LockRegionWW
+N0L0J
+N8fE;y
+N@H9MHw
+ND8|$x
+NE Detector
+NEType
+Native
+Network
+Neutral
+NextIntonationPhrase
+NextPhone
+NextPhrase
+NextProsodicWord
+NextSyllable
+NextToken
+NextWord
+NfD;@8sy
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+NkQ]NAS~vCS
+NoRemove
+NpNHN!N
+NsLD9
+NumOfPuncsAtCurrIntermPhraseBoundary
+NumOfSyllablesFromInterPhrase
+NumOfSyllablesFromIntonPhrase
+NumOfWordsFromInterPhrase
+NumOfWordsFromIntonPhrase
+NumOfWordsFromPunc
+NumOfWordsToPunc
+Number
+NumberDomain
+NumberOfSyllableToLeftBound
+NumberOfSyllableToNextHighTone
+NumberOfSyllableToNextLowTone
+NumberOfSyllableToPrevHighTone
+NumberOfSyllableToPrevLowTone
+NumberOfSyllableToRightBound
+NusData
+NusRate
+NusRuntime
+NusRuntime.AllowDomainDetection
+NusRuntime.AllowOveralppingNuu
+NusRuntime.FrameShiftLength
+NusRuntime.OverwritingDomainName
+NusRuntime.TrajectoryRefinementNusWeight
+NusRuntime.TrajectoryRefinementWindowSize
+NusRuntime.UnitTransitionLength
+NuspsConvarFp
+O-gjv
+O0H9M
+O0M0K
+O8H!\$ H!\$(H
+OLEAUT32.dll
+OPCOx
+O^O6O
+OfD;E t
+OpenKeyW
+OriginalFilename
+OutputDebugStringA
+OverallToplevel
+P$H!p H
+P(H+T$hH
+P0N0L
+PA^_^
+PA_A^A\_^[]
+PA_A^A]A\^
+PA_A^A]A\_^]
+PA_A^_^]
+POS Table
+POS Tagger
+POSTaggerPOS
+PPPDDDDDDDDDD
+PRVAP
+PartOfSpeechName
+PerfDiagnostics
+PerfInstrumentation
+Phone
+Phone.NextPhone.PhoneIdentity
+Phone.PrevPhone.PhoneIdentity
+PhoneDuration.Weight
+PhoneIdentity
+PhoneName
+PhoneNumber
+Phrase
+Phrase.LastWord.AreBothCurrIntonaPhraseBoundaryPuncs
+Phrase.LastWord.IsFollowedByPunc
+Phrase.LastWord.NumOfSyllablesFromIntonPhrase
+Phrase.LastWord.NumOfWordsFromIntonPhrase
+Phrase.SyllableNumber
+Phrase.WordNumber
+PhraseNumber
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+Pipeline.EnableStreaming
+Pitch
+PitchAdj(
+PpPIP"P
+PpszLeftContextWW
+PrevIntonationPhrase
+PrevPhone
+PrevPhrase
+PrevProsodicWord
+PrevSyllable
+PrevToken
+PrevWord
+PrimaryAccentPosition
+PrimaryStressPosition
+ProductName
+ProductVersion
+ProgID
+Programmable
+Pronouncer
+ProsodicWord
+ProsodicWordNumOfItnPhrase
+ProsodicWordNumber
+ProsodyModelSetting.ACT
+ProsodyModelSetting.BR0
+ProsodyModelSetting.BR2
+ProsodyModelSetting.BR3
+ProsodyModelSetting.BRK
+ProsodyModelSetting.EMP
+ProsodyModelSetting.TON
+Q89j$D
+Q8A9B
+QHAddLexiconWW
+QZQ3Q
+QuadPart
+QueryPerformanceCounter
+QuestionIntonation.LogF0MaxValue
+QuestionIntonation.LogF0RisingRate
+R!s4Z
+R$fA;Z*
+R;3sNH
+RActionWW
+REGISTRY
+RGetDataKeyWW
+RaiseException
+RangeAdj(
+RateAdjW
+RateAdjustment
+RcclsidCallerW
+ReadFile
+Redmond1
+ReduceCoarticulation.CrossWord
+RegCloseKey
+RegCreateKeyExW
+RegDeleteKeyExW
+RegDeleteKeyW
+RegDeleteValueW
+RegEnumKeyExW
+RegOpenKeyExW
+RegQueryInfoKeyW
+RegSetValueExW
+RegisterTraceGuidsW
+RegularText
+RemoteReadWW
+RemoteSeekWW
+RemoteWriteW
+RemoveLexiconWWW@
+RemoveWW
+Result:
+RiRBR
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+S fA+
+S p&x:y;S<p=S>z?S@zF{Z|[S\v]S^w`*d}e~o
+S' (L)T.
+S-T-A-R-T
+S0H;]
+SAUAVAWH
+SDuEHct$@H
+SECURITY
+SENTSEP_%s
+SH!l$0H
+SHELL32.dll
+SHGetFileInfoW
+SOF_WAVEFORMATWW
+SPDATAKEYLOCATIONWWW
+SPDKL_CurrentUserWWW
+SPDKL_DefaultLocationWWW
+SPEVENTWX
+SPLEXICONTYPEWWW
+SPNORMALIZATIONLISTWh
+SPPROSODYNUMBERUNITW
+SPPS_FunctionWWWT
+SPPS_InterjectionWWWT
+SPPS_LMAT
+SPPS_NoncontentWT
+SPPS_NotOverridenWWWT
+SPPS_UnknownT
+SPVA_BookmarkWWW
+SPVA_ParseUnknownTag(
+SPVA_Section
+SPVA_Silence
+SPVA_SpellOutWWW
+SPVCONTEXTWW
+SPVPITCH
+SPVSA_BeginPromptEngineOutputWWW
+SPVSA_BeginPromptEngineRuleW
+SPVSA_BookmarkWW
+SPVSA_EndPromptEngineOutputW
+SPVSA_PromptEngineAudioW
+SPVSA_PromptEngineDatabaseWW
+SPVSA_PronounceW
+SPVSA_SilenceWWW
+SPVSA_StartParagraph
+SPVSA_StartSentenceW
+SPVSNU_HzWWW
+SPVSSMLACTIONWWW
+SPVSSMLCONTOURPOINTW
+SPVSSMLPROSODYNUMBER4
+SPVSSMLSPEAKOUTPUTFORMAT
+SPVSTATE
+SPVST_SENTENCEWW
+SPVTEXTFRAGW
+SPWORDPRONUNCIATIONLISTW
+SPWORDPRONUNCIATIONW0
+SQM_KoreanHangulHanjaImproved
+SUVWATAUAVAWH
+SUWAVH
+SVAUAVAWH
+SVWAVH
+SWAVAWH
+SYSTEM
+SayAsMapping
+SayAsMapping.
+Sentence
+Sentence Breaker
+Sentence Detector
+SentenceType
+SeparateRUSPrefix
+SetDefaultTokenIdWWW
+SetFilePointer
+SetIdWWW
+SetLastError
+SetThreadLocale
+SetUnhandledExceptionFilter
+ShortPause.Enable
+SilenceLength.IntermPhraseBoundary
+SilenceLength.IntonationPhraseBoundary
+SilenceLength.NonPuncIntonationPhraseBoundary
+SilenceLength.ParalStructIntonationPhraseBoundary
+SilenceLength.RatioNameEntities
+SilenceLength.SentenceBoundary
+SilenceLength.SpeakSessionEnd
+SilenceLength.SpeakSessionStart
+SilenceLength.WordBoundary
+SizeofResource
+Skipt
+Sleep
+SmallerThan
+Software
+Speak
+SpeakWWW
+SpellOut.NormalizedVolume
+SpellOut.UnvoicedPhoneRate
+SpellOut.UnvoicedPhoneVolume
+Start
+StartWith
+StartWithCapital
+StateWWW@
+Stress
+StringFileInfo
+StringFromCLSID
+StringFromGUID2
+SuSNS(S
+SyllNumFromLeftAccent
+SyllNumOfItnPhrase
+SyllNumToRightAccent
+Syllable
+SyllableNumber
+T$ A;
+T$ E3
+T$ H+
+T$ I;
+T$ L+
+T$(E3
+T$(fD
+T$0D;
+T$0E3
+T$0E;
+T$0I+
+T$4D9{
+T$4f;
+T$8!\$8H
+T$8D;u
+T$8E3
+T$8Hc
+T$@E3
+T$@H;
+T$@fB
+T$DH!\$@H
+T$HD;G
+T$HE3
+T$HL#
+T$HfA
+T$PH!\$PH
+T$Pf;
+T$PfD
+T$RfA;
+T$XD;U
+T$XfB
+T$XfD
+T$`E3
+T$`H;
+T$`fD
+T$hA9y
+T$hE3
+T$hH;
+T$hL9n
+T$xE3
+T* v2
+TGetRateW
+TH!l$0H
+TNScope
+TRANSDUCERALPHABETMAP
+TRANSDUCERALPHABETMAP_%s
+TRANSDUCER_%s
+TTSEngine
+TTSEngineLib
+TUWumC
+TYPELIB
+Tag bytes = %d
+TargetCostWeight
+TerminateProcess
+Text:
+ThreadingModel
+TlP0X
+ToBIFinalBoundaryTone
+Token
+ToneLevel
+Total tags = %d, unique tags = %d
+TraceMessage
+TransducerNetwork: File mode: 
+TransducerNetwork: Memory mode: 
+Translation
+Tu]fD9k
+TypeLib
+T~TXT3T
+U0S0Q
+U9\$`v3L
+UATAUAVAW
+UATAUAVAWH
+UAUAVH
+UAVAWH
+UINT_PTRX
+UJSetDWORD
+USER32.dll
+USVWATAUAVAWH
+USVWATAUAWH
+USVWATAVAWH
+USVWH
+UVATAUH
+UVATAVAWH
+UVATI
+UVAUAVAWH
+UVAVAWH
+UVDecision.FrameLevel
+UVDecision.VoicedWeightThreshold
+UVWATAUAVAW
+UVWATAUAVAW3
+UVWATAUAVAWH
+UVWATAVAWI
+UVWATAVH
+UVWATAWH
+UVWAUAVH
+UVWAVAWH
+UWATAUAVH
+UWATAVAWH
+UWATAVH
+UWAUAVAWH
+UWAUH
+UWAVH
+UWAWH
+UYZauds
+U`U:U
+Unexpected feature function [%s]
+Unexpected feature location [%s]
+Unexpected feature property [%s]
+UnhandledExceptionFilter
+Unit Generator
+Unit Lattice Generator
+Unit Selector
+UnlockRegionx
+UnmapViewOfFile
+UnregisterClassA
+UnregisterTraceGuids
+Unsupported feature function [%s]
+Unsupported feature function parameter [%s]
+Unsupported feature location [%s]
+Unsupported feature property [%s]
+UseSSE
+VATAUAVAWH
+VATAUAVH
+VAUAWH
+VH!l$0H
+VK@MV
+VOICE_COMPOUNDPRON_
+VOICE_LEX_
+VS_VERSION_INFO
+VWATAUAVH
+VWATAVAWH
+VWAVAWH
+VWAVH
+VXHcF`H
+Value
+VarFileInfo
+VeV@V
+VendorPreferred
+VersionIndependentProgID
+Vocoder
+VoiceFont
+VoicePath
+VoiceSetting.PitchAdjustment
+VoiceSetting.RateAdjustment
+VoiceSetting.TtsPhonemeEvents
+VoiceSetting.VolumeAdjustment
+VoiceSpecificTAData.FileName
+Volume
+VowelLength
+VppTokenWt
+W(I;~
+W(fD;
+WATAUAVAWH
+WATAVH
+WATAWH
+WAUAVH
+WAVAWH
+WAVEFORMATEX,
+WAVEH
+WEVT_TEMPLATE
+WH!l$0H
+WIH H
+WORDBREAKER_%s
+Wadvapi32.dll
+Washington1
+Wave Generator
+WaveLoader.AlwaysSmooth
+WgWBW
+WideCharToMultiByte
+WinSqmAddToStreamEx
+WipclsidCaller
+Word Breaker
+Word.AreBothCurrIntermPhraseBoundaryPuncs
+Word.IsFollowedByPunc
+Word.NumOfPuncsAtCurrIntermPhraseBoundary
+Word.NumOfSyllablesFromInterPhrase
+Word.NumOfWordsFromInterPhrase
+Word.SyllableNumber
+WordNumOfItnPhrase
+WordNumber
+WpNormalizationListWW
+WriteFile
+X UVWATAUAVAWH
+X0V0T
+X;fChangeW
+XA]A\^]
+XA_A^A]A\_^[]
+XA_A^A]A\_^][
+XA_A^^]
+XSPVSSMLPROSODYWW4
+X_^[]
+XgXBX
+XnContextW
+XpSayAsWW
+XwY+Z
+Y3SetSizeW
+Y@H9;u+L
+YcbExtraDataW
+YdY@Y
+ZSS2@G[[    SS    @@        2   @[[[[[[[[[0000002\]\]\@@[[[***@@*^^^^^^^^^^^_^_^_^_^_^_^_^_^_^_^_^_^^_^_^_^^^^^^__^__^__^__^__^^^^^^^^^^^^^^^^^^^^^^^****``aabc**dddddddddddededededededededededededdedededdddddeedeedeedeedeeddddddddddddddddfdffddeffeeeeghij*
+Z^Z;Z
+Z__MIDL_IWinTypes_0009WWW
+ZeroNeighborCost
+[(D;^
+[H!l$0H
+[Initialization]
+[break=
+[y[V[3[
+\$ A+
+\$ A;
+\$ E3
+\$ UH
+\$ UVWATAUAVAW
+\$ UVWATAUAVAWH
+\$ UVWAVAWH
+\$ VWAVH
+\$ WH
+\$ fD
+\$ fD9tP
+\$(E3
+\$(H;
+\$0E3
+\$8A_A^A]A\]
+\$8E3
+\$@D9L$X
+\$HD9O
+\$HI;y
+\$P9]
+\$PI;
+\$RD9X
+\$XA_A^A]A\_^]
+\$XE2
+\$pE3
+\>wFormatTagWW,
+\Implemented Categories
+\MSTTSLoc
+\MSTTSLoc.DLL
+\Required Categories
+\SPVSNU_DefaultWW
+\cbWW
+\n\K\)\
+\ulTextLenWWWd
+] f9}"uT
+] outputFormat
+](H!\$0
+]/PRONUNCIATION
+]ISpEnginePronunciationWWh
+]PH9}
+]`]>]
+]dwValueWH
+]wE9nD
+^GetCategoryW
+^KpcbDataWH
+^f;F t
+^pvWW
+^q^P^-^
+^wyClImqDdiZXo70AojxIgiuuUyaR2iZ1ibjHbPfShaPJdRcRCa1i9b6ELZEOQRPWSOzA8SwpvfSCJR0XhzeyuNClPut80OJVSyHirCHyVp1egkunuTG2HzOROvXY5ukw
+_8fE;K
+_@pwszDetailWW
+_CxxThrowException
+_FILETIMEWWW
+_LARGE_INTEGERWW
+_LoadResource
+_RemotableHandle<
+_ULARGE_INTEGERW
+_XcptFilter
+_^_<_
+__C_specific_handler
+__CxxFrameHandler3
+__CxxFrameHandler4
+__RTDynamicCast
+__dllonexit
+_aligned_free
+_aligned_malloc
+_amsg_exit
+_callnewh
+_create_locale
+_errno
+_free_locale
+_initterm
+_lock
+_onexit
+_purecall
+_strnicmp
+_swscanf_s_l
+_unlock
+_vsnwprintf
+_wcsdup
+_wcsicmp
+_wcslwr
+_wcsnicmp
+_wsplitpath_s
+_wtoi
+_wtol
+` UAVAWH
+`.rdata
+`0^0\
+`A_A\_^]
+`A_A]^
+`A_A^A\_^[]
+`A_A^A]A\_^]
+`A_A^_^]
+`TppTokenCategoryW
+`fothk
+`h`G`&`
+`ulTextSrcOffsetW@
+a2U0*
+a9pdwValueH
+aISpDataKeyWWH
+aaaaaa
+acronym
+address
+address family not supported
+address in use
+address not available
+address_family_not_supported
+address_in_use
+address_not_available
+already connected
+already_connected
+aoaNa-a
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-eventing-classicprovider-l1-1-0.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+argument list too long
+argument out of domain
+as.,k{n?,
+atan2f
+atimeWWWx
+aw_t{
+bad address
+bad allocation
+bad file descriptor
+bad message
+bad_address
+bad_file_descriptor
+bqbQb1b
+broken pipe
+bsearch
+bsearch_s
+cRemoveStorageFileNameWWW
+cTextFragmentsWW
+cToken
+ca-ES
+calloc
+cardinal
+ceeeeiiii
+cfContext
+characters
+clsidWWWx
+computer
+connection aborted
+connection already in progress
+connection refused
+connection reset
+connection_aborted
+connection_already_in_progress
+connection_refused
+connection_reset
+cqcQc1c
+cross device link
+ctimeWWWx
+d$$Ic^
+d$0D;*
+d$0E;
+d$@E3
+d$P9L$T
+d$XE3
+d$pE3
+d$pL+
+d$pu2
+d$zfA;
+d$zfE;
+da-DK
+dae-f
+de-DE
+destination address required
+destination_address_required
+device or resource busy
+directory not empty
+dldMd-d
+dlibMove
+domain
+dwDurationWW
+dwHighDateTimeWWx
+dwLangID
+dwLockTypeWW
+dwLowDateTimeWWW
+dwOrigin
+dwSpeakFlags
+eActionW(
+eEventIdX
+eLEXTYPE_APP
+eLEXTYPE_LETTERTOSOUNDWW
+eLEXTYPE_MORPHOLOGYW
+eLEXTYPE_PRIVATE10WW
+eLEXTYPE_PRIVATE11WW
+eLEXTYPE_PRIVATE12WW
+eLEXTYPE_PRIVATE13WW
+eLEXTYPE_PRIVATE14WW
+eLEXTYPE_PRIVATE15WW
+eLEXTYPE_PRIVATE16WW
+eLEXTYPE_PRIVATE17WW
+eLEXTYPE_PRIVATE18WW
+eLEXTYPE_PRIVATE19WW
+eLEXTYPE_PRIVATE20WW0
+eLEXTYPE_RESERVED4WW
+eLEXTYPE_RESERVED6WW
+eLEXTYPE_RESERVED7WW
+eLEXTYPE_RESERVED8WW
+eLEXTYPE_RESERVED9WW
+eLEXTYPE_USER_SHORTCUTWW
+eLEXTYPE_VENDORLEXICONWW
+eXfA;
+eceEe&e
+elParamTypeWX
+en-AU
+en-CA
+en-GB
+en-IN
+en-US
+es-ES
+es-MX
+executable format error
+f+B f;B"
+f+H f;H"
+f+\$pfA+
+f+w H
+f9+t-H
+f9,Au
+f9,Gu
+f9,Ku
+f9,Xu
+f90tDH
+f93tI
+f94Au
+f94Bu
+f94Cu
+f94Qu
+f94Yu
+f94xu
+f9<Au
+f9<Bu
+f9<Su
+f9B4tDH
+f9F(u,H
+f9G(v
+f9GFA
+f9L$0
+f9L$0~
+f9V(ucH
+f9l$PtjA
+f9l$Rt
+f;>s_
+f;B8s
+f;D$0t
+f;D$@u^D
+f;D$`t0D
+f;E"r
+f;F"t
+f;H(t
+f;L$0t-E
+f;L$8uE
+f;P(t
+f;Q(t
+f;Q8s
+f;Q8s%H9
+f;S(r
+f;TD@u
+f;\$P
+f;\$Pv
+f;_(s
+f;n(shH
+f;q(s0I
+f;q(t+9q
+f;q8s H
+f;s(s
+f;t$Zr
+f;{"r
+f;{(r
+f;{8r
+fA9(t
+fA9(t#B
+fA9,@t
+fA9,Au
+fA9,Hu
+fA91u
+fA9D$
+fA9F(
+fA9L$
+fA9R(t
+fA9Z*v#A
+fA;,$
+fA;6sO
+fA;A8
+fA;J(r
+fA;L$
+fA;r(sgM
+fA;|$
+fB9,@u
+fB9<@u
+fB9<Bu
+fB9\I
+fC9,Au
+fC;\H
+fCreateIfNotExistWWW
+fD9 A
+fD9 u
+fD9#t
+fD9$Au
+fD9$Bu
+fD9$Fu
+fD9$Gu
+fD9$Xu
+fD9$^u
+fD9$ju
+fD9$nu
+fD9$zu
+fD9&u
+fD9't,H
+fD9(t
+fD9*u#D9B
+fD9+u
+fD9,Au
+fD9,Nu
+fD9,O
+fD9,Su
+fD9,pu
+fD9/u
+fD90u
+fD93u
+fD94.tnH
+fD94Bu
+fD94Fu
+fD94Gu
+fD94Nu
+fD94Su
+fD94_u
+fD99u
+fD9<Au
+fD9<Gt0H
+fD9<Ju
+fD9<Xu
+fD9<iu
+fD9<pu
+fD9<qu
+fD9?upH
+fD9\$0u
+fD9\C
+fD9\s
+fD9dC
+fD9j(u/H
+fD9lH
+fD9s(u
+fD9u0
+fD9|H
+fD9|n
+fD9~(uf
+fD; umH
+fD;!u
+fD;1s
+fD;6uK
+fD;A"
+fD;E"t
+fD;G(t2H
+fD;V(r
+fD;X t
+fD;k(s0M
+fD;l$|
+fD;n(t
+fD;v(
+fD;w(sQH
+fD;w(sk
+fD;~(s+H
+fDeleteFileW
+fE9$Fu
+fE9$wu
+fE9,pu
+fE94Au
+fE9<Hu
+fE9l$
+fE9tC
+fE;<$r$L
+fE;B(r
+fE;j8s/I
+fF9,@u
+fF9,wu
+fF94Bu
+fF94Gu
+fF94Ju
+fF9<Bu
+fF9<Cu
+fF9<Ou
+fG9$wu
+fNumberW
+fStartWW
+false
+fff?A
+fg:SM
+fi-FI
+file exists
+file too large
+filename too long
+filename_too_long
+floorf
+fogrp
+fr-CA
+fr-FR
+fufWf9f
+function ScriptNode_%d()
+function main()
+function not supported
+fwprintf
+g D9`
+g-pcbReadWL
+gSPVSNU_SemitoneW4
+gdgFg)g
+general
+generic
+gpszOptAttribsWWW
+grfCommitFlagsWW
+grfLocksSupportedWWWx
+grfModeWx
+grfStateBitsx
+h VWAVH
+hA^_][
+hA_A^A]A\_^[]
+hA_A^A]A\_^][
+hD9d)\u
+hD9d.\uQL
+hE;t$
+hLci<3
+hRemoteW<
+hRe}P
+hki?j
+hlhOh2h
+host unreachable
+host_unreachable
+hwndParentWW
+i<JXBXO
+iIvVxXlLcCdDmM
+icbDataWW
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+interrupted
+invalid argument
+invalid seek
+invalid string position
+invalid_argument
+io error
+ioiSi6i
+iostream
+iostream stream error
+is a directory
+isspace
+iswalpha
+iswcntrl
+iswdigit
+iswlower
+iswspace
+iswupper
+it-IT
+j=^GZ
+ja-JP
+jmjQj5j
+k @8k
+k`pru
+keLexiconType0
+keyboard
+kfkJk/k
+ko-KR
+l$ H+
+l$ VATAUAVAWH
+l$ VATAWH
+l$ VWATAVAWH
+l$ VWAVH
+l$(D;l$0
+l$(Hc
+l$0E3
+l$@H9j
+l$@L;S
+l$HE3
+l$HH9;
+l$HH9>
+l$HH;
+l$PE3
+l$`Hc
+l$`fD
+l$hH+
+l$tL+
+l'n6v'
+lDurationWWWl
+lSPDKL_LocalMachineWW
+lePartOfSpeechWWW
+letters
+lexicon
+lpunkObjectWW
+lstrcmpW
+lstrcmpiW
+ltlYl?l$l
+m(D9{
+mH!t$0H
+mSPPARTOFSPEECHWWT
+main();
+malloc
+media
+memcmp
+memcpy
+memcpy_s
+memmove
+memmove_s
+memset
+message
+message size
+message_size
+ml:address
+movie
+msft@
+mstts
+msvcrt.dll
+mtimeWWWx
+mznXo7p
+m|mbmHm-m
+n(fE+
+nAvgBytesPerSecW,
+nBlockAlignW,
+nChannelsWWW,
+nFolderW
+nRevertWW
+nShield TSS ESN:7F00-05E0-D9471%0#
+nb-NO
+net:email
+net_email
+network down
+network reset
+network unreachable
+network_down
+network_reset
+network_unreachable
+nl-NL
+no buffer space
+no child process
+no link
+no lock available
+no message
+no message available
+no protocol option
+no space on device
+no stream resources
+no such device
+no such device or address
+no such file or directory
+no such process
+no_buffer_space
+no_protocol_option
+nooooo
+not a directory
+not a socket
+not a stream
+not connected
+not enough memory
+not supported
+not_a_socket
+not_connected
+ntdll.dll
+number:cardinal
+number:digit
+number_digit
+n}ncnJn0n
+o<f9G
+oKwPronunciationFlagsW0
+oSPVSKIPTYPEW
+oTTSEngineComd
+ole32.dll
+operation canceled
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+operation_in_progress
+operation_not_supported
+operation_would_block
+ouuuuy
+owner dead
+owo_oFo-o
+p AWH
+p WATAUAVAWH
+p WAVAWH
+p<E9p`~4M
+pA_A\_
+pA_A^A]A\_^]
+pAfterWW(
+pBeforeW
+pBuffWWW
+pCategoryWWW
+pContourPointsWW
+pCountWW
+pDataWWWH
+pEnginePronunciationList&
+pEventArrayW
+pFirstWordPronunciationW
+pH!YP
+pNextWWW(
+pNextWordPronunciationWW
+pOutputFormatIdW
+pPhoneIdsWWWT
+pPhonemesWWW@
+pPron
+pProsody
+pRateAdjustW
+pTargetFmtId
+pTargetWaveFormatExW
+pTextFragListWWW
+pTokenWW
+pUnkOuterWWW
+pWaveFormatExWWW`
+pWs*yWzF{X|V~ 
+pcbWrittenWW
+pceltFetchedt
+peTypeWW
+permission denied
+permission_denied
+pfMatchesWWW
+pfSupportedW
+phoneNumber
+phone_number
+pkpSp;p#p
+pl-PL
+plNumItemsWW
+plibNewPositionW
+ppCoMemOutputWaveFormatExWWW
+ppDataKeyWWWt
+ppEnumWWt
+ppSubKeyH
+ppstmWWW
+ppszCoMemCategoryIdW
+ppszCoMemTokenId
+ppszSubKeyNameWWH
+ppszValueNameWWW
+ppszValueWWWH
+ppszzNormalizedListW
+ppvObjectWWW
+printf
+prompt
+protocol error
+protocol not supported
+protocol_not_supported
+pstatstg
+pszAttributesWWW
+pszCategoryIdWWW
+pszFileNameSpecifier
+pszKeyNameWW
+pszRightContextW
+pszSubKeyWWWH
+pszTypeOfUIW
+pszUriLexiconWWW
+pszWordW
+pt-BR
+pt-PT
+pusVolumeWWW
+pvBuffer0
+pvExtraDataW
+pwcsNamex
+pwszFormatWWl
+pwszInterpretAsWl
+pzsReqAttribsWWW
+q\Q17
+qoqXqAq)q
+qsort
+qsort_s
+r!fD;
+r9E;ZTw3A
+rLfD;
+rSetDataW
+ra;Axw\
+rangeWWW
+read only file system
+realloc
+reserved
+resource deadlock would occur
+resource unavailable try again
+result out of range
+rgAlt
+rgOut
+rgToken
+rguidFormatIdWWW
+rkrUr>r'r
+ru-RU
+s WATAUAVAWH
+s WAVAWH
+s9GRH:
+s<fA+
+sHcD$0H
+sXH9s`v23
+sp:address
+sp:cardinal
+sp:compoundWord
+sp:date
+sp:default
+sp:email
+sp:filePath
+sp:message
+sp:phoneNumber
+sp:time
+sp:webUrl
+spdklWWW
+speechux
+spell
+spell-out
+sqrtf
+srand
+ssmlAttributeWWW4
+state not recoverable
+stdole2.tlbWWW
+strcmp
+stream timeout
+streamWWd
+string too long
+strncmp
+sus_sIs3s
+sv-SE
+swprintf_s
+swscanf_s
+system
+t D9#u
+t!H!8H!x
+t"A9@@sDA
+t$ AVH
+t$ E3
+t$ H+
+t$ UWATAVAWH
+t$ UWAVH
+t$ WATAUAVAW
+t$ WATAUAVAWH
+t$ WATAVH
+t$ WAVAWH
+t$ WH
+t$$D9e
+t$(H;
+t$(H;{
+t$(I;
+t$(L;
+t$0E3
+t$0E;
+t$0Mc
+t$8D;
+t$8f;
+t$@H;
+t$D9L$XE
+t$D9P
+t$H!t$@H
+t$HA_A^A]A\_
+t$HE3
+t$PA;
+t$PE3
+t$`fD9t$`t8H
+t$dH+
+t$pH9
+t$pfD
+t$xA9
+t$xE9L$X
+t$xfD
+t%;QPs I
+t%H9}
+t%f97t H
+t&H;Q
+t'HcG
+t'IcE
+t(D9Y(t"
+t(H;s
+t)fD92t#L
+t+9.u
+t+97u
+t+D9J
+t+H!Y
+t.H!p
+t2H9Z
+t3H9_ t(H
+t5D9>s)
+t7LcC
+t7M;1u
+t7f9(t2H
+t8H!L$PL
+t9fD9K
+t:91v6H
+t:A9D$@s!I
+t;91v7H
+t;H9J
+t;Hct$@I
+t;}@s
+t<9X8u79X<u2M
+t<E9r
+t<f9;t7
+t=H9s
+t>L9r
+t?H9]
+tAD9Y
+tBH9w0t7H
+tCf9h
+tED!}`L
+tEL;I u
+tEL;I(u
+tFH9{ t@H9{(t:H
+tFL9A t:H
+tGD9I
+tH;w(srH
+tHf9u
+tI@8h
+tJ;Q0t
+tJD9B
+tJfD;
+tLfE98tF3
+tMD9R
+tNH!D$ L
+tNH9_ tHH
+tOH9_ tIH
+tOfE90tI3
+tPH9J
+tPH9K tJH
+tSPVSSMLSTATE
+tVH!L$ L
+tVIcG
+tXfA9
+tY@8zpuS
+tYfD;w(sMH
+tZA;^
+t_H!\$PL
+t`fD9q
+tagSTATSTGWWx
+tbtdirection
+tdfD;
+telephone
+text file busy
+tfH!|$ H
+tiL9}xtcH
+timed out
+timed_out
+tkH9C
+tlH9}
+tmL9C
+tmfA9
+tnH9C
+tolower
+too many files open
+too many files open in system
+too many links
+too many symbolic link levels
+too_many_files_open
+toupper
+towlower
+towupper
+tpH9C
+tq9UPt,A
+tqD;I
+trHcp
+ttfE9&tnA
+ttt_tJt5t t
+tvL9C
+twH9C
+t~H9Q
+u D9g
+u!HcE
+u!fNumberPercentWW4
+u"D!:H
+u"HcM
+u$9D$`t
+u$M9A@u
+u&E9|
+u(fD;
+u(t[H
+u*D9c
+u+H9M
+u,H9J
+u-H9A
+u.D9s
+u6fD;@
+u:M9V(ttD
+u<D!}8H
+u>D!}8H
+u@f9r
+u@fD;y
+uAD9n
+uCD!uPH
+uDHcS`A
+uK9K$uFA
+uLD!uPH
+uLH!D$@H
+uQL!P
+uX!E8H
+uZHcC0
+uZL9k8tT
+u[D9eHtbL
+u[H;\$(u
+u]!E8H
+u]fA;
+u`f9C
+u`f9]`tCH
+ucH9|$xu\M
+ue!E8H
+ugD;t$<
+ui!D$@H
+ui!E8H
+ulCountW
+ulNumSkipped
+ulStreamNumWX
+umE9W tgA9
+unknown
+unknown error
+urD9w@tnD!uPH
+usD!}8H
+uulSizeWWh
+uvD!uPH
+uw!D$0H
+uyL9s
+u}!D$hH
+u}uiuUuAu-u
+u~D!}8H
+v<D;^
+vE;<$v
+v`H9~hv%3
+value too large
+vnD;A(s
+volumeWW
+vtwdxVyIz?{6|0}+~)
+v{vhvTvAv.v
+w&t!M
+wBitsPerSampleWW,
+wLD;W
+wParamWW 
+wReservedWWW(
+waGetDWORD
+wcscat_s
+wcschr
+wcscmp
+wcscpy_s
+wcsncmp
+wcsncpy_s
+wcsrchr
+wcsstr
+wcstombs_s
+weGetStringValueWW
+win:Info
+win:Informational
+win:Start
+win:Stop
+wireHWND<
+wrong protocol type
+wrong_protocol_type
+w|H9{
+w~wlwZwGw5w#w
+x ATAUAVAW3
+x ATAUAVAWD
+x ATAUAVAWE3
+x ATAVAWH
+x AUAVAWH
+x AUAVAWHc
+x AV3
+x AVAWH
+x AVAWHc
+x AVD
+x AVE3
+x AVH
+x AVI
+x AVL
+x AVMc
+x AWH
+x UATAUAVAWH
+x UAVAWH
+x#IcN|L
+x%f9w(t
+x'fD9#u!L
+x);L$0s#
+x*fD;
+x-fD9s(
+x2H!D$ H
+x6;\$@s0H
+x9H;{ps3H
+x<HkW
+x>D9u(t'H
+x?Lcl$0H
+x?lxz
+xA^A\_]
+xA_A^A]A\_^[]
+xA_A^A]A\_^][
+xA_A^A][
+xA_A^_^][
+xBD;}
+xGA;U
+xGH;uHs
+xGf9O
+xHb8K
+xILcG0A
+xJH9t$HtLH
+xKH9\$@tDH
+xKIcV|H
+xMuII
+xNH!]HL
+xO;|$@sI
+xPI9M
+xQH9|$@v
+xS;uPsNH
+xSH;{ps+H
+xSu$W
+xU9}Hu
+xVD;]XsPL
+xXH9\$@tQH
+x[D9e_t
+x_;k@}ZH
+xbD9e
+xbE;w
+xdL9T$0v
+xe;\$@s_H
+xl9+ubH
+xmE9O(|gM
+xq;\$hsXI
+xqD;e
+xrL9m
+xsxbxQx@x.x
+x{fE;e
+x}D9d$Ht^H
+x~;t$hsxI
+yP;zPuOH
+ypTextStartWW@
+yyx1~
+yzyjyZyJy:y*y
+z,u*fA
+z<fE;
+zGuEE;
+zItem
+z]u[A
+zh-CN
+zh-HK
+zh-TW
+zlibNewSizeWW
+zw+a0
+z}znz_zPzBz3z$z
+{ AVH
+{ UAVAWH
+{49AB0B7E-8EA7-4842-AD24-B18BEDACA50F}
+{4EA3755E-2B7A-44A0-B7E0-32C5328ECFB9}
+{7A795403-8522-4604-AD21-4AB0BE425451}
+{AFCD5A64-C247-4630-81B0-F4904402958D}
+{EDB4AC93-72D0-4D53-B347-AF89D4FA4A54}
+{LangIDWW(
+{`H9{pt29{hv
+{fD9.
+{w{j{]{O{B{4{&{
+|$ AVAWH
+|$ AVH
+|$ E3
+|$ H;
+|$ UATAUAVAWH
+|$ UAUAVH
+|$ UAVAWH
+|$ UH
+|$(A;
+|$(A^
+|$(D;
+|$(E3
+|$0A_A^
+|$0fD
+|$8A_A^A]
+|$8Lc
+|$8fA
+|$@A_A^A]A\
+|$@E3
+|$@M;
+|$HD8<
+|$HE3
+|$PE3
+|$PJcD6
+|$TLc
+|$X(E
+|$XE3
+|$XH93
+|$`E3
+|$`fD
+|$hE3
+|$hHk
+|$hL9
+|$lL+
+|$xA;w
+|$xH9o
+|$xH;
+|$|f;
+|&AAO
+|7D;A
+|i|CE
+|}|q|f|Z|N|B|6|)|
+}QHcK
+}TA+}P
+}`E9M`ugH
+}g;}wv
+}oL9{
+}tMcF
+}u)fA+
+}ullAudioStreamOffset
+}v}l}b}X}N}C}9}/}$}
+}wf;w(
+}wf;w(s
+~.HcT$0E
+~8M9\$
+~w~o~g~_~W~O~G~?~7~.~&~
