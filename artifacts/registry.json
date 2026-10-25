@@ -1,0 +1,574 @@
+{
+  "SOFTWARE\\Microsoft\\Speech_OneCore\\Voices": {
+    "subkeys": {
+      "Tokens": {
+        "subkeys": {
+          "MSTTS_V110_enUS_DavidM": {
+            "values": {
+              "(Default)": {
+                "value": "Microsoft David - English (United States)",
+                "type": 1
+              },
+              "409": {
+                "value": "Microsoft David - English (United States)",
+                "type": 1
+              },
+              "CLSID": {
+                "value": "{179F3D56-1B0B-42B2-A962-59B7EF59FE1B}",
+                "type": 1
+              },
+              "LangDataPath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\en-US\\MSTTSLocenUS.dat",
+                "type": 2
+              },
+              "VoicePath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033David",
+                "type": 2
+              }
+            },
+            "subkeys": {
+              "Attributes": {
+                "values": {
+                  "Age": {
+                    "value": "Adult",
+                    "type": 1
+                  },
+                  "DataVersion": {
+                    "value": "11.0.2016.0129",
+                    "type": 1
+                  },
+                  "Gender": {
+                    "value": "Male",
+                    "type": 1
+                  },
+                  "Language": {
+                    "value": "409",
+                    "type": 1
+                  },
+                  "Name": {
+                    "value": "Microsoft David",
+                    "type": 1
+                  },
+                  "SayAsSupport": {
+                    "value": "spell=NativeSupported; cardinal=GlobalSupported; ordinal=NativeSupported; date=GlobalSupported; time=GlobalSupported; telephone=NativeSupported; currency=NativeSupported; net=NativeSupported; url=NativeSupported; address=NativeSupported; alphanumeric=NativeSupported; Name=NativeSupported; media=NativeSupported; message=NativeSupported; companyName=NativeSupported; computer=NativeSupported; math=NativeSupported; duration=NativeSupported",
+                    "type": 1
+                  },
+                  "SharedPronunciation": {
+                    "value": "",
+                    "type": 1
+                  },
+                  "Vendor": {
+                    "value": "Microsoft",
+                    "type": 1
+                  },
+                  "Version": {
+                    "value": "11.0",
+                    "type": 1
+                  }
+                }
+              }
+            }
+          },
+          "MSTTS_V110_enUS_MarkM": {
+            "values": {
+              "(Default)": {
+                "value": "Microsoft Mark - English (United States)",
+                "type": 1
+              },
+              "409": {
+                "value": "Microsoft Mark - English (United States)",
+                "type": 1
+              },
+              "CLSID": {
+                "value": "{179F3D56-1B0B-42B2-A962-59B7EF59FE1B}",
+                "type": 1
+              },
+              "LangDataPath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\en-US\\MSTTSLocenUS.dat",
+                "type": 2
+              },
+              "VoicePath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033Mark",
+                "type": 2
+              }
+            },
+            "subkeys": {
+              "Attributes": {
+                "values": {
+                  "Age": {
+                    "value": "Adult",
+                    "type": 1
+                  },
+                  "DataVersion": {
+                    "value": "11.0.2013.1022",
+                    "type": 1
+                  },
+                  "Gender": {
+                    "value": "Male",
+                    "type": 1
+                  },
+                  "Language": {
+                    "value": "409",
+                    "type": 1
+                  },
+                  "Name": {
+                    "value": "Microsoft Mark",
+                    "type": 1
+                  },
+                  "SayAsSupport": {
+                    "value": "spell=NativeSupported; cardinal=GlobalSupported; ordinal=NativeSupported; date=GlobalSupported; time=GlobalSupported; telephone=NativeSupported; currency=NativeSupported; net=NativeSupported; url=NativeSupported; address=NativeSupported; alphanumeric=NativeSupported; Name=NativeSupported; media=NativeSupported; message=NativeSupported; companyName=NativeSupported; computer=NativeSupported; math=NativeSupported; duration=NativeSupported",
+                    "type": 1
+                  },
+                  "SharedPronunciation": {
+                    "value": "",
+                    "type": 1
+                  },
+                  "Vendor": {
+                    "value": "Microsoft",
+                    "type": 1
+                  },
+                  "Version": {
+                    "value": "11.0",
+                    "type": 1
+                  }
+                }
+              }
+            }
+          },
+          "MSTTS_V110_enUS_ZiraM": {
+            "values": {
+              "(Default)": {
+                "value": "Microsoft Zira - English (United States)",
+                "type": 1
+              },
+              "409": {
+                "value": "Microsoft Zira - English (United States)",
+                "type": 1
+              },
+              "CLSID": {
+                "value": "{179F3D56-1B0B-42B2-A962-59B7EF59FE1B}",
+                "type": 1
+              },
+              "LangDataPath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\en-US\\MSTTSLocenUS.dat",
+                "type": 2
+              },
+              "VoicePath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033Zira",
+                "type": 2
+              }
+            },
+            "subkeys": {
+              "Attributes": {
+                "values": {
+                  "Age": {
+                    "value": "Adult",
+                    "type": 1
+                  },
+                  "DataVersion": {
+                    "value": "11.0.2013.1022",
+                    "type": 1
+                  },
+                  "Gender": {
+                    "value": "Female",
+                    "type": 1
+                  },
+                  "Language": {
+                    "value": "409",
+                    "type": 1
+                  },
+                  "Name": {
+                    "value": "Microsoft Zira",
+                    "type": 1
+                  },
+                  "SayAsSupport": {
+                    "value": "spell=NativeSupported; cardinal=GlobalSupported; ordinal=NativeSupported; date=GlobalSupported; time=GlobalSupported; telephone=NativeSupported; currency=NativeSupported; net=NativeSupported; url=NativeSupported; address=NativeSupported; alphanumeric=NativeSupported; Name=NativeSupported; media=NativeSupported; message=NativeSupported; companyName=NativeSupported; computer=NativeSupported; math=NativeSupported; duration=NativeSupported",
+                    "type": 1
+                  },
+                  "SharedPronunciation": {
+                    "value": "",
+                    "type": 1
+                  },
+                  "Vendor": {
+                    "value": "Microsoft",
+                    "type": 1
+                  },
+                  "Version": {
+                    "value": "11.0",
+                    "type": 1
+                  }
+                }
+              }
+            }
+          },
+          "MSTTS_V110_esMX_RaulMM": {
+            "values": {
+              "(Default)": {
+                "value": "Microsoft Raul - Spanish (Mexico)",
+                "type": 1
+              },
+              "80A": {
+                "value": "Microsoft Raul - Spanish (Mexico)",
+                "type": 1
+              },
+              "CLSID": {
+                "value": "{179F3D56-1B0B-42B2-A962-59B7EF59FE1B}",
+                "type": 1
+              },
+              "LangDataPath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\es-MX\\MSTTSLocesMX.dat",
+                "type": 2
+              },
+              "VoicePath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\es-MX\\M2058Raul",
+                "type": 2
+              }
+            },
+            "subkeys": {
+              "Attributes": {
+                "values": {
+                  "Age": {
+                    "value": "Adult",
+                    "type": 1
+                  },
+                  "DataVersion": {
+                    "value": "11.0.2013.1022",
+                    "type": 1
+                  },
+                  "Gender": {
+                    "value": "Male",
+                    "type": 1
+                  },
+                  "Language": {
+                    "value": "80A",
+                    "type": 1
+                  },
+                  "Name": {
+                    "value": "Microsoft Raul",
+                    "type": 1
+                  },
+                  "SayAsSupport": {
+                    "value": "spell=NativeSupported; cardinal=GlobalSupported; ordinal=NativeSupported; date=GlobalSupported; time=GlobalSupported; currency=NativeSupported; url=NativeSupported; computer=NativeSupported; address=NativeSupported; duration=NativeSupported; message=NativeSupported; telephone=NativeSupported; alphanumeric=NativeSupported",
+                    "type": 1
+                  },
+                  "SharedPronunciation": {
+                    "value": "",
+                    "type": 1
+                  },
+                  "Vendor": {
+                    "value": "Microsoft",
+                    "type": 1
+                  },
+                  "Version": {
+                    "value": "11.0",
+                    "type": 1
+                  }
+                }
+              }
+            }
+          },
+          "MSTTS_V110_esMX_SabinaM": {
+            "values": {
+              "(Default)": {
+                "value": "Microsoft Sabina - Spanish (Mexico)",
+                "type": 1
+              },
+              "80A": {
+                "value": "Microsoft Sabina - Spanish (Mexico)",
+                "type": 1
+              },
+              "CLSID": {
+                "value": "{179F3D56-1B0B-42B2-A962-59B7EF59FE1B}",
+                "type": 1
+              },
+              "LangDataPath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\es-MX\\MSTTSLocesMX.dat",
+                "type": 2
+              },
+              "VoicePath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\es-MX\\M2058Sabina",
+                "type": 2
+              }
+            },
+            "subkeys": {
+              "Attributes": {
+                "values": {
+                  "Age": {
+                    "value": "Adult",
+                    "type": 1
+                  },
+                  "DataVersion": {
+                    "value": "11.0.2013.1022",
+                    "type": 1
+                  },
+                  "Gender": {
+                    "value": "Female",
+                    "type": 1
+                  },
+                  "Language": {
+                    "value": "80A",
+                    "type": 1
+                  },
+                  "Name": {
+                    "value": "Microsoft Sabina",
+                    "type": 1
+                  },
+                  "SayAsSupport": {
+                    "value": "spell=NativeSupported; cardinal=GlobalSupported; ordinal=NativeSupported; date=GlobalSupported; time=GlobalSupported; currency=NativeSupported; url=NativeSupported; computer=NativeSupported; address=NativeSupported; duration=NativeSupported; message=NativeSupported; telephone=NativeSupported; alphanumeric=NativeSupported",
+                    "type": 1
+                  },
+                  "SharedPronunciation": {
+                    "value": "",
+                    "type": 1
+                  },
+                  "Vendor": {
+                    "value": "Microsoft",
+                    "type": 1
+                  },
+                  "Version": {
+                    "value": "11.0",
+                    "type": 1
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "SOFTWARE\\Microsoft\\Speech\\Voices": {
+    "subkeys": {
+      "Tokens": {
+        "subkeys": {
+          "TTS_MS_EN-US_DAVID_11.0": {
+            "values": {
+              "(Default)": {
+                "value": "Microsoft David Desktop - English (United States)",
+                "type": 1
+              },
+              "409": {
+                "value": "Microsoft David Desktop - English (United States)",
+                "type": 1
+              },
+              "CLSID": {
+                "value": "{179F3D56-1B0B-42B2-A962-59B7EF59FE1B}",
+                "type": 1
+              },
+              "LangDataPath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\en-US\\MSTTSLocEnUS.dat",
+                "type": 2
+              },
+              "VoicePath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033David",
+                "type": 2
+              }
+            },
+            "subkeys": {
+              "Attributes": {
+                "values": {
+                  "Age": {
+                    "value": "Adult",
+                    "type": 1
+                  },
+                  "Gender": {
+                    "value": "Male",
+                    "type": 1
+                  },
+                  "Language": {
+                    "value": "409",
+                    "type": 1
+                  },
+                  "Name": {
+                    "value": "Microsoft David Desktop",
+                    "type": 1
+                  },
+                  "SharedPronunciation": {
+                    "value": "",
+                    "type": 1
+                  },
+                  "SpLexicon": {
+                    "value": "{0655E396-25D0-11D3-9C26-00C04F8EF87C}",
+                    "type": 1
+                  },
+                  "Vendor": {
+                    "value": "Microsoft",
+                    "type": 1
+                  },
+                  "Version": {
+                    "value": "11.0",
+                    "type": 1
+                  }
+                }
+              }
+            }
+          },
+          "TTS_MS_EN-US_ZIRA_11.0": {
+            "values": {
+              "(Default)": {
+                "value": "Microsoft Zira Desktop - English (United States)",
+                "type": 1
+              },
+              "409": {
+                "value": "Microsoft Zira Desktop - English (United States)",
+                "type": 1
+              },
+              "CLSID": {
+                "value": "{C64501F6-E6E6-451f-A150-25D0839BC510}",
+                "type": 1
+              },
+              "LangDataPath": {
+                "value": "%SystemRoot%\\Speech\\Engines\\TTS\\en-US\\MSTTSLocEnUS.dat",
+                "type": 2
+              },
+              "VoicePath": {
+                "value": "%SystemRoot%\\Speech\\Engines\\TTS\\en-US\\M1033ZIR",
+                "type": 2
+              }
+            },
+            "subkeys": {
+              "Attributes": {
+                "values": {
+                  "Age": {
+                    "value": "Adult",
+                    "type": 1
+                  },
+                  "Gender": {
+                    "value": "Female",
+                    "type": 1
+                  },
+                  "Language": {
+                    "value": "409",
+                    "type": 1
+                  },
+                  "Name": {
+                    "value": "Microsoft Zira Desktop",
+                    "type": 1
+                  },
+                  "SharedPronunciation": {
+                    "value": "",
+                    "type": 1
+                  },
+                  "Vendor": {
+                    "value": "Microsoft",
+                    "type": 1
+                  },
+                  "Version": {
+                    "value": "11.0",
+                    "type": 1
+                  }
+                }
+              }
+            }
+          },
+          "TTS_MS_ES-MX_SABINA_11.0": {
+            "values": {
+              "(Default)": {
+                "value": "Microsoft Sabina Desktop - Spanish (Mexico)",
+                "type": 1
+              },
+              "80A": {
+                "value": "Microsoft Sabina Desktop - Spanish (Mexico)",
+                "type": 1
+              },
+              "CLSID": {
+                "value": "{179F3D56-1B0B-42B2-A962-59B7EF59FE1B}",
+                "type": 1
+              },
+              "LangDataPath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\es-MX\\MSTTSLocEsMX.dat",
+                "type": 2
+              },
+              "VoicePath": {
+                "value": "%windir%\\Speech_OneCore\\Engines\\TTS\\es-MX\\M2058Sabina",
+                "type": 2
+              }
+            },
+            "subkeys": {
+              "Attributes": {
+                "values": {
+                  "Age": {
+                    "value": "Adult",
+                    "type": 1
+                  },
+                  "Gender": {
+                    "value": "Female",
+                    "type": 1
+                  },
+                  "Language": {
+                    "value": "80A",
+                    "type": 1
+                  },
+                  "Name": {
+                    "value": "Microsoft Sabina Desktop",
+                    "type": 1
+                  },
+                  "SharedPronunciation": {
+                    "value": "",
+                    "type": 1
+                  },
+                  "SpLexicon": {
+                    "value": "{0655E396-25D0-11D3-9C26-00C04F8EF87C}",
+                    "type": 1
+                  },
+                  "Vendor": {
+                    "value": "Microsoft",
+                    "type": 1
+                  },
+                  "Version": {
+                    "value": "11.0",
+                    "type": 1
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "CLSID\\{179F3D56-1B0B-42B2-A962-59B7EF59FE1B}": {
+    "values": {
+      "(Default)": {
+        "value": "Microsoft TTS Desktop Engine Class - OneCore",
+        "type": 1
+      }
+    },
+    "subkeys": {
+      "InprocServer32": {
+        "values": {
+          "(Default)": {
+            "value": "C:\\Windows\\System32\\speech_onecore\\engines\\tts\\MSTTSEngine_OneCore.dll",
+            "type": 1
+          },
+          "ThreadingModel": {
+            "value": "Both",
+            "type": 1
+          }
+        }
+      }
+    }
+  },
+  "CLSID\\{C64501F6-E6E6-451F-A150-25D0839BC510}": {
+    "values": {
+      "(Default)": {
+        "value": "Microsoft TTS Desktop Engine Class",
+        "type": 1
+      }
+    },
+    "subkeys": {
+      "InprocServer32": {
+        "values": {
+          "(Default)": {
+            "value": "C:\\Windows\\System32\\speech\\engines\\tts\\MSTTSEngine.dll",
+            "type": 1
+          },
+          "ThreadingModel": {
+            "value": "Both",
+            "type": 1
+          }
+        }
+      }
+    }
+  }
+}

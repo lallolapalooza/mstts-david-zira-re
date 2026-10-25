@@ -1,0 +1,14 @@
+# Working Ghidra project (reproducible with scripts/run_ghidra.py)
+ghidra_proj_pdb/
+
+# Microsoft binaries and PDBs are not redistributed; fetch them with
+# scripts/fetch_pdbs.py and Ghidra will use artifacts/bin/
+artifacts/bin/
+artifacts/pdb/*.pdb
+artifacts/pdb/*.dll
+
+# Python / editor noise
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/

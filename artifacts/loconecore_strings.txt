@@ -1,0 +1,2224 @@
+   %2d: %4d
+ $8O[lv
+ 3CQ`p
+ 7Me}
+ AX - b AX l
+ AX - b l IY
+ AX L IY
+ AX d
+ AX d l IY
+ AX l
+ AX l er
+ AX s t
+ AX z
+ AY z
+ A^A\^
+ A^A\_
+ A^A]_
+ A^_^
+ A^_^][
+ A_A\^
+ A_A\_
+ A_A^A\
+ A_A^A\_]
+ A_A^A\_^
+ A_A^A]
+ A_A^A]A\_
+ A_A^A]A\_^]
+ A_A^A]^[
+ A_A^A]_]
+ A_A^A]_^
+ A_A^_
+ A_A^_^]
+ A__^
+ HcQ0H
+ IH JH
+ IH NG
+ IH SH
+ IH d
+ IH z AX m
+ L IY
+ Microsoft Corporation. All rights reserved.
+ S AX M
+ SH IH 2 p
+ ah - b ah l
+ ah - b l iy
+ ah d
+ ah d l iy
+ ah l
+ ah l ah
+ ah l iy
+ ah s tr
+ ah z
+ ax - b ax l
+ ax - b l iy
+ ax d
+ ax jh
+ ax l
+ ax l er
+ ay z
+ f AX l
+ f ah l
+ f uh l
+ h UH d
+ h uh d
+ ih 2 - z ax m
+ ih d
+ ih d l ih
+ ih d l iy
+ ih jh
+ ih l ih
+ ih l iy
+ ih ng
+ ih s t
+ ih sh
+ ih z
+ ih z ah m
+ ih z ax m
+ l AY k
+ l IH s
+ l IY
+ l ah
+ l ay k
+ l er
+ l ih
+ l ih s
+ l iy
+ m AX n t
+ m ah n tr
+ m ax n t
+ n IH s
+ n ih s
+ s ah m
+ s ax m
+ sh ih 2 p
+ sh ih p
+ vw ay z
+ w AY z
+ w ay z
+!*=L]y
+!.<K\k{
+!5@Su
+!8F[q
+!D$ L
+!This program cannot be run in DOS mode.
+!\$ E3
+!\$ L
+!q8^ 
+!x H!x(H!x0H
+!x H!x(H!x0H!x8H!xH!xPH
+!{8H!{@!{H!{LH!{PH!{XH
+!{8H!{@H
+!{8H!{@H!{HH
+"+=N]r
+"2CScs
+"3=N\j~
+"3Hau
+"7?NWlv
+">Kav
+#*:N]n}
+#,6AMZhw
+#.8M\j{
+#2=IVanw
+#uuS 
+$$BD#`
+$-=L[ly
+$09LWiv
+$2?O_n~
+$@PMATCH_DELIM_LIST
+%0@Thv
+%3;NYk{
+%3AObq~
+%4?K\fw
+%hs!%p: 
+%hs(%d) tid(%x) %08X %ws
+%hs(%u)\%hs!%p: 
+%s Error happens in Initializing %S! 
+%s No %S in Current Engine
+%s Successfully Initialize %S from %s
+%s Successfully Initialize %S. 
+%s\%s
+&6EUdt
+&P ` 
+'YKb 
+(8GXgw
+(A_A^A]A\_^][
+(D$@f
+(D$Pf
+(H;{(s&H
+(\$0A
+(caller: %p) 
+(t$ H
+(t$0L
+(t$PH
+(t$PL
+(t$`3
+(uhV 
+)7ESbp
+)BIV_o
+)D$0H
+)D$@A
+)D$`A
+)L$PA
+)L$pA
+)YMb 
+)\$0L
+)t$ E
+)t$ H
+)t$0M
+)t$`D
+*PMATCH_ALPHA*
+*PMATCH_DELIM*
++5FSgr
++:JYix
+,9JYiy
+,@H;^0sGH
+-5?KYks
+-<L[k{
+->N^o
+-N.Y 
+.00cfg
+.9GXdx
+.?AUICustomFeatureData@@
+.?AUIExtensionBase@@
+.?AUILexiconAttributeSet@@
+.?AUILocaleBackEnd@@
+.?AUILocaleFeatureGenerator@@
+.?AUILocaleLatticeGenerator@@
+.?AUILocaleTextAnalyzer@@
+.?AUILocaleUnitSelector@@
+.?AUIMSTTSEngine@@
+.?AUIPhraseSink@@
+.?AUISpThreadTask@@
+.?AUITTSCompositeHandler@@
+.?AUITTSDataManager@@
+.?AUITTSEngineSetting@@
+.?AUITTSHandler@@
+.?AUITTSLexicon@@
+.?AUITTSLocaleHandler@@
+.?AUITTSPronouncer@@
+.?AUITTSPronunciation@@
+.?AUITTSPronunciationList@@
+.?AUITTSStringBuild@@
+.?AUITTSUtterance@@
+.?AUITTSWord@@
+.?AUITTSWordBreaker@@
+.?AUITTSWordList@@
+.?AUIUnknown@@
+.?AUIWordPronunciation@@
+.?AUIWordPronunciationList@@
+.?AUIWordSink@@
+.?AU_ATL_MODULE70@ATL@@
+.?AV?$CAtlList@PEAVCProperty@@V?$CElementTraits@PEAVCProperty@@@TTS@@@TTS@@
+.?AV?$CAtlModuleT@VCComModuleStub@@@ATL@@
+.?AV?$CCRF@PEAG@@
+.?AV?$CComObject@VCLexiconAttributeSet@@@ATL@@
+.?AV?$CComObject@VCWordPronList@@@ATL@@
+.?AV?$CComObject@VCWordPronunciation@@@ATL@@
+.?AV?$CComObjectRootEx@VCComMultiThreadModel@ATL@@@ATL@@
+.?AV?$CQuickStringT@G$0BPE@@@
+.?AV?$CQuickStringT@G$0IA@@@
+.?AV?$CQuickStringT@G$0IAA@@@
+.?AV?$CQuickStringW@$0BPE@@@
+.?AV?$CQuickStringW@$0IA@@@
+.?AV?$CQuickStringW@$0IAA@@@
+.?AV?$CSPHash@PEBGPEAUCACHE_ENTRY@@@@
+.?AV?$CSPHash@PEBGPEAVCCRFFeatureMetaArray@@@@
+.?AV?$CSPStringHashW@PEAUCACHE_ENTRY@@@@
+.?AV?$CSPStringHashW@PEAVCCRFFeatureMetaArray@@@@
+.?AV?$CTTSFeatureCART@VCTTSWord@@@@
+.?AV?$CTTSPhoneParentBase@VCTTSSyllable@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSHalfPhone@@VCTTSPhone@@VCTTSSyllable@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSIntonationPhrase@@VCTTSSentence@@VCTTSUtterance@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSPhone@@VCTTSSyllable@@VCTTSWord@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSPhrase@@VCTTSIntonationPhrase@@VCTTSSentence@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSSyllable@@VCTTSWord@@VCTTSPhrase@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSWord@@VCTTSPhrase@@VCTTSIntonationPhrase@@@@
+.?AV?$CTTSUtteranceNodeBase@VCTTSWord@@VCTTSProsodicWord@@VCTTSPhrase@@@@
+.?AV?$IPredicateExtractor@PEAG@@
+.?AV?$SafeSingleton@VCDiacratizerArEG@@@@
+.?AV?$SafeSingleton@VCDiacratizerFaIR@@@@
+.?AV?$SafeSingleton@VCDiacratizerHeIL@@@@
+.?AV?$__base@$$A6A_NPEAX_K01I@Z@__function@wistd@@
+.?AV?$__func@V<lambda_8db0ce862824541f40dfb767113f1e28>@@$$A6A_NPEAX_K01I@Z@__function@wistd@@
+.?AVCArabicDiacratizerWrapper@@
+.?AVCAtlException@ATL@@
+.?AVCAtlModule@ATL@@
+.?AVCBaseFeaturizer@@
+.?AVCBaseHeap@@
+.?AVCBoundaryPronChange@@
+.?AVCCARTTagger@@
+.?AVCCOMWordBreaker@@
+.?AVCCRFBoundaryTonePredictorEnglish@@
+.?AVCCRFBoundaryToneTagger@@
+.?AVCCRFBoundaryToneTaggerFeatureExtractor@@
+.?AVCCRFBoundaryToneTaggerImpl@@
+.?AVCCRFBreakTagger@@
+.?AVCCRFBreakTaggerFeatureExtractor@@
+.?AVCCRFBreakTaggerImpl@@
+.?AVCCRFComplexLattice@@
+.?AVCCRFDecoderCore@@
+.?AVCCRFEmphasisPredictor@@
+.?AVCCRFEmphasisTagger@@
+.?AVCCRFEmphasisTaggerFeatureExtractor@@
+.?AVCCRFEmphasisTaggerImpl@@
+.?AVCCRFFeatureExtractor@@
+.?AVCCRFFeatureMetaArray@@
+.?AVCCRFLattice@@
+.?AVCCRFModelManager@@
+.?AVCCRFPitchAccentLocTagger@@
+.?AVCCRFPitchAccentLocTaggerFeatureExtractor@@
+.?AVCCRFPitchAccentLocTaggerImpl@@
+.?AVCCRFPitchAccentLocTaggerImplChinese@@
+.?AVCCRFRuntimeData@@
+.?AVCCRFTagger@@
+.?AVCCacheEntryHash@@
+.?AVCChineseToneData@@
+.?AVCChineseToneHandler@@
+.?AVCClauseBoundaryDetector@@
+.?AVCComDll@TTS@@
+.?AVCComModuleStub@@
+.?AVCComObjectRootBase@ATL@@
+.?AVCCompoundWordBreaker@@
+.?AVCCompoundWordBreakerDeDE@@
+.?AVCCompoundWordBreakerEnCA@@
+.?AVCCompoundWordBreakerEnUS@@
+.?AVCCompoundWordBreakerFiFI@@
+.?AVCCompoundWordBreakerNbNO@@
+.?AVCCompoundWordBreakerNlNL@@
+.?AVCCompoundWordBreakerUrPK@@
+.?AVCCustomFeatureDataEnglish@@
+.?AVCCustomFeatureExtractorEnglish@@
+.?AVCDiacratizer@@
+.?AVCDiacratizerArEG@@
+.?AVCDiacratizerFaIR@@
+.?AVCDiacratizerHeIL@@
+.?AVCDiacratizerWrapper@@
+.?AVCDll@TTS@@
+.?AVCDomainProsodyProcessorJaJP@@
+.?AVCEmailWordBreaker@@
+.?AVCEnMorph@@
+.?AVCExpansionDetector@@
+.?AVCExtraVoiceSelectorZH@@
+.?AVCFarsiDiacratizerWrapper@@
+.?AVCFeatureManager@@
+.?AVCHeap@@
+.?AVCHebrewDiacratizerWrapper@@
+.?AVCIntermediatePhrasePredictor@@
+.?AVCIntonationPhrasePredictor@@
+.?AVCLexiconAttributeSet@@
+.?AVCLexiconBase@@
+.?AVCListBasedPostWordBreakerData@@
+.?AVCListItemBoundaryToneTaggerEnglish@@
+.?AVCLocaleBackEnd@@
+.?AVCLocaleBackEndZhTW@@
+.?AVCLocaleFeatureGenerator@@
+.?AVCLocaleFeatureGeneratorZhTW@@
+.?AVCLocaleLatticeGenerator@@
+.?AVCLocaleLatticeGeneratorZhTW@@
+.?AVCLocaleTextAnalyzer@@
+.?AVCLocaleTextAnalyzerArEG@@
+.?AVCLocaleTextAnalyzerArSA@@
+.?AVCLocaleTextAnalyzerCaES@@
+.?AVCLocaleTextAnalyzerDaDK@@
+.?AVCLocaleTextAnalyzerDeDE@@
+.?AVCLocaleTextAnalyzerENU@@
+.?AVCLocaleTextAnalyzerElGR@@
+.?AVCLocaleTextAnalyzerEnAU@@
+.?AVCLocaleTextAnalyzerEnCA@@
+.?AVCLocaleTextAnalyzerEnGB@@
+.?AVCLocaleTextAnalyzerEnIN@@
+.?AVCLocaleTextAnalyzerEsES@@
+.?AVCLocaleTextAnalyzerEsMX@@
+.?AVCLocaleTextAnalyzerFaIR@@
+.?AVCLocaleTextAnalyzerFiFI@@
+.?AVCLocaleTextAnalyzerFrCA@@
+.?AVCLocaleTextAnalyzerFrFR@@
+.?AVCLocaleTextAnalyzerHeIL@@
+.?AVCLocaleTextAnalyzerHiIN@@
+.?AVCLocaleTextAnalyzerItIT@@
+.?AVCLocaleTextAnalyzerJaJP@@
+.?AVCLocaleTextAnalyzerKoKR@@
+.?AVCLocaleTextAnalyzerNbNO@@
+.?AVCLocaleTextAnalyzerNlNL@@
+.?AVCLocaleTextAnalyzerPtBR@@
+.?AVCLocaleTextAnalyzerRoRO@@
+.?AVCLocaleTextAnalyzerRuRU@@
+.?AVCLocaleTextAnalyzerTaIN@@
+.?AVCLocaleTextAnalyzerTeIN@@
+.?AVCLocaleTextAnalyzerThTH@@
+.?AVCLocaleTextAnalyzerUkUA@@
+.?AVCLocaleTextAnalyzerUrPK@@
+.?AVCLocaleTextAnalyzerZhCN@@
+.?AVCLocaleTextAnalyzerZhHK@@
+.?AVCLocaleTextAnalyzerZhTW@@
+.?AVCLocaleUnitSelector@@
+.?AVCNamedEntityBreakTagger@@
+.?AVCPLSLexiconCache@@
+.?AVCPhraseBuilder@@
+.?AVCPhraseSink@@
+.?AVCPredicate@@
+.?AVCPredicateExtractor@@
+.?AVCPredicateInfo@@
+.?AVCPropertyBag@@
+.?AVCProsodyBreakCARTPredictor@@
+.?AVCProsodyEmphasisCARTPredictor@@
+.?AVCProsodyRNNBreakTagger@@
+.?AVCProsodyRNNBreakToneTagger@@
+.?AVCProsodyRNNPredictor@@
+.?AVCProsodyRNNTagger@@
+.?AVCProsodyRNNToneTagger@@
+.?AVCProsodyWordCART@@
+.?AVCQuickStringTBase@@
+.?AVCRNNAuxFeaturizerDataBase@@
+.?AVCRNNAuxFeaturizerDataElement@@
+.?AVCRNNAuxFeaturizerDataIndexVector@@
+.?AVCRNNAuxFeaturizerDataVectorBase@@
+.?AVCRNNAuxFeaturizerIntVector@@
+.?AVCRNNAuxFeaturizerSequence@@
+.?AVCRNNDecoder@@
+.?AVCRNNFeatureExtractionEngine@@
+.?AVCRNNFeaturizer@@
+.?AVCRNNModelData@@
+.?AVCRNNVocabulary@@
+.?AVCRuleCallbackBase@@
+.?AVCSentenceBase@@
+.?AVCShareable@@
+.?AVCSortedStringTable@@
+.?AVCStateSpace@@
+.?AVCStringWithExtraPhone@@
+.?AVCTTSClause@@
+.?AVCTTSClauseList@@
+.?AVCTTSContainerLexicon@@
+.?AVCTTSDataBank@@
+.?AVCTTSDataBase@@
+.?AVCTTSDataLoader@@
+.?AVCTTSDataManager@@
+.?AVCTTSEngine@@
+.?AVCTTSEngineSetting@@
+.?AVCTTSFeatureCARTData@@
+.?AVCTTSFeatureExtractionBase@@
+.?AVCTTSFeatureExtractionEngine@@
+.?AVCTTSFeatureMeta@@
+.?AVCTTSFeatureNodeBase@@
+.?AVCTTSHandlerBase@@
+.?AVCTTSIntonationPhrase@@
+.?AVCTTSLocaleHandler@@
+.?AVCTTSLocaleHandlerArEG@@
+.?AVCTTSLocaleHandlerArSA@@
+.?AVCTTSLocaleHandlerCaES@@
+.?AVCTTSLocaleHandlerDaDK@@
+.?AVCTTSLocaleHandlerDeAT@@
+.?AVCTTSLocaleHandlerDeCH@@
+.?AVCTTSLocaleHandlerDeDE@@
+.?AVCTTSLocaleHandlerENU@@
+.?AVCTTSLocaleHandlerElGR@@
+.?AVCTTSLocaleHandlerEnAU@@
+.?AVCTTSLocaleHandlerEnCA@@
+.?AVCTTSLocaleHandlerEnGB@@
+.?AVCTTSLocaleHandlerEnIE@@
+.?AVCTTSLocaleHandlerEnIN@@
+.?AVCTTSLocaleHandlerEsES@@
+.?AVCTTSLocaleHandlerEsMX@@
+.?AVCTTSLocaleHandlerFaIR@@
+.?AVCTTSLocaleHandlerFiFI@@
+.?AVCTTSLocaleHandlerFrBE@@
+.?AVCTTSLocaleHandlerFrCA@@
+.?AVCTTSLocaleHandlerFrCH@@
+.?AVCTTSLocaleHandlerFrFR@@
+.?AVCTTSLocaleHandlerHeIL@@
+.?AVCTTSLocaleHandlerHiIN@@
+.?AVCTTSLocaleHandlerItIT@@
+.?AVCTTSLocaleHandlerJaJP@@
+.?AVCTTSLocaleHandlerKoKR@@
+.?AVCTTSLocaleHandlerNbNO@@
+.?AVCTTSLocaleHandlerNlBE@@
+.?AVCTTSLocaleHandlerNlNL@@
+.?AVCTTSLocaleHandlerPtBR@@
+.?AVCTTSLocaleHandlerRoRO@@
+.?AVCTTSLocaleHandlerRuRU@@
+.?AVCTTSLocaleHandlerTaIN@@
+.?AVCTTSLocaleHandlerTeIN@@
+.?AVCTTSLocaleHandlerThTH@@
+.?AVCTTSLocaleHandlerUkUA@@
+.?AVCTTSLocaleHandlerUrPK@@
+.?AVCTTSLocaleHandlerZhCN@@
+.?AVCTTSLocaleHandlerZhHK@@
+.?AVCTTSLocaleHandlerZhTW@@
+.?AVCTTSPhone@@
+.?AVCTTSPhrase@@
+.?AVCTTSPronunciation@@
+.?AVCTTSPronunciationList@@
+.?AVCTTSProsodicWord@@
+.?AVCTTSProsodyHandlerBase@@
+.?AVCTTSSentence@@
+.?AVCTTSSequenceHandler@@
+.?AVCTTSSharedDataLoader@@
+.?AVCTTSString@@
+.?AVCTTSSyllable@@
+.?AVCTTSUtterance@@
+.?AVCTTSWord@@
+.?AVCTTSWordBreakerJaJP@@
+.?AVCTTSWordBreakerThTH@@
+.?AVCTTSWordListImp@CTTSWordList@@
+.?AVCTemplateTrie@@
+.?AVCTobiAccentCRFFeatureExtractor@@
+.?AVCTobiAccentCRFTagger@@
+.?AVCTransition@@
+.?AVCTrieLexicon@@
+.?AVCTrieTreePostWordBreakerData@@
+.?AVCVocab@@
+.?AVCVocabTrie@@
+.?AVCWinHeap@@
+.?AVCWordPronList@@
+.?AVCWordPronouncer@@
+.?AVCWordPronunciation@@
+.?AVCWordSink@@
+.?AVCZhOOV@@
+.?AVISerializable@CPP_SERIALIZATION@@
+.?AVIVocabulary@SpRNNTOOLKIT@@
+.?AVLengthRange@@
+.?AVResultException@wil@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVexception@std@@
+.?AVtype_info@@
+.BNW^h
+.CRT$XCA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.CumulateFromPreviousTarget()
+.DistanceFromPreviousTarget()
+.FirstAfterPreviousTarget()
+.data
+.data$brc
+.data$r$brc
+.data$rs$brc
+.edata
+.gehcont
+.gfids
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.pdata
+.rdata
+.rdata$T$brc
+.rdata$brc
+.rdata$r
+.rdata$voltmd
+.rdata$zETW2
+.rdata$zzzdbg
+.rsrc$01
+.rsrc$02
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$di
+.text$lp00SPGO
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+/=LZjw
+/>Oas
+/D$`w<LcO4L
+/D$hv
+/sHv H
+/sPv<I
+040904b0
+0A\][
+0A^A]A\_^][
+0A^_^
+0A^_^[]
+0A_A^A\
+0A_A^A\_^
+0A_A^A\_^[]
+0A_A^A]
+0A_A^A]A\_
+0A_A^A]A\_^[
+0A_A^A]A\_^]
+0A_A^A]_^
+0A_A^_
+0A_A^_^[
+0A_A^_^]
+0D0K0
+0F0D0a0L0d0
+0F0D0a0k0a0
+0F0K0
+0F0L0d0
+0F0O0k0a0
+0F0T0k0a0
+0F0U0
+0F0j0j0k0a0
+0F0k0L0d0
+0F0k0a0
+0F0k0k0a0
+0F0o0a0k0a0
+0L0d0
+0O0L0d0
+0O0k0a0
+0Wb_ 
+0c0K0
+0k0a0
+10.3.21207.0
+1121314151617191:1;1<1=1>1?1@1A1B1D1E1F1G1H1J1K1L1M1N1112141718191A1B1C1E1F1G1H1I1J1K1L1M1N1
+1>O\kw
+1ASdu
+1CMR]c
+1f;F8v
+3D8l$0
+4DXgu~
+4l#u 
+4ls^ 
+5EPX_f
+5s8H+
+6GQ^h~
+7_lx 
+8A^_^[
+8A_A^A]A\_^[]
+8A_A^A]A\_^][
+9.tII
+94*vHI
+9D$P~/Lc
+9D$P~2Lc
+9D$Xt
+9T$`tyL
+9TOY 
+9\$4u
+9_X~ H
+9n ~.L
+9u@~$H
+9{ ~;
+9}8~$H
+9}H~-L
+9~`~OH
+:@ux9Z
+:uQg 
+;E8saf
+;H!l$0H
+;O s!H
+;T$p|QHc
+;\$P|
+;eu|L
+;suA@2
+;|$p|
+;|$p};;t$pu
+;}0szH
+<$Tt]H
+<$ttefA
+</CASE>
+<CASE>
+<F*u:L
+<FfD97
+<GfD9?t
+<^fD9&tZA
+<unk>
+>*u.L
+>333?
+>y(u 
+?_Xlength_error@std@@YAXPEBD@Z
+?_Xout_of_range@std@@YAXPEBD@Z
+?eZQ 
+@ H9A t)
+@.data
+@.reloc
+@.rsrc
+@8=Xe
+@8i@u
+@A]][
+@A^A]_^]
+@A^_]
+@A^_^
+@A_A^A\
+@A_A^A\_^[]
+@A_A^A\_^][
+@A_A^A]A\_^]
+@A_A^_
+@SUATH
+@SUVW
+@SUVWATAUAVAW
+@SUVWATAUAVAWH
+@SUVWATAUAVH
+@SUVWATAVAWH
+@SUVWAVAWH
+@SUVWAVH
+@SUVWH
+@SUWH
+@SVWATAUAVAWH
+@SVWH
+@USVATAUAVAWH
+@USVWATAUAVAWH
+@USVWATAVAWH
+@USVWAUAVAWH
+@USVWAVH
+@VWAVH
+@VWAWH
+@b(W 
+@b/^ 
+@uOE3
+@uOL9;u8H
+@v+E3
+@x>D9~
+A D9A$s
+A I;@(t
+A4H9B
+A8f;0u)fE
+A8fA;
+A9nDs
+A;[H|
+APPID
+AS~vCS
+A^A\]
+A^A\_
+A^A]A\_^
+A^A]A\_^][
+A^_^[]
+A^_^][
+A_A\_^]
+A_A^A\
+A_A^A\_[]
+A_A^A\_]
+A_A^A\_^
+A_A^A\_^][
+A_A^A]A\
+A_A^A]A\]
+A_A^A]A\^[]
+A_A^A]A\_
+A_A^A]A\_^[
+A_A^A]A\_^[]
+A_A^A]A\_^]
+A_A^A]A\_^][
+A_A^A]_^
+A_A^A]_^[]
+A_A^]
+A_A^_
+A_A^_^]
+A_A^_^][
+Accent
+AccentedSyllNumAfterCurrSyll
+AccentedSyllNumBeforeCurrSyll
+AcousticDomain
+AcquireSRWLockExclusive
+AcquireSRWLockShared
+AllCharactersInRange
+ArEGDiacList.Bin
+ArEGDiacModel.Bin
+ArSADiacList.Bin
+ArSADiacModel.Bin
+AreBothCurrIntermPhraseBoundaryPuncs
+AreBothCurrIntonaPhraseBoundaryPuncs
+AtSentenceBoundary
+AtWordBoundary
+AtomChangeType
+B(I;@(u
+B(fA;8t\L
+BOUNDARY_AT_CJK_CHARACTER
+BOUNDARY_AT_PUNCTUATION
+BOUNDARY_DEFAULT
+BOUNDARY_NOT_BETWEEN_ALPHABET
+BOUNDARY_NOT_BETWEEN_CHARACTER
+BWORD
+Bf9:u
+BoundaryPron
+BoundedNumOfSyllablesFromPunc
+BoundedNumOfSyllablesToPunc
+BoundedNumOfWordsFromPunc
+BoundedNumOfWordsFromVerb
+BoundedNumOfWordsToPunc
+BoundedNumOfWordsToVerb
+BoundedSyllableNumber
+BreakIndex
+BreakPrediction.EntityFolding
+BreakPrediction.MaxIntermPhraseNumPerIntonPhrase
+BreakPrediction.MaxWordNumPerInterPhrase
+BreakPrediction.PhraseBased
+BwPosInIntonationPhrase
+BwPosInPhrase
+BwPosInProsodicWord
+BwPosInSentence
+BwPosInSyllable
+BwPosInWord
+BwPosInYesNoQuestion
+BwTokenPosInSentence
+C0D9 
+C9fD97u,
+C:f;0t
+CART Model
+CHANGE
+CHINESETONE_%s
+CLSIDFromString
+CXTWORD
+CallContext:[%hs] 
+CaseInsensitiveText
+CharLowerBuffW
+CharacterInWord
+CharacterNumber
+ChineseToneIndex
+CloseHandle
+CloseThreadpoolTimer
+CoCreateInstance
+CoTaskMemAlloc
+CoTaskMemFree
+CoTaskMemRealloc
+CompanyName
+ConnectChangeType
+Cost:
+CreateEventW
+CreateFileMappingW
+CreateFileW
+CreateMemoryResourceNotification
+CreateMutexExW
+CreateSemaphoreExW
+CreateThreadpoolTimer
+CurrLetter=%s
+CurrWord=%s
+CurrWordInitial=%c
+CurrWordInitial=%c%c
+D!l$ 3
+D$ CMP
+D$ E3
+D$ H;D$`v
+D$ H=
+D$ Lc
+D$ f9
+D$"f9C
+D$$fD
+D$&f9C
+D$(?B
+D$(E3
+D$(H!\$8H
+D$(H)MwH
+D$(L+
+D$(f9C
+D$*E3
+D$*f9C
+D$,D8-
+D$,f9C
+D$0A;
+D$0D9r
+D$0E3
+D$0E;
+D$0H!\$8H
+D$0H9
+D$0H;
+D$0LcI
+D$0f;
+D$0fD9
+D$8E3
+D$8H;
+D$8H;D$Xt
+D$8fD
+D$@E#
+D$@E3
+D$@L;
+D$H!D$@
+D$HfA9@
+D$HfD
+D$HfF;<H
+D$PA9
+D$PD#
+D$PH+D$HH
+D$PfA
+D$X!x
+D$XE3
+D$XIcS
+D$XfD
+D$`E3
+D$`I;
+D$`f;
+D$`fD
+D$hE3
+D$pHc
+D$xE3
+D$xfD
+D0a0L0d0
+D0d0K0
+D8T$!
+D9&u>I
+D91~+L
+D98u9L
+D9J(t
+D9M(H
+D9U0t&I
+D9Y8t
+D9\$HvUL
+D9d$4t{H
+D9i8t
+D9l$(|
+D9l$0vHL
+D9l$@
+D9n0t
+D9s0t
+D9yhviL
+D9|$(
+D;t$0r
+D;|$HA
+D;}0}`H
+D>B<HuUZv
+DEFINED_LISTS
+DELETE
+DLhA;
+DLxfB9D
+DOUBLE_DUMA
+DOUBLE_FATHA
+DOUBLE_KASRA
+Dagesh
+Dd$XH
+DebugBreak
+DefWindowProcW
+DeleteCriticalSection
+DisableThreadLibraryCalls
+Dkernel32.dll
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+E09MPH
+E8,$A
+E8H+}@H
+E;`Ls
+E;l$l
+E@f;X
+E@fD98t;H
+EH9u@t0H
+EMWORD
+EPH9UXt
+EWORD
+E\OO 
+E`H;u
+Emphasis
+EnableAccentModelForEmphasis
+EnableDomainTwoPassPrediction
+EndWith
+EnglishNumOfPrepToVerb
+EnglishPhrasePattern
+EnglishWordIsAndOrConj
+EnterCriticalSection
+EpD9d
+Equal
+EwB9D
+Exception
+Expansion
+F(I;G(t
+F8@88t
+FATHA
+FU#umi 
+FUNCTION
+FUmi 
+FaIRDiacModel.Bin
+FailFast
+Failed with HRESULT 0x%x
+FeatureLevel
+FileDescription
+FileVersion
+FirstIntonationPhrase
+FirstPhone
+FirstPhrase
+FirstProsodicWord
+FirstSyllable
+FirstToken
+FirstWord
+FormatMessageW
+FreeLibrary
+Fsuccess
+FwPosInIntonationPhrase
+FwPosInPhrase
+FwPosInProsodicWord
+FwPosInSentence
+FwPosInSyllable
+FwPosInWord
+FwPosInYesNoQuestion
+FwTokenPosInSentence
+G1]1H
+G2*&#!
+G@L;,
+GLOBAL_VECTOR_INFO
+GetCharacter
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetFileSize
+GetFileType
+GetLastError
+GetLocaleHandler
+GetLogicalProcessorInformation
+GetModuleFileNameA
+GetModuleFileNameW
+GetModuleHandleExW
+GetModuleHandleW
+GetNValue
+GetProcAddress
+GetProcessHeap
+GetSystemDirectoryW
+GetSystemTime
+GetSystemTimeAsFileTime
+GetVersion
+GreaterThan
+H H9J u
+H SUVWH
+H SVWH
+H SWH
+H WAVAWH
+H!3H!s
+H!\$0E3
+H!\$0H
+H!\$@H
+H!\$HH
+H!\$PH
+H!]XH!]HH
+H!]XI
+H!_8H
+H!t$ D
+H!t$(D
+H!t$XA
+H!{ H!{(
+H!{8H
+H!{PH!{X!{`!{HH!{@H
+H!{hH!{pH!{x!
+H!|$0H
+H+D$HH
+H+E8H
+H+EwN
+H+M0H
+H9)u!H;
+H9/sDH
+H99umH;
+H9;uCH
+H9;uFH
+H9D$P
+H9J@t19
+H9L$Pu[H
+H9L$`t!H
+H9L$pH
+H9M0v
+H9XHA
+H9Y t3H
+H9Y t4H
+H9Y t5H
+H9Y t6H
+H9Y uD
+H9Y uK
+H9Y uV
+H9\$x
+H9l$htbH
+H9y uB
+H9y uD
+H9y uo
+H9yHt4
+H9{Xt29{Pv
+H9|$8v
+H;8t[H
+H;A(t
+H;C(t
+H;D$8u
+H;Ght
+H;L$Xu
+H;MHu
+H;Mwv
+H;O(t
+H;P u
+H;Q(t
+H;Q(t%H
+H;Uhs2L
+H;W s
+H;\$@t
+H;\$Pt
+H;_`r
+H;p u
+H;q u
+H;u8s1H
+H;uHt
+H;y u
+H;{`r
+HA_A^A]A\_^[]
+HA_A^A]A\_^][
+H_^][
+Hamza
+HcC0HcL
+HcD$0
+HcD$DH
+HcD$pD
+HcH H
+HcL$8H
+HcL$XHk
+HcT$ HcL$$H
+HcU8I
+HcU@I
+HcWPH
+Hc\$ 
+Hc|$ H
+Hc}HH
+HeILDiacList.Bin
+HeILDiacModel.Bin
+HeapAlloc
+HeapCreate
+HeapDestroy
+HeapFree
+HeapReAlloc
+HeapSize
+HeapWalk
+HehEzafe
+Hiriq
+HolamHaser
+Huffman-256 Table for Tags:
+I(D9Q
+I9>t3
+I;@(t
+I;BHu
+I;OHs)I
+IH!l$0H
+IH!|$@H
+IPfA;
+IYlQ 
+InRange
+InitializeConditionVariable
+InitializeCriticalSection
+InitializeCriticalSectionAndSpinCount
+InitializeCriticalSectionEx
+InitializeSListHead
+InternalName
+IntonationPhrase
+IntonationPhraseNumber
+Invalid feature function format [%s]
+Invalid feature function parameter count [%s]
+Invalid feature function parameter type [%s]
+Invalid feature function parameter value [%s]
+Invalid feature name [%s]: Need feature property
+Invalid feature name [%s]: at least one location and one property
+Invalid feature name [%s]: find empty feature location
+IsAccented
+IsAfterSilence
+IsBeforeSilence
+IsBeginOfWord=true
+IsBeginingOfSent=true
+IsContainList
+IsDebuggerPresent
+IsEndOfWord=true
+IsFirstContentWordInPhrase
+IsFollowedByPunc
+IsFollowedByWhiteSpaces
+IsInList
+IsLastContentWordInIntonationPhrase
+IsLastContentWordInPhrase
+IsNumber
+IsProcessorFeaturePresent
+It$8D
+ItmPhraseNumOfItnPhrase
+J0fA;9tR$
+JXf;9u%L
+KASRA
+Kamatz
+Kbpe 
+Kubutz
+L!l$`H
+L#G0M
+L#{0M
+L$ E3
+L$ SVWAVH
+L$ SVWH
+L$ SW
+L$ UVWATAUAVAWH
+L$ VWATAVAWH
+L$ WH
+L$(Lcl$@D
+L$0E3
+L$0H3
+L$0fD
+L$8D;
+L$8E3
+L$8fB
+L$:fB
+L$@E3
+L$@H!\$HL
+L$@fA
+L$H!\$hL
+L$HE3
+L$HH3
+L$PA;
+L$PE3
+L$PH3
+L$PH;
+L$PLc
+L$XE3
+L$XH+
+L$XH3
+L$`H#
+L$hD;
+L$hE3
+L$hH+
+L$hH3
+L$hHcD$`Hk
+L$hL!|$pE3
+L$pA;
+L$pE3
+L$pH+
+L$pLc
+L$xH3
+L$xfA9
+L+D$0A
+L9?v1I
+L9PHH
+L9]@v
+L9_`v1H
+L9ahvkfE
+L9cxu
+L9d$@
+L9d$@t
+L9d$`t]H
+L9l$ 
+L9t$Xv
+L9{Hu
+L;5.^
+L;d$x
+L;q u
+L;~8r
+LDhfB9L
+LastIntonationPhrase
+LastPhone
+LastPhrase
+LastProsodicWord
+LastSyllable
+LastToken
+LastWord
+LcE0H
+LcF0I
+LcL$0A
+Lcl$@J
+LcuHD
+LcugH
+LeaveCriticalSection
+LeftAlef
+LeftAlefEzafe
+LeftHamza
+LegalCopyright
+Length
+LimitedNValue
+LoadLibraryW
+LocalHandler General
+Local\SM0:%lu:%lu:%hs
+LogHr
+LogNt
+M#w0M
+M8L9a
+MH!l$0H
+MHL9ePt
+MSTTSLoc.dll
+MSTTSLoc_OneCore.dll
+MSTTSLoc_OneCore.pdb
+MapViewOfFileEx
+Microsoft Corporation
+Microsoft TTS Engine
+Microsoft TTS Shared Locale Handler
+Microsoft.Windows.TTS.Telemetry
+MsWb70011.dll
+MsWb7001e.dll
+MsWb70404.dll
+MsWb70804.dll
+MsWb7EA.dll
+Msg:[%ws] 
+N(uVI
+NAS]N
+NASkQ
+NASmQ
+NETWORKNAME
+NOCHAR
+NOM_FNM
+NOM_LNM
+N_English
+NamedEntityType
+NamedEntityTypeOrText
+NcL0 J
+NextCharacters
+NextIntonationPhrase
+NextPhone
+NextPhrase
+NextProsodicWord
+NextSyllable
+NextToken
+NextWord
+NextWord%d=%s
+NextWordEnd=%c
+NextWordEnd=%c%c
+NextWordInit=%c
+NextWordInit=%c%c
+NkQ]N
+NkQ]NAS
+NtQueryWnfStateData
+NtUpdateWnfStateData
+NumOfPuncsAtCurrIntermPhraseBoundary
+NumOfSyllablesFromInterPhrase
+NumOfSyllablesFromIntonPhrase
+NumOfUnmatchedNestInSentenceBeforeCurrWord
+NumOfWordsFromInterPhrase
+NumOfWordsFromIntonPhrase
+NumOfWordsFromLastPuncsInList
+NumOfWordsFromPunc
+NumOfWordsInSentenceFromWordsInList
+NumOfWordsToNextPuncsInList
+NumOfWordsToPunc
+NumberOfSyllableToLeftBound
+NumberOfSyllableToNextHighTone
+NumberOfSyllableToNextLowTone
+NumberOfSyllableToPrevHighTone
+NumberOfSyllableToPrevLowTone
+NumberOfSyllableToRightBound
+O0L0d0
+O1P1Q1R1S1T1U1V1W1X1Y1Z1[1\1]1^1_1`1a1b1c1
+OLEAUT32.dll
+OpenSemaphoreW
+OriginalFilename
+OutputDebugStringW
+P fD9dz
+P$H!p H
+PA^_^
+PA^_^][
+PA_A]A\_[
+PA_A^A]A\_^]
+PA_A^A]_^[]
+PA_A^^
+PA_A^_^]
+PMATCH_ALPHA
+PMATCH_ALPHA_LIST
+PMATCH_DELIM
+POSTWORDBREAKER
+POSTaggerPOS
+PRON_ATOMCHANGE_LASTPHONE
+PRON_ATOMCHANGE_LASTPHONE_MUTE
+PRON_ATOMCHANGE_WORDPRON
+PRON_CONNECTCHANGE_PHONE_APPEND_NEXTWORD
+PSLOT
+PartOfSpeechName
+Patakh
+Phone
+PhoneIdentity
+PhoneName
+PhoneNumber
+Phrase
+Phrase.LastWord.AreBothCurrIntonaPhraseBoundaryPuncs
+Phrase.LastWord.IsFollowedByPunc
+Phrase.LastWord.NumOfSyllablesFromIntonPhrase
+Phrase.LastWord.NumOfWordsFromIntonPhrase
+Phrase.SyllableNumber
+Phrase.WordNumber
+PhraseNumber
+PrevIntonationPhrase
+PrevPhone
+PrevPhrase
+PrevProsodicWord
+PrevSyllable
+PrevToken
+PrevWord
+PrevWord%d=%s
+PrevWordEnd=%c
+PrevWordEnd=%c%c
+PrevWordInit=%c
+PrevWordInit=%c%c
+PreviousCharacters
+PrimaryAccentPosition
+PrimaryStressPosition
+ProductName
+ProductVersion
+Pronunciation
+ProsodicWord
+ProsodicWordNumOfItnPhrase
+ProsodicWordNumber
+Prosody
+ProsodyModelSetting
+ProsodyModelSetting.ACT
+P}7l 
+P}ZZ 
+QFQBf
+QueryPerformanceCounter
+R;876.
+RJO_m
+RNN_DECODER_%s
+RSDSY
+RSmi 
+RaiseException
+RaiseFailFastException
+ReducedKamatz
+ReducedPatakh
+ReducedSegol
+RegCloseKey
+RegOpenKeyExW
+RegQueryValueExW
+RegularText
+ReleaseMutex
+ReleaseSRWLockExclusive
+ReleaseSRWLockShared
+ReleaseSemaphore
+ReplaceInvalidCharacter
+ResetEvent
+Result:
+ReturnHr
+ReturnNt
+Rich$H
+Romanization
+RtlCaptureContext
+RtlDisownModuleHeapAllocation
+RtlDllShutdownInProgress
+RtlLookupFunctionEntry
+RtlNotifyFeatureUsage
+RtlNtStatusToDosErrorNoTeb
+RtlRegisterFeatureConfigurationChangeNotification
+RtlUnregisterFeatureConfigurationChangeNotification
+RtlVirtualUnwind
+S0S0n0K0
+SEKOON
+SHADA
+SOFTWARE\Classes\CLSID\
+SUAUH
+SUVWATAUAVAWH
+SUVWATAUAVH
+SUVWATAVAWH
+SUVWAVH
+SVATAUAVAWH
+SVAUAVAWH
+SVWATAUAVAWH
+SVWAVAWH
+SVWAVH
+SWATAUAWH
+Segol
+Sentence
+SentenceEmotion
+SentenceType
+SetEvent
+SetLastError
+SetThreadpoolTimer
+SetUnhandledExceptionFilter
+Shadda
+ShinDot
+SinDot
+SleepConditionVariableCS
+SmallerThan
+StartWith
+StartWithCapital
+Stress
+StringFileInfo
+Sukuun
+SyllNumFromLeftAccent
+SyllNumOfItnPhrase
+SyllNumToRightAccent
+Syllable
+SyllableNumber
+T$ E3
+T$ E9
+T$ H+
+T$ I;
+T$0E3
+T$8I;
+T$8L+
+T$@@2
+T$@E3
+T$@H+
+T$HE3
+T$HH!X
+T$HHc
+T$PE3
+T$PL;
+T$`A9V
+T$hA9y
+T$hfD
+T$xM;
+T/0fA
+T0L0d0
+TNBoundaryType
+TOOLVERSIONS
+TTSArEGAutoCorrectionList.Bin
+TTSArSAAutoCorrectionList.Bin
+TTS_FEATURE_LEVEL_CHUNK
+TTS_FEATURE_LEVEL_DUMMY
+TTS_FEATURE_LEVEL_FOOT
+TTS_FEATURE_LEVEL_INTONATIONPHRASE
+TTS_FEATURE_LEVEL_PHONE
+TTS_FEATURE_LEVEL_PHRASE
+TTS_FEATURE_LEVEL_PROSODIC_WORD
+TTS_FEATURE_LEVEL_SENTENCE
+TTS_FEATURE_LEVEL_SYLLABLE
+TTS_FEATURE_LEVEL_WORD
+TaTweel
+Tag bytes = %d
+Tanwin
+TerminateProcess
+Text:
+TextRepetitionLength
+ToBIAccent
+ToBIFinalBoundaryTone
+Token
+ToneLevel
+Total tags = %d, unique tags = %d
+Translation
+Tzeire
+UATAUAVAWH
+UATAVH
+UAVAWH
+USVWATAUAVAWH
+USVWATAVAWH
+USVWAUAVAWH
+USWATAVAWH
+UUUUUUU
+UVWATAUAVAW
+UVWATAUAVAWH
+UVWATAVH
+UVWATAWH
+UVWAUAVH
+UVWAVAWH
+UWATAVAWH
+UWAUAVAWH
+UWAVH
+UWAWH
+Unexpected feature function [%s]
+Unexpected feature location [%s]
+Unexpected feature property [%s]
+UnhandledExceptionFilter
+Unknown exception
+UnmapViewOfFile
+Unsupported feature function [%s]
+Unsupported feature function parameter [%s]
+Unsupported feature location [%s]
+Unsupported feature property [%s]
+V I;W(t
+VAVAWH
+VECTOR_INFO
+VS_VERSION_INFO
+VWATAUAVH
+VWATAVAWH
+VWAUAVAWH
+VWAVH
+VWAWH
+VarFileInfo
+VavEzafe
+VoiceFont
+VowelLength
+W0;W0u
+W0L0d0
+WATAUAVAWH
+WATAVH
+WAVAWH
+WIL Exception
+WaitForMultipleObjects
+WaitForSingleObject
+WaitForSingleObjectEx
+WaitForThreadpoolTimerCallbacks
+WakeAllConditionVariable
+WakeConditionVariable
+WideCharToMultiByte
+WilError_03
+WilFailureNotifyWatchers
+WilStagingCppFeatures$__b
+WilStagingCppFeatures$__y
+WilStaging_02
+Word.AreBothCurrIntermPhraseBoundaryPuncs
+Word.IsFollowedByPunc
+Word.LastSyllable.LastPhone.PhoneName
+Word.NextWord.FirstSyllable.FirstPhone.PhoneName
+Word.NextWord.NextWord.FirstSyllable.FirstPhone.PhoneName
+Word.NextWord.NextWord.PartOfSpeechName
+Word.NextWord.NextWord.Text
+Word.NextWord.PartOfSpeechName
+Word.NextWord.Text
+Word.NumOfPuncsAtCurrIntermPhraseBoundary
+Word.NumOfSyllablesFromInterPhrase
+Word.NumOfWordsFromInterPhrase
+Word.PartOfSpeechName
+Word.PrevWord.LastSyllable.LastPhone.PhoneName
+Word.PrevWord.PartOfSpeechName
+Word.PrevWord.Text
+Word.SyllableNumber
+Word.Text
+WordAccentPattern
+WordLang
+WordNumOfItnPhrase
+WordNumber
+WordPositionInPhrase
+X(H9Y
+X0H9Y
+XA_A^A]A\^[
+XA_A^A]A\_^[]
+Y@H9;u+H
+YehEzafe
+ZW][Rb
+Zabar
+Zamma
+[%hs(%hs)]
+[%hs]
+[Initialization]
+[UPPER]
+\$ E2
+\$ E3
+\$ UVW
+\$ UVWATAUAVAWH
+\$ UVWAVAWH
+\$ UVWH
+\$ WH
+\$ fD
+\$(H;
+\$(tz
+\$0H9X
+\$8E3
+\$8H;
+\$HE3
+\$HfD93tA
+\$hfE
+\InprocServer32
+\o4l 
+\oeQ 
+]@L+}@
+^(A9/~.H
+^hmpsv
+^yL} 
+_CxxThrowException
+_H!t$0H
+__C_specific_handler
+__C_specific_handler_noexcept
+__CxxFrameHandler3
+__CxxFrameHandler4
+__RTDynamicCast
+__current_exception
+__current_exception_context
+__std_terminate
+_c[}]L{s{
+_initterm
+_initterm_e
+_o___acrt_iob_func
+_o___std_exception_copy
+_o___std_exception_destroy
+_o___std_type_info_destroy_list
+_o___stdio_common_vfprintf
+_o___stdio_common_vfwprintf
+_o___stdio_common_vswprintf
+_o___stdio_common_vswprintf_s
+_o___stdio_common_vswscanf
+_o__callnewh
+_o__cexit
+_o__configure_narrow_argv
+_o__crt_atexit
+_o__errno
+_o__execute_onexit_table
+_o__initialize_narrow_environment
+_o__initialize_onexit_table
+_o__invalid_parameter_noinfo
+_o__invalid_parameter_noinfo_noreturn
+_o__purecall
+_o__register_onexit_function
+_o__seh_filter_dll
+_o__strnicmp
+_o__wcsdup
+_o__wcsicmp
+_o__wcsnicmp
+_o__wfopen_s
+_o__wsplitpath_s
+_o__wtoi
+_o_bsearch
+_o_calloc
+_o_ceil
+_o_ceilf
+_o_exit
+_o_exp
+_o_fclose
+_o_fread
+_o_free
+_o_fwrite
+_o_iswalpha
+_o_iswdigit
+_o_iswlower
+_o_iswspace
+_o_iswupper
+_o_log
+_o_malloc
+_o_pow
+_o_qsort
+_o_qsort_s
+_o_realloc
+_o_sqrt
+_o_terminate
+_o_towlower
+_o_towupper
+_o_wcscat_s
+_o_wcscpy_s
+_o_wcstok
+_o_wcstombs_s
+` UAVAWH
+`.rdata
+`A^A\_^]
+`A_A^A\_^
+`A_A^A\_^[]
+`A_A^A]A\_^]
+`A_A^_^]
+`fothk
+address
+ae ng
+alpha
+ao ng
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-interlocked-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-libraryloader-l1-2-1.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-memory-l1-1-1.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-1.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-rtlsupport-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-string-l2-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-synch-l1-2-1.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-crt-private-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-rtcore-ntuser-window-l1-1-0.dll
+ay ax r
+bad allocation
+bad array new length
+buffer too small
+cB$$"$""""SE$4"tfFDD
+ca(u 
+ckq} 
+corrupted stream
+d$ E3
+d$8E3
+d$@Lc
+d$@v!H
+d$Pt{A
+d$pI;
+d$|E3
+d0D0_0a0
+dFDFBB"
+dah-bax-lyuw
+delim
+denen
+df"DDdD
+dffDD$"`
+dkxw$
+eLearning
+eQ4X 
+eSOUax
+eXL;uPt'I
+eh ng
+erbij
+erboren
+eronder
+ervoor
+f+A(f
+f9*tyH
+f9,Fu
+f9,Gu
+f9,Ku
+f9,Pu
+f9,ru
+f9,~u
+f92t0L
+f94Au
+f94Gu
+f94Hu
+f94Ou
+f98u'fE92u!fD
+f9:t4L
+f9<Au
+f9<Bu
+f9<Fu
+f9<su
+f9DL~u
+f9DL~u f;
+f9l$Rt
+f9t$<u
+f9|$Ft
+f9|$Jt
+f;D$0t
+f;EPt
+f;EPuLH
+f;V8v
+f;t$0
+f;t$Zr
+f@B$""
+fA9,@u
+fA9,^u
+fA9,~u
+fA94Gu
+fA94Iu
+fA97vb
+fA99t
+fA9<Gu
+fA9>u
+fA9D$
+fA9L$
+fA9LC
+fA9LE
+fA9TE
+fA9\M
+fA;FBu
+fA;FFu
+fA;FJu
+fA;FLu
+fA;N8
+fA;N@u6
+fA;NBu9H;
+fA;NBuFfA;VDu?
+fA;NDu&H;
+fA;NFu(fA;VHu!
+fA;VDu
+fA;VRt
+fA;VTu
+fA;v8
+fA;v@u)
+fA;vBuXL
+fB9,Ju
+fB9,Zu
+fB94Xu
+fB94pu
+fB9<@u
+fB9<Bu
+fB9DB
+fB9\E
+fB9lB
+fD""B
+fD9"u5fD
+fD9$Au
+fD9$Fu
+fD9$Gu
+fD9$Hu
+fD9$Ju
+fD9$Ou
+fD9$Pu
+fD9$Xu
+fD9$Zu
+fD9$ju
+fD9$pu
+fD9$xu
+fD9'u
+fD9(t
+fD9+u.;
+fD9,Au
+fD9,Bu
+fD9,Cu
+fD9,Gu
+fD9,Hu
+fD9,^u
+fD9,_u
+fD9,pu
+fD9,ru
+fD9,su
+fD9,xu
+fD9,yu
+fD92u7fD
+fD93u
+fD94Bu
+fD94Fu
+fD94Gu
+fD94Hu
+fD94^u
+fD94xu
+fD97tV
+fD97w
+fD98t
+fD98u
+fD9:u
+fD9<Bu
+fD9<Cu
+fD9<Fu
+fD9<Ju
+fD9<Nu
+fD9<_u
+fD9<ju
+fD9<xu
+fD9<yu
+fD9?t
+fD9?u
+fD9TG
+fD9dB
+fD9d}
+fD9lE
+fD9lu
+fD9tM
+fD9|o
+fD;A(u
+fD;w8s5I
+fDD"AUDT$t
+fE9$@u
+fE9$Fu
+fE9$pu
+fE9,Bu
+fE9,Fu
+fE9,Gu
+fE9,tu
+fE91t
+fE94Au
+fE9<@u
+fE9<Hu
+fE9\@
+fE9dC
+fE9tC
+fE9|C
+fE;nVt
+fE;nXt
+fE;nZt
+fE;n\ufA
+fF9$Gu
+fF9$Ju
+fF9$pu
+fF9$wu
+fF9$xu
+fF9,Ju
+fF9,pu
+fF9,vu
+fF94Fu
+fF94Gu
+fF94Ju
+fF94Ru
+fF94^u
+fF9<@u
+fF9<Fu
+fF9<Zu
+fF9<su
+fF9dB
+fF9tG
+fG9,Fu
+fG9TA
+f[!h 
+false
+fffffff
+fogrp
+g4l#u 
+gSB5*!
+general
+h0F0K0
+hA_A^A]A\_^[]
+hLci<3
+herab
+heraus
+hfdDD
+ically
+icise
+icism
+icize
+ih ng
+ineID
+internal error
+invalid argument
+invalid hash bucket count
+invalid state
+invalid vector subscript
+invalid vector<bool> subscript
+j w ax
+j0j0L0d0
+j0n0K0
+jh uw - ae n
+k VWATAVAWH
+k0L0d0
+k`pru
+kernel32
+kernelbase.dll
+kkWfd
+kpq\ 
+l$ H;
+l$ VATAVH
+l$ VATAWH
+l$ VWAVH
+l$(f9
+l$(f;
+l$4I;
+l$8Hc
+l$8Mc
+l$PE3
+l$pL;m
+l$ptrfA
+l$xL!
+l`UROM=;98310-*)(&$"
+letterNgrams@%d=%s
+libcfsm
+mQ'Y 
+map/set too long
+medianame
+memcmp
+memcpy
+memmove
+memory allocation failed
+memset
+mixlingual
+msvcp_win.dll
+nI9>h
+nmjm 
+ntdll.dll
+ntelA
+o0a0L0d0
+o0d0K0
+onecore\internal\sdk\inc\wil\Staging.h
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+ow"tT
+p AWH
+p WAVAWH
+pA_A^A]A\_
+pA_A^A]A\_^]
+particle
+qfefkv}
+qsuwc;Wo?opP~|}|
+r0H9y
+request not implemented
+rxA;F@s
+s WAVAWH
+s"fA99u
+s+fA;v>A
+s-fA;v@u&
+s.I;S
+s.fA;VPt
+s0+~ 
+s7fA9)u1
+s<fA99u6fD92u0I
+s=L9.t8
+sUIL\s
+sXH9{`v-H
+s]L9.tXL
+s^I{ 
+schab
+sh uw - ae n
+sp:address
+sp:cardinal
+sp:commonTerms
+sp:date
+sp:datetime
+sp:email
+sp:filePath
+sp:measurement
+sp:mixedAcronymWord
+sp:phoneNumber
+sp:time
+sp:webUrl
+staus
+steil
+symbol
+t!D8=
+t$ UWATAVAWH
+t$ UWAVH
+t$ WATAUAVAWH
+t$ WATAVH
+t$ WATAWH
+t$ WAUAVH
+t$ WAVAWH
+t$ WH
+t$$fD
+t$(H;
+t$0H;\$8s*H
+t$4E3
+t$8E3
+t$@D;
+t$@E3
+t$@Hc
+t$D9P
+t$HL;
+t$`E3
+t$`I9>t/H9~0t)H9~8t#L
+t$`I;
+t$xH;
+t'HcG
+t)LcP
+t-LcD$`H
+t.fA;
+t2LcD$0
+t2f9:t-f9z
+t3E9oXt
+t3H9_ t(H
+t5fA9(t/I
+t6f9/t$H
+t6f9:t1D
+t;90u
+t;A9l
+t;}@s
+t>A9l
+t?H9X
+t@L;P
+tCR;\HdY\
+tDH9k
+tDH9z
+tDf9)t?f
+tDfA93t>
+tEL;I u
+tHM9Q
+tKH9{ tEH9{(t?H
+tL75}
+tS;+ 
+tSD;Q 
+tSH9_ tMH
+tTH9_ tNH
+tVH9Y
+tWH9\$PtPH
+tWIcG
+tWf9*tRD
+tZf9.tUH
+t\f9:tW
+t_9\$htY9\$`tS
+tc@8=
+tcH9Y
+tiH!\$PL
+tlfD90tfH
+tsHcp
+tts:phrase
+twf91trf92tmH
+tyD8-
+tyD8="
+u fA9*u
+u'fA9y
+u0d0K0
+u3fD9
+u;E9d
+uDfE;~:t=fE;~<t6
+uGfD9l$pu?I
+uPH9i
+uPK9t
+uZHcC0
+u`L!E
+ugHcI
+unordered_map/set too long
+vGfA;
+vRfD;
+vWewe
+vector too long
+vector<bool> too long
+verbing
+verbpastp
+vmhfjov
+w aa n
+w aa ng
+wLD;W
+wP=/#
+wcschr
+wcscmp
+wcsncmp
+wcsrchr
+wcsstr
+word@-1=%s
+word@-2=%s
+wsqnmcb_OD420-+ 
+x ATAUAVAW
+x ATAUAVAWE3
+x ATAV
+x ATAVAW
+x ATAVAWH
+x AUAVAWE3
+x AUAVAWH
+x AVAW
+x AVAWH
+x AVAWL
+x AVH
+x UATAUAVAWH
+x UAVAWH
+x&fD9e
+x'L+t$P
+x(kL$@
+x.fD9d$pt&
+x1fD9l$pt)H
+x4D9u(t.L
+x6;\$@s0H
+x;Hcu
+xA_A^A]A\_^[]
+xO;t$@sI
+xO;|$@sI
+xRH9t$8t!I
+xSf9U
+xXHcE
+xdL9T$0v
+xe\Y]fv
+xnbUH<1( 
+xq;\$hsXI
+x~;t$hsxH
+y aa ng
+y ae n
+y aw ng
+y ow ng
+y uw 1 - ax n
+yk 1"""
+zhHt!
+{ ATAVAWH
+{ AVH
+{04096682-6ece-4e9e-90c1-52d81f0422ed}
+{12CE94A0-DEFB-11D2-B31D-00600893A857}
+{954F1760-C1BC-11D0-9692-00A0C908146E}
+{9717fc70-c1bc-11d0-9692-00a0c908146e}
+{A7Dd
+{BE41F4E6-9EAD-498f-A473-F3CA66F9BE8B}
+{CCA22CF4-59FE-11D1-BBFF-00C04FB97FDA}
+{DE4D5E6A-593F-4047-9D64-F997B031E6D6}
+{E0831C90-BAB0-4ca5-B9BD-EA254B538DAC}
+{E1E8F15E-8BEC-45DF-83BF-50FF84D0CAB5}
+{E9B1DF65-08F1-438b-8277-EF462B23A792}
+{XH9{ht29{`v
+{ri`XPH@92,&!
+{wwgEbDgxvvfGb
+|$ AVH
+|$ E3
+|$ L;
+|$ UATAUAVAWH
+|$ UAVAWH
+|$ UH
+|$(fE
+|$0A_A^
+|$0fD
+|$4A;
+|$8A_A^A\
+|$8A_A^A]
+|$8Hc
+|$@@8y
+|$@A;
+|$@A_A^A]A\
+|$@E#
+|$@E3
+|$@L;
+|$@Mc
+|$@fE
+|$D/u
+|$HE3
+|$P9L$@
+|$PD;
+|$PM;
+|$XA+
+|$XE3
+|$`I;
+|$hHk
+|$hHu5
+|$hfA;
+|$pI;
+|T8T 
+|^t^ 
+|bK7(
+|m`TG=3* 
+|nhZNLFE9-"
+|obXOF>82,'#
+}J;Ea
+}Y&b 
+}rf[QG<4+#
+}tMcF
+~(HcM8H
+~0H+~(H
+~8I9.
+~DA9nD
+~V|x{w
+~vt^ 
+~|wmW)
+~}string too long

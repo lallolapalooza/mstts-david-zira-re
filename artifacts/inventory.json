@@ -1,0 +1,191 @@
+{
+  "root": "C:\\Users\\[user]\\Downloads\\mstts-re",
+  "files": [
+    {
+      "path": "C:\\Windows\\System32\\speech_onecore\\engines\\tts\\MSTTSEngine_OneCore.dll",
+      "size": 1953792,
+      "sha256": "557bab541360c8f805477925645b7d98bd16f30d237aa01e15d7b455f7bac3ac",
+      "kind": "PE",
+      "pe": {
+        "machine": "0x8664",
+        "image_base": "0x180000000",
+        "timestamp": 897197482,
+        "file_version": "10.3.21207.0",
+        "pdb": "MSTTSEngine_OneCore.pdb"
+      }
+    },
+    {
+      "path": "C:\\Windows\\System32\\speech_onecore\\engines\\tts\\MSTTSLoc_OneCore.dll",
+      "size": 757760,
+      "sha256": "df438c7435b7d51aca420d7917e6b44160e399b7604444b11eed1f72cbafa5f9",
+      "kind": "PE",
+      "pe": {
+        "machine": "0x8664",
+        "image_base": "0x180000000",
+        "timestamp": 2148966043,
+        "file_version": "10.3.21207.0",
+        "pdb": "MSTTSLoc_OneCore.pdb"
+      }
+    },
+    {
+      "path": "C:\\Windows\\System32\\Speech\\Engines\\TTS\\MSTTSEngine.dll",
+      "size": 1045888,
+      "sha256": "28666e36e04260f376bdf0524e9b12d709b03f001e3c6e5cdca8767b1a31ff1d",
+      "kind": "PE",
+      "pe": {
+        "machine": "0x8664",
+        "image_base": "0x180000000",
+        "timestamp": 4007579395,
+        "file_version": "11.0.58.18",
+        "pdb": "MSTTSEngine.pdb"
+      }
+    },
+    {
+      "path": "C:\\Windows\\System32\\Speech\\Engines\\TTS\\MSTTSLoc.dll",
+      "size": 557056,
+      "sha256": "e7d021bbbe0b81aedbdfa62e42f9ec1828142fb9f8d6793f73b778ffb626e440",
+      "kind": "PE",
+      "pe": {
+        "machine": "0x8664",
+        "image_base": "0x180000000",
+        "timestamp": 2376890256,
+        "file_version": "11.0.58.18",
+        "pdb": "MSTTSLoc.pdb"
+      }
+    },
+    {
+      "path": "C:\\Windows\\System32\\Speech\\Common\\sapi.dll",
+      "size": 1515520,
+      "sha256": "a62010e17dfde9c3ab7eca929fdf5cbf1657fdb77b56a5666de6b3421aa990db",
+      "kind": "PE",
+      "pe": {
+        "machine": "0x8664",
+        "image_base": "0x180000000",
+        "timestamp": 1881841594,
+        "file_version": "5.3.32117.0",
+        "pdb": "sapi.pdb"
+      }
+    },
+    {
+      "path": "C:\\Windows\\System32\\Windows.Media.Speech.dll",
+      "size": 1592376,
+      "sha256": "6d3c83157c2ce1799284f685a27f4d3d0ba2724c67742ae8683ec57e288de335",
+      "kind": "PE",
+      "pe": {
+        "machine": "0x8664",
+        "image_base": "0x180000000",
+        "timestamp": 871089335,
+        "file_version": "10.0.26100.9278",
+        "pdb": "Windows.Media.Speech.pdb"
+      }
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033David.APM",
+      "size": 7939268,
+      "sha256": "eeef586b4a64c7450c5ff89f263264a1861384567439a78f30ce180cdc0a24a7",
+      "kind": "APM"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033David.BEP",
+      "size": 1776,
+      "sha256": "0f71e4e02034b8ced8ed9f1f9779e17dc05b92f0b07710cca102ccc74bb527c8",
+      "kind": "BEP"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033David.INI",
+      "size": 912,
+      "sha256": "a4cf266374abb0b9157e1f60b7ebf72b526174c312c4e6bcfc908aace94d506c",
+      "kind": "ASCII text"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033Zira.APM",
+      "size": 2406610,
+      "sha256": "77c9a568ea19f2b6e3c6747c0ddb791b16e2c844255bbfd380b291a3ff23d924",
+      "kind": "APM"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033Zira.BEP",
+      "size": 1776,
+      "sha256": "a300fb916679a7275df11b3323eaa1a6ad5a52862cbf845b7c6e09b7176df86e",
+      "kind": "BEP"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033Zira.INI",
+      "size": 1359,
+      "sha256": "2d475afd1d833a38fb81fd1d9b3551f2cb8728d5725ee8ac74e2d92297ac61fa",
+      "kind": "ASCII text"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033Zira.SPEECHUX.NUS",
+      "size": 1389270,
+      "sha256": "8b42556dbae49de4084a1403e5ed8e4c58c0b2e2a39b3bd30805364761503454",
+      "kind": "binary"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033Zira.TBT.NUS",
+      "size": 1988482,
+      "sha256": "c553acd12df4776bfc8443838d2f144257a3fe3d967af51f9ff4ebc173c098a5",
+      "kind": "binary"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\MSTTSLocEnUS.dat",
+      "size": 9804832,
+      "sha256": "dd5f025db2296094d44e123cb42d5d7c92442804a45f250373ac5285d80e6ce2",
+      "kind": "binary"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\MSTTSLocEnUS.INI",
+      "size": 1386,
+      "sha256": "213b107750ae8974025c1113c9dcc15e54a95faf0a822be6ace1425b75692b83",
+      "kind": "UTF-16 text"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033Mark.APM",
+      "size": 1967740,
+      "sha256": "956930b9a2ecd848dfa69d5a6bf9773bcac201ff1bee3ac66edca6089397056b",
+      "kind": "APM"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033Mark.INI",
+      "size": 1234,
+      "sha256": "66ff8fbdcd3773bd47c6cd082def91836e0aefff8d96e8d4cd0b2b6a89a31ada",
+      "kind": "ASCII text"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033Mark.SPEECHUX.NUS",
+      "size": 1141407,
+      "sha256": "93660b4b7bcddcd8eafe514f0b2a4f4f9e4da9e11a2b94c2f3167faf97dbc1a2",
+      "kind": "binary"
+    },
+    {
+      "path": "C:\\Windows\\Speech_OneCore\\Engines\\TTS\\en-US\\M1033Mark.TBT.NUS",
+      "size": 1644398,
+      "sha256": "019f5745e6a7719cd4288888e53ee3ad02e9374610a96adafcbacfea9c08413f",
+      "kind": "binary"
+    },
+    {
+      "path": "C:\\Windows\\Speech\\Engines\\TTS\\en-US\\M1033ZIR.APM",
+      "size": 6182080,
+      "sha256": "13469bbe905fb45dbb786947d9b632e7ede48464a0c3be0e68ac5bbac2312f03",
+      "kind": "APM"
+    },
+    {
+      "path": "C:\\Windows\\Speech\\Engines\\TTS\\en-US\\M1033ZIR.INI",
+      "size": 494,
+      "sha256": "97d701c0fa406215590605c65fb1f5ac358dcf62737ea46e4346f74487d2de56",
+      "kind": "ASCII text"
+    },
+    {
+      "path": "C:\\Windows\\Speech\\Engines\\TTS\\en-US\\M1033ZIR.Keyboard.NUS",
+      "size": 17395,
+      "sha256": "f33522c8863b66f185cf9d10288ba9c659951d96f3750268628096d67246d964",
+      "kind": "binary"
+    },
+    {
+      "path": "C:\\Windows\\Speech\\Engines\\TTS\\en-US\\MSTTSLocEnUS.dat",
+      "size": 9258072,
+      "sha256": "21daa790461300128dd98343930ea0cb213aa4d35ad3511e2f448edc93e8c9d4",
+      "kind": "binary"
+    }
+  ]
+}

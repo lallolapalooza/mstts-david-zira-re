@@ -1,0 +1,8 @@
+SAPI determinism probe: 3 renders per voice of "Parity check 123. The quick brown fox jumps over the lazy dog."
+
+327cefeccf1921fedbb4f29e63d1e3cce26ef9e8b605e2d1b003688b23bd62bf  artifacts/probes/determinism\David_1.wav
+327cefeccf1921fedbb4f29e63d1e3cce26ef9e8b605e2d1b003688b23bd62bf  artifacts/probes/determinism\David_2.wav
+327cefeccf1921fedbb4f29e63d1e3cce26ef9e8b605e2d1b003688b23bd62bf  artifacts/probes/determinism\David_3.wav
+cc456c7b150ac0c8f17229c3beb5281509deb9c2c4182d531475ef56f40f00d0  artifacts/probes/determinism\Zira_1.wav
+cc456c7b150ac0c8f17229c3beb5281509deb9c2c4182d531475ef56f40f00d0  artifacts/probes/determinism\Zira_2.wav
+cc456c7b150ac0c8f17229c3beb5281509deb9c2c4182d531475ef56f40f00d0  artifacts/probes/determinism\Zira_3.wav

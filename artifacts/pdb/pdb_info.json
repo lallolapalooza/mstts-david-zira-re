@@ -1,0 +1,38 @@
+{
+  "MSTTSEngine_OneCore.dll": {
+    "pdb": "MSTTSEngine_OneCore.pdb",
+    "guid": "1F67F4E6D1A155AD237D33BA767288CB",
+    "age": 1,
+    "symbol_url": "https://msdl.microsoft.com/download/symbols/MSTTSEngine_OneCore.pdb/1F67F4E6D1A155AD237D33BA767288CB1/MSTTSEngine_OneCore.pdb"
+  },
+  "MSTTSLoc_OneCore.dll": {
+    "pdb": "MSTTSLoc_OneCore.pdb",
+    "guid": "2959CA59D12EEC75E48D59C3007B8E16",
+    "age": 1,
+    "symbol_url": "https://msdl.microsoft.com/download/symbols/MSTTSLoc_OneCore.pdb/2959CA59D12EEC75E48D59C3007B8E161/MSTTSLoc_OneCore.pdb"
+  },
+  "MSTTSEngine.dll": {
+    "pdb": "MSTTSEngine.pdb",
+    "guid": "59E66B980730CDE6CBA8360B7791261E",
+    "age": 1,
+    "symbol_url": "https://msdl.microsoft.com/download/symbols/MSTTSEngine.pdb/59E66B980730CDE6CBA8360B7791261E1/MSTTSEngine.pdb"
+  },
+  "MSTTSLoc.dll": {
+    "pdb": "MSTTSLoc.pdb",
+    "guid": "53D14A8CADC20004F007E65FE80AF47B",
+    "age": 1,
+    "symbol_url": "https://msdl.microsoft.com/download/symbols/MSTTSLoc.pdb/53D14A8CADC20004F007E65FE80AF47B1/MSTTSLoc.pdb"
+  },
+  "sapi.dll": {
+    "pdb": "sapi.pdb",
+    "guid": "073B67EC58E22B650D571053004D969D",
+    "age": 1,
+    "symbol_url": "https://msdl.microsoft.com/download/symbols/sapi.pdb/073B67EC58E22B650D571053004D969D1/sapi.pdb"
+  },
+  "Windows.Media.Speech.dll": {
+    "pdb": "Windows.Media.Speech.pdb",
+    "guid": "91B03AA65D877AFF548967349179CAD8",
+    "age": 1,
+    "symbol_url": "https://msdl.microsoft.com/download/symbols/Windows.Media.Speech.pdb/91B03AA65D877AFF548967349179CAD81/Windows.Media.Speech.pdb"
+  }
+}
